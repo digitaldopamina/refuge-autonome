@@ -200,6 +200,68 @@ Avant d'acheter un appareil, pensez aux solutions d'isolation temporaire qui ré
 
 **Fermer les pièces inutilisées :** en cas de chauffage réduit, concentrez la chaleur dans les pièces habitées en fermant les portes des pièces vides. Chauffer 40m² est deux fois moins cher que chauffer 80m².
 
+## Cas pratiques : quelle solution pour quelle situation
+
+### Appartement en ville, panne de chaudière collective
+
+La situation la plus fréquente. La chaudière collective de l'immeuble est en panne, le gestionnaire annonce 3 à 7 jours de délai. Votre logement descend à 12-14°C.
+
+**Solution recommandée :** radiateur à inertie électrique 1500W par pièce principale (salon + chambre). Coût : 300-500€ pour deux appareils. Pas de risque CO, pas de manipulation de bouteilles. Complétez avec des couvertures de survie pour les nuits.
+
+**À ne pas faire :** apporter un chauffage à gaz bouteille sans ouvrir les fenêtres — c'est la première cause d'accidents CO en appartement.
+
+### Maison individuelle, coupure électrique prolongée (tempête)
+
+Orages, tempête de neige, verglas — le réseau électrique est coupé pour 24 à 72 heures. Votre chauffage (PAC, convecteurs électriques, chaudière électrique) est hors service.
+
+**Solution recommandée :** chauffage à gaz bouteille pour le salon, habillage chaud pour les chambres. Regroupez la famille dans la pièce principale et fermez les autres. Fenêtre entrouverte permanente pour la ventilation, détecteur CO actif.
+
+**Si vous avez une cheminée ou un poêle à bois :** c'est le moment de l'utiliser. Assurez-vous que le conduit est propre (ramonage annuel) avant l'hiver.
+
+**Si vous avez un groupe électrogène :** utilisation extérieure uniquement, jamais dans le garage ou dans la maison. Le tuyau d'alimentation entre dans la maison, pas l'appareil lui-même.
+
+### Zone rurale isolée, hiver rigoureux
+
+Température régulièrement sous -10°C, routes parfois coupées, dépendance au fioul ou au bois. La résilience passe par l'anticipation.
+
+**Configuration idéale :**
+- Chaudière principale (fioul, gaz, bois) avec contrat de maintenance annuel
+- Poêle à bois dans le salon en backup — alimenté en bois sec stocké sur place (minimum 2 stères)
+- Stock de fioul ou pellets pour 3 mois minimum (les livraisons peuvent être impossibles en hiver rigoureux)
+- Groupe électrogène pour l'éclairage et le frigo en cas de panne EDF
+
+**Ce qui fait la différence :** les gens qui traversent bien les hivers difficiles ont anticipé. Ils ont leur bois rentré en septembre, leur cuve à fioul pleine en octobre, leur chaudière révisée en novembre.
+
+### Famille avec jeunes enfants ou personnes âgées
+
+La priorité absolue est la chambre. Les enfants et les personnes âgées sont plus sensibles aux basses températures.
+
+**Température minimale de confort :**
+- Chambre adulte : 16-18°C
+- Chambre enfant ou personne âgée : 18-20°C
+- Salon : 19-21°C
+
+**En dessous de 16°C :** risque de problèmes de santé (hypothermie, pathologies respiratoires) pour les personnes fragiles. Si vous ne pouvez pas maintenir ces températures, envisagez l'hébergement chez de la famille ou dans un centre d'accueil municipal (les mairies ouvrent des centres de chaleur en cas d'alerte grand froid).
+
+**Solution chauffage chambre :** radiateur à inertie 750W-1000W dans chaque chambre enfant, thermostat réglé à 19°C, programmé pour la nuit. C'est un investissement de 150-200€ par chambre qui peut éviter bien des problèmes.
+
+## Les erreurs à ne jamais commettre
+
+**Erreur n°1 : le groupe électrogène à l'intérieur**
+Chaque hiver, des accidents mortels. Un groupe électrogène produit autant de CO qu'une dizaine de voitures. Dans un garage fermé ou une cave, il tue en moins d'une heure. Toujours à l'extérieur, minimum 3 mètres des ouvertures.
+
+**Erreur n°2 : chauffer toute la nuit au gaz sans ventilation**
+On s'endort avec un chauffage à gaz dans une chambre hermétique. Le CO monte progressivement. On ne se réveille pas. C'est pour ça que la règle est absolue : gaz = ventilation ouverte ou appareil éteint pour dormir.
+
+**Erreur n°3 : utiliser le four de cuisine comme chauffage**
+Dangereux (four électrique ou gaz mal adapté) et peu efficace. Le four est conçu pour cuire, pas pour chauffer une pièce.
+
+**Erreur n°4 : rallonge sous-dimensionnée**
+Un radiateur électrique de 2000W sur une rallonge fine de 10 mètres non prévue pour cette puissance peut provoquer un incendie. Toujours brancher un radiateur directement sur une prise murale, ou sur une multiprise de qualité avec disjoncteur intégré.
+
+**Erreur n°5 : acheter en urgence en plein hiver**
+En décembre-janvier, les modèles vendables sont soldés ou en rupture. Les prix augmentent. Préparez votre équipement en septembre-octobre.
+
 ## Ce qu'il faut faire avant le premier grand froid
 
 **En septembre/octobre, avant que les rayons soient vides :**
