@@ -161,6 +161,47 @@ const pillars = [
     </div>
   </section>
 
+  <!-- YOUTUBE -->
+  <section class="section youtube-section">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <p class="label">Chaîne YouTube</p>
+          <h2>Nos dernières vidéos</h2>
+        </div>
+        <a href="https://www.youtube.com/@refugeautonome" target="_blank" rel="noopener" class="btn btn--outline">Voir la chaîne →</a>
+      </div>
+      <div class="youtube-grid">
+        <div class="youtube-embed">
+          <div class="youtube-wrapper">
+            <iframe
+              src="https://www.youtube.com/embed/hQuN-RpK6Mk"
+              title="Sac de survie 72 heures : quoi préparer sans se surcharger ?"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              loading="lazy"
+            ></iframe>
+          </div>
+          <p class="youtube-title">Sac de survie 72 heures : quoi préparer sans se surcharger ?</p>
+        </div>
+        <div class="youtube-embed">
+          <div class="youtube-wrapper">
+            <iframe
+              src="https://www.youtube.com/embed/lCKxGWBDOqM"
+              title="Pourquoi l'État nous recommande de tenir 72 heures ?"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              loading="lazy"
+            ></iframe>
+          </div>
+          <p class="youtube-title">Pourquoi l'État nous recommande de tenir 72 heures ?</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- NEWSLETTER -->
   <section class="newsletter-section">
     <div class="container--narrow newsletter-inner">
@@ -346,7 +387,37 @@ const pillars = [
   font-size: 0.75rem !important;
   color: var(--text-muted) !important;
 }
+/* YOUTUBE */
+.youtube-section { border-top: 1px solid var(--border-subtle); }
+.youtube-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+.youtube-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+}
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+}
+.youtube-title {
+  margin-top: 0.75rem;
+  font-family: var(--font-sub);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
 @media (max-width: 768px) {
   .pillars-grid { grid-template-columns: 1fr; }
+  .youtube-grid { grid-template-columns: 1fr; }
 }
 </style>
