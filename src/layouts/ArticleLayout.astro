@@ -10,9 +10,10 @@ interface Props {
   category: string;
   tags?: string[];
   readingTime?: number;
+  image?: string;
 }
 
-const { title, description, pubDate, category, tags, readingTime } = Astro.props;
+const { title, description, pubDate, category, tags, readingTime, image } = Astro.props;
 
 const categoryLabels: Record<string, string> = {
   preparation: 'Préparation',
@@ -38,6 +39,7 @@ const formattedDate = pubDate.toLocaleDateString('fr-FR', {
           </a>
           {readingTime && <span class="reading-time">{readingTime} min de lecture</span>}
         </div>
+        {image && <img src={image} alt={title} class="article-hero-image" />}
         <h1 class="article-title">{title}</h1>
         <p class="article-description">{description}</p>
         <div class="article-byline">
@@ -74,6 +76,14 @@ const formattedDate = pubDate.toLocaleDateString('fr-FR', {
   padding: 3rem 0 2.5rem;
   border-bottom: 1px solid var(--border-subtle);
   margin-bottom: 2.5rem;
+}
+.article-hero-image {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 2rem;
+  display: block;
 }
 .article-meta-top {
   display: flex;

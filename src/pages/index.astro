@@ -101,12 +101,15 @@ const pillars = [
         <div class="grid-3">
           {featured.map(article => (
             <a href={`/blog/${article.id}`} class="article-card">
-              <div class="article-card__image-placeholder">
-                {article.data.category === 'preparation' ? '🎒' :
-                 article.data.category === 'equipement' ? '⚡' :
-                 article.data.category === 'habitat' ? '🏡' :
-                 article.data.category === 'sante' ? '🩹' : '🔒'}
-              </div>
+              {article.data.image
+                ? <img src={article.data.image} alt={article.data.title} class="article-card__image" loading="lazy" />
+                : <div class="article-card__image-placeholder">
+                    {article.data.category === 'preparation' ? '🎒' :
+                     article.data.category === 'equipement' ? '⚡' :
+                     article.data.category === 'habitat' ? '🏡' :
+                     article.data.category === 'sante' ? '🩹' : '🔒'}
+                  </div>
+              }
               <div class="article-card__body">
                 <span class={`category-badge category-badge--${article.data.category}`}>
                   {categoryLabels[article.data.category]}
@@ -138,12 +141,15 @@ const pillars = [
       <div class="grid-3">
         {recent.map(article => (
           <a href={`/blog/${article.id}`} class="article-card">
-            <div class="article-card__image-placeholder">
-              {article.data.category === 'preparation' ? '🎒' :
-               article.data.category === 'equipement' ? '⚡' :
-               article.data.category === 'habitat' ? '🏡' :
-               article.data.category === 'sante' ? '🩹' : '🔒'}
-            </div>
+            {article.data.image
+              ? <img src={article.data.image} alt={article.data.title} class="article-card__image" loading="lazy" />
+              : <div class="article-card__image-placeholder">
+                  {article.data.category === 'preparation' ? '🎒' :
+                   article.data.category === 'equipement' ? '⚡' :
+                   article.data.category === 'habitat' ? '🏡' :
+                   article.data.category === 'sante' ? '🩹' : '🔒'}
+                </div>
+            }
             <div class="article-card__body">
               <span class={`category-badge category-badge--${article.data.category}`}>
                 {categoryLabels[article.data.category]}
@@ -387,6 +393,13 @@ const pillars = [
   font-size: 0.75rem !important;
   color: var(--text-muted) !important;
 }
+.article-card__image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
 /* YOUTUBE */
 .youtube-section { border-top: 1px solid var(--border-subtle); }
 .youtube-grid {
