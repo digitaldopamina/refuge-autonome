@@ -1,49 +1,243 @@
 ---
-title: "Protéger ses documents importants : versions numériques et physiques"
-description: "Comment sauvegarder et protéger vos documents essentiels contre le feu, l'eau et le vol — coffre, cloud sécurisé, copie numérique."
-pubDate: 2024-10-36
-category: securite
-tags: [documents, sécurité, sauvegarde, protection]
-featured: false
+title: "Documents importants : comment les protéger et les sauvegarder"
+description: "Quels documents essentiels conserver, comment les protéger physiquement et numériquement, et comment les retrouver vite en cas d'urgence."
+pubDate: 2024-10-18
+category: preparation
+tags: [documents, sauvegarde, urgence, administratif, numérique, protection]
 image: "/images/documents-importants.jpg"
-readingTime: 8
+readingTime: 11
 ---
 
-## Introduction
+Un incendie, une inondation, un cambriolage, une évacuation d'urgence. Dans ces situations, les gens récupèrent d'abord leurs enfants, leurs animaux, parfois un sac de départ. Les documents — souvent — restent derrière.
 
-Comment sauvegarder et protéger vos documents essentiels contre le feu, l'eau et le vol — coffre, cloud sécurisé, copie numérique.
+Reconstruire son dossier administratif après une catastrophe prend des mois. Certains documents sont très longs à obtenir (actes de naissance anciens, jugements de divorce, titres de propriété). D'autres sont impossibles à remplacer complètement (photos de famille, lettres personnelles, archives).
 
-Cet article détaille tout ce que vous devez savoir sur ce sujet essentiel pour l'autonomie de votre famille.
+Anticiper, c'est prendre 2 heures un dimanche pour rassembler, photocopier, numériser et protéger ces documents. C'est un investissement en temps qui peut vous faire gagner des années de galères administratives.
 
-## Pourquoi c'est important
+## La liste complète des documents à protéger
 
-La préparation est un acte responsable. Comme souscrire une assurance habitation, constituer des réserves et apprendre les bons gestes, c'est se donner les moyens d'affronter l'imprévu sans panique.
+Voici tous les documents que vous devriez avoir en version originale, photocopie, et idéalement version numérique.
 
-## Les points essentiels à retenir
+### Documents d'identité et d'état civil
 
-### 1. Commencer petit
+**Pour chaque membre de la famille :**
+- Carte nationale d'identité (CNI)
+- Passeport
+- Acte de naissance (original ou copie certifiée conforme)
+- Livret de famille
+- Jugement d'adoption (si applicable)
+- Acte de mariage ou PACS
+- Jugement de divorce (si applicable)
+- Livret militaire (si applicable)
 
-Inutile de tout faire d'un coup. Chaque semaine, ajoutez un élément à votre préparation. En 3 mois, vous serez bien mieux équipés que 95% de la population.
+**Durée de validité à vérifier :** CNI adulte 10 ans (passeport 10 ans), CNI enfant 5 ans (passeport 5 ans). Vérifiez les dates de validité maintenant et notez quand les renouveler.
 
-### 2. Tester et adapter
+### Documents de résidence et propriété
 
-Le matériel qui n'a jamais été testé ne sert à rien. Essayez vos équipements régulièrement dans des conditions normales pour savoir comment les utiliser quand vous en aurez vraiment besoin.
+- Titre de propriété ou bail de location
+- Factures récentes d'électricité, gaz ou eau (servent de justificatif de domicile)
+- Règlement de copropriété (si propriétaire)
+- Diagnostics immobiliers (DPE, amiante, etc.)
+- Contrat de construction de maison
+- Plans de la maison
 
-### 3. Impliquer toute la famille
+### Documents financiers et bancaires
 
-La préparation doit être un projet familial. Chaque membre doit connaître le plan, savoir où est le matériel et comment s'en servir.
+- Relevés d'identité bancaire (RIB) de tous vos comptes
+- Derniers relevés de comptes (3 derniers mois)
+- Contrats d'assurance-vie, PEA, compte-titres
+- Contrats de prêt immobilier et consommation
+- Tableau d'amortissement des prêts
+- Contrats d'assurance (habitation, auto, santé, prévoyance)
+- Numéros de contrats et coordonnées des assureurs
+- Derniers avis d'imposition (2 dernières années)
+- Déclarations de revenus
+- Bulletins de salaire (6 derniers mois)
+- Relevés de la caisse de retraite (Relevé de Situation Individuelle)
 
-## Recommandations pratiques
+### Documents véhicules
 
-- Faites un bilan de votre situation actuelle
-- Identifiez les lacunes prioritaires
-- Établissez un budget mensuel raisonnable (50-100€/mois suffisent pour progresser)
-- Rejoignez des communautés locales de préparation
+- Carte grise (certificat d'immatriculation) de chaque véhicule
+- Permis de conduire
+- Carte d'assurance auto (carte verte)
+- Dernier contrôle technique
 
-## Conclusion
+### Documents de santé
 
-Comment sauvegarder et protéger vos documents essentiels contre le feu, l'eau et le vol — coffre, cloud sécurisé, copie numérique. L'essentiel est de commencer — même imparfaitement. Un kit incomplet vaut mieux que pas de kit du tout.
+- Carnet de santé de chaque enfant
+- Carnet de vaccination de toute la famille
+- Ordonnances des médicaments courants (avec le nom du médicament, dosage, prescripteur)
+- Attestation carte Vitale
+- Résultats d'analyses médicales importantes
+- Compte-rendu opératoires si applicable
+- Groupe sanguin de chaque membre (sur un document ou une carte dédiée)
+
+### Documents professionnels
+
+- Diplômes et attestations de formation (les originaux ne se réémettent pas toujours)
+- Contrats de travail (CDI, CDD)
+- Bulletins de paie récents
+- Relevé de carrière Assurance Retraite
+- Attestations de droits à la formation (CPF)
+
+### Documents numériques et mots de passe
+
+- Liste des comptes en ligne importants avec identifiants (conservée de façon sécurisée)
+- Codes PIN de carte bancaire (JAMAIS écrits tels quels — utilisez un indice compréhensible pour vous seul)
+- Codes de déverrouillage des téléphones
+- Adresses email et mots de passe principaux
+- Accès aux espaces personnels : impots.gouv.fr, Ameli.fr, retraite.fr
+
+## Organisation physique : le classeur d'urgence
+
+La méthode la plus efficace est le **classeur d'urgence** : un classeur ou pochette rigide contenant les photocopies et certaines originaux des documents essentiels, rangé dans un endroit accessible et connu de tous les adultes du foyer.
+
+**Ce qu'il contient :**
+- Photocopies de tous les documents listés ci-dessus
+- Les originaux des documents d'identité (ou au minimum CNI et passeports)
+- Une liste de contacts d'urgence
+- Un peu de cash (200-500€ en petites coupures)
+- Vos numéros de contrat d'assurance et coordonnées de votre assureur
+
+**Où le ranger :** endroit accessible rapidement, pas trop visible (pas au premier plan en cas de cambriolage), mais que vous pouvez atteindre en 30 secondes. Un tiroir fermé dans la chambre ou dans un placard de couloir fonctionne bien.
+
+**La pochette étanche :** pour les documents les plus importants (CNI, passeports, livret de famille, RIB), investissez dans une pochette étanche (15-20€ en papeterie ou Amazon). En cas d'inondation ou d'incendie avec eau des pompiers, les documents survivent.
+
+**Enveloppes marquées :** pour accélérer la consultation, divisez le classeur en sections avec des onglets : Identité / Immobilier / Banque / Assurances / Santé / Véhicules / Divers.
+
+## La boîte ignifuge
+
+Une **boîte ou coffre-fort ignifuge** protège les documents contre le feu et l'eau. Pas besoin d'un coffre fort intégré au mur — les boîtes portables ignifuges suffisent pour la plupart des foyers.
+
+**Ce qui existe :**
+
+*Boîtes portables ignifuges (30-80€) :*
+- SentrySafe CHW30200 (40€) : 30 minutes de résistance au feu à 927°C, étanche, compact
+- Fireking SafePath (50-70€) : résistance 60 minutes
+- Format A4 ou plus grand pour les documents sans les plier
+
+*Coffres-forts muraux ou à encastrer (150-500€) :*
+- Plus difficiles à emporter mais impossible à sortir facilement lors d'un cambriolage
+- À faire installer par un professionnel pour être vraiment fixés
+
+**Ce que vous y mettez :**
+- Originaux des documents d'identité (si vous acceptez de les laisser là)
+- Actes de propriété
+- Contrats d'assurance-vie
+- Clés USB avec sauvegarde numérique
+- Un peu de cash de réserve
+
+## La sauvegarde numérique
+
+La numérisation complète de vos documents vous permet d'y accéder depuis n'importe quel appareil, n'importe où, même si tous vos documents physiques ont disparu.
+
+**Scanner les documents :**
+
+*Applications smartphone (gratuites et excellentes) :*
+- Adobe Scan (iOS/Android) : scan automatique, PDF OCR, synchronisation Adobe Document Cloud
+- Microsoft Lens (iOS/Android) : s'intègre à OneDrive
+- Genius Scan : simplicité d'usage, export PDF haute qualité
+
+*Scanner plat de bureau :* si vous avez des volumes importants, un scanner Brother ou Canon (60-150€) traite plus vite et donne une meilleure qualité.
+
+**Format recommandé :** PDF, résolution minimum 300 DPI pour que les textes restent lisibles si vous zoomez.
+
+**Nommage des fichiers :** adoptez une convention cohérente, par exemple :
+`Nom_Prénom_TypeDocument_AnnéeValidité.pdf`
+Exemples : `Dupont_Jean_CNI_2032.pdf`, `Dupont_Famille_AssuranceHabitation_2025.pdf`
+
+**Où stocker les numérisations :**
+
+*Option 1 — Cloud (recommandé) :*
+- Google Drive, iCloud ou OneDrive : 15 Go gratuit, accessible de partout
+- Créez un dossier "Documents urgence" avec sous-dossiers thématiques
+- Partagez l'accès avec votre conjoint ou un proche de confiance
+
+*Option 2 — Clé USB dans la boîte ignifuge :*
+- 2 clés USB de 32 Go (10-15€ chacune) contenant vos numérisations
+- Une dans la boîte ignifuge, une chez un proche
+
+*Option 3 — Les deux :* la solution la plus robuste. Le cloud pour l'accessibilité immédiate, la clé USB pour l'indépendance du réseau.
+
+**La règle 3-2-1 pour les sauvegardes :**
+- **3** copies de vos données
+- Sur **2** types de support différents (ex : disque dur + cloud)
+- Dont **1** hors site (chez un proche, dans un coffre en banque, ou dans le cloud)
+
+## Gérer les mots de passe et accès numériques
+
+Vos documents numériques ne servent à rien si vos proches ne peuvent pas y accéder en cas d'urgence (vous êtes hospitalisé, décédé, incapacité).
+
+**Gestionnaire de mots de passe :** Bitwarden (gratuit, open-source) ou 1Password (3-5€/mois) stockent tous vos mots de passe de façon chiffrée. Une seule "master password" donne accès à tout.
+
+**Partage d'urgence :**
+
+*Solution simple :* écrire les mots de passe essentiels sur papier, les mettre dans une enveloppe cachetée signée, et la confier à un notaire ou à un proche de confiance.
+
+*Solution numérique :* Bitwarden Emergency Access permet à une personne de confiance d'accéder à votre coffre en cas d'urgence, avec un délai d'attente que vous fixez (24h, 72h). Si vous ne rejetez pas la demande, l'accès est accordé.
+
+**Ce que vos proches doivent savoir :**
+- Où est votre classeur d'urgence physique
+- Le mot de passe de votre ordinateur (ou comment accéder aux fichiers)
+- L'adresse email et le mot de passe du compte cloud où sont vos numérisations
+- Le nom et coordonnées de votre notaire
+
+## En cas d'urgence : que prendre en premier
+
+Si vous devez quitter votre domicile rapidement, voici l'ordre de priorité pour les documents :
+
+**En 30 secondes (sac de départ préparé) :** 
+- Votre classeur d'urgence ou pochette de documents essentiels
+
+**En 5 minutes :**
+- Classeur d'urgence + clé USB de sauvegarde + cash
+
+**En 15 minutes :**
+- Tout ce qui est ci-dessus + disque dur externe + documents originaux non copiés
+
+**Si vous n'avez pas de classeur d'urgence préparé** et devez partir maintenant : CNI, passeports, livret de famille, clé USB si vous l'avez. Les autres documents se reconstituent, ceux-là moins facilement.
+
+## Reconstruction après une perte de documents
+
+Si malgré tout vous avez perdu vos documents, voici comment procéder :
+
+**Déclaration de perte ou vol :** allez d'abord au commissariat ou à la gendarmerie pour déclarer la perte. Ce récépissé vous sera demandé pour les remplacements.
+
+**Documents à demander en premier :**
+1. Acte de naissance (mairie de naissance, ou via service-public.fr — gratuit, délai 2-5 jours)
+2. CNI et passeport (en mairie avec l'acte de naissance, photo, justificatif domicile)
+3. Carte grise (via ANTS.gouv.fr)
+4. Carte Vitale (Assurance Maladie, via Ameli.fr)
+5. Attestation fiscale (impots.gouv.fr)
+
+**Votre notaire peut aider :** il a accès à une partie des actes en sa possession (acte de vente immobilier, testament, etc.).
+
+**Les assurances :** appelez votre assureur habitation immédiatement. Si la perte est due à un sinistre couvert (incendie, inondation), votre contrat prévoit souvent une prise en charge des frais de reconstitution de documents.
+
+## Calendrier de mise à jour
+
+Les documents ne sont utiles que s'ils sont à jour. Créez un rappel annuel pour vérifier :
+
+**Tous les ans :**
+- Mettre à jour les numérisations des documents qui ont changé
+- Vérifier les dates d'expiration des documents d'identité (anticiper 6 mois avant)
+- Actualiser les bulletins de salaire, avis d'imposition, relevés bancaires
+- Vérifier que les mots de passe notés sont toujours valides
+
+**À chaque changement de situation :**
+- Déménagement : nouveaux justificatifs de domicile, nouveau bail
+- Naissance : acte de naissance, mise à jour du livret de famille
+- Mariage/PACS : acte de mariage ou PACS
+- Achat immobilier : titre de propriété
+- Nouvelle voiture : carte grise, assurance
+- Changement d'emploi : nouveau contrat, bulletins de salaire
 
 ---
 
-*Vous avez des questions sur ce sujet ? Rejoignez notre newsletter pour des conseils hebdomadaires.*
+Deux heures de travail un dimanche, et vous dormez plus tranquillement pour les années qui suivent. C'est probablement le meilleur retour sur investissement en temps de toute la préparation d'urgence.
+
+**Guides complémentaires :**
+- [Kit d'urgence 72h complet](/blog/kit-urgence-72h)
+- [Sac de départ Bug Out Bag](/blog/sac-depart-bug-out-bag)
+- [Sécuriser son logement](/blog/securiser-logement)
+- [Plan d'évacuation familial](/blog/plan-evacuation-famille)
