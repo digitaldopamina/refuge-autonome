@@ -1,0 +1,80 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+export async function getStaticPaths() {
+  return [
+    { params: { category: 'preparation' } },
+    { params: { category: 'equipement' } },
+    { params: { category: 'habitat' } },
+    { params: { category: 'sante' } },
+    { params: { category: 'securite' } },
+  ];
+}
+
+const { category } = Astro.params;
+const allArticles = await getCollection('articles');
+const articles = allArticles
+  .filter(a => a.data.category === category)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const categoryInfo: Record<string, { label: string; desc: string; icon: string }> = {
+  preparation: { label: 'Préparation', desc: 'Kits 72h, réserves alimentaires et hydriques — construire les fondations de votre autonomie.', icon: '🎒' },
+  equipement:  { label: 'Équipement',  desc: 'Énergie solaire, éclairage, communication — le matériel testé et recommandé.', icon: '⚡' },
+  habitat:     { label: 'Habitat autonome', desc: 'Tiny houses, maisons off-grid, récupération d\'eau — vivre en dehors du système.', icon: '🏡' },
+  sante:       { label: 'Santé & Premiers secours', desc: 'Trousses de secours, médicaments essentiels, gestes qui sauvent.', icon: '🩹' },
+  securite:    { label: 'Sécurité', desc: 'Sécuriser son logement, plan d\'évacuation, documents importants.', icon: '🔒' },
+};
+
+const info = categoryInfo[category!] || { label: category, desc: '', icon: '📖' };
+---
+<BaseLayout title={info.label} description={info.desc}>
+  <Header />
+  <main>
+    <section class="page-header">
+      <div class="container">
+        <span class="category-icon">{info.icon}</span>
+        <p class="label">{articles.length} guides</p>
+        <h1>{info.label}</h1>
+        <p class="page-desc">{info.desc}</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        {articles.length > 0 ? (
+          <div class="grid-3">
+            {articles.map(article => (
+              <a href={`/blog/${article.id}`} class="article-card">
+                <div class="article-card__image-placeholder">{info.icon}</div>
+                <div class="article-card__body">
+                  <span class={`category-badge category-badge--${article.data.category}`}>{info.label}</span>
+                  <h3 class="article-card__title">{article.data.title}</h3>
+                  <p class="article-card__excerpt">{article.data.description}</p>
+                  <div class="article-card__meta">
+                    <span>{article.data.pubDate.toLocaleDateString('fr-FR',{day:'numeric',month:'short',year:'numeric'})}</span>
+                    {article.data.readingTime && <span>{article.data.readingTime} min</span>}
+                  </div>
+                </div>
+              </a>
+            ))}
+          </div>
+        ) : (
+          <p class="empty">Aucun article dans cette catégorie pour l'instant.</p>
+        )}
+      </div>
+    </section>
+  </main>
+  <Footer />
+</BaseLayout>
+
+<style>
+.page-header { padding: 3rem 0 2rem; border-bottom: 1px solid var(--border-subtle); }
+.category-icon { font-size: 2.5rem; display: block; margin-bottom: 0.5rem; }
+.page-header h1 { font-size: 2.5rem; margin: 0.5rem 0; }
+.page-desc { color: var(--text-secondary); max-width: 600px; }
+.section { padding: 3rem 0 5rem; }
+.empty { color: var(--text-muted); font-style: italic; }
+</style>

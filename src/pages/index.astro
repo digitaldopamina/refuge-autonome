@@ -1,0 +1,352 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const allArticles = await getCollection('articles');
+const sortedArticles = allArticles.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const featured = sortedArticles.filter(a => a.data.featured).slice(0, 3);
+const recent = sortedArticles.slice(0, 6);
+
+const categoryLabels: Record<string, string> = {
+  preparation: 'Préparation',
+  equipement: 'Équipement',
+  habitat: 'Habitat',
+  sante: 'Santé',
+  securite: 'Sécurité',
+};
+
+const pillars = [
+  { icon: '🎒', title: 'Préparer', desc: 'Kits 72h, réserves alimentaires et hydrique — les bases pour ne jamais être pris au dépourvu.', href: '/categories/preparation', color: 'var(--accent)' },
+  { icon: '⚡', title: 'S\'équiper', desc: 'Énergie solaire, éclairage de secours, communication — l\'équipement qui fait la différence.', href: '/categories/equipement', color: 'var(--green-light)' },
+  { icon: '🏡', title: 'Habiter', desc: 'Tiny houses, maisons autonomes, off-grid — vivre en dehors du système par choix.', href: '/categories/habitat', color: '#7ec8e3' },
+];
+---
+<BaseLayout title="Guides de préparation et autonomie pour votre famille">
+  <Header />
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-bg"></div>
+    <div class="container hero-content">
+      <div class="hero-badge">
+        <span class="pulse-dot"></span>
+        <span>Guides mis à jour régulièrement</span>
+      </div>
+      <h1 class="hero-title">
+        Préparez votre famille.<br/>
+        <em>Sereinement.</em>
+      </h1>
+      <p class="hero-desc">
+        Des guides pratiques et testés pour être autonome face aux imprévus — panne électrique, crise, évacuation. Pas de panique, une méthode.
+      </p>
+      <div class="hero-actions">
+        <a href="/categories/preparation" class="btn btn--primary">Commencer par le kit 72h →</a>
+        <a href="/categories/equipement" class="btn btn--outline">Voir l'équipement</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><span class="stat-num">72h</span><span class="stat-label">Autonomie minimum recommandée</span></div>
+        <div class="stat"><span class="stat-num">4</span><span class="stat-label">Piliers essentiels</span></div>
+        <div class="stat"><span class="stat-num">100%</span><span class="stat-label">Guides testés en conditions réelles</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MARQUEE -->
+  <div class="marquee-bar">
+    <div class="marquee-track">
+      {Array(2).fill(null).map(() => (
+        <>
+          <span>Kit d'urgence 72h</span><span>•</span>
+          <span>Réserve d'eau</span><span>•</span>
+          <span>Énergie solaire</span><span>•</span>
+          <span>Sac de départ</span><span>•</span>
+          <span>Premiers secours</span><span>•</span>
+          <span>Tiny house</span><span>•</span>
+          <span>Autonomie alimentaire</span><span>•</span>
+          <span>Communication de crise</span><span>•</span>
+        </>
+      ))}
+    </div>
+  </div>
+
+  <!-- PILLARS -->
+  <section class="section pillars-section">
+    <div class="container">
+      <div class="pillars-grid">
+        {pillars.map(p => (
+          <a href={p.href} class="pillar-card">
+            <div class="pillar-icon" style={`color:${p.color}`}>{p.icon}</div>
+            <h3 style={`color:${p.color}`}>{p.title}</h3>
+            <p>{p.desc}</p>
+            <span class="pillar-link" style={`color:${p.color}`}>Explorer →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED ARTICLES -->
+  {featured.length > 0 && (
+    <section class="section">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <p class="label">À la une</p>
+            <h2>Guides essentiels</h2>
+          </div>
+          <a href="/blog" class="btn btn--outline">Tous les guides</a>
+        </div>
+        <div class="grid-3">
+          {featured.map(article => (
+            <a href={`/blog/${article.id}`} class="article-card">
+              <div class="article-card__image-placeholder">
+                {article.data.category === 'preparation' ? '🎒' :
+                 article.data.category === 'equipement' ? '⚡' :
+                 article.data.category === 'habitat' ? '🏡' :
+                 article.data.category === 'sante' ? '🩹' : '🔒'}
+              </div>
+              <div class="article-card__body">
+                <span class={`category-badge category-badge--${article.data.category}`}>
+                  {categoryLabels[article.data.category]}
+                </span>
+                <h3 class="article-card__title">{article.data.title}</h3>
+                <p class="article-card__excerpt">{article.data.description}</p>
+                <div class="article-card__meta">
+                  <span>{article.data.pubDate.toLocaleDateString('fr-FR', {day:'numeric',month:'short',year:'numeric'})}</span>
+                  {article.data.readingTime && <span>{article.data.readingTime} min</span>}
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- RECENT ARTICLES -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <p class="label">Dernières publications</p>
+          <h2>Guides récents</h2>
+        </div>
+        <a href="/blog" class="btn btn--outline">Voir tout</a>
+      </div>
+      <div class="grid-3">
+        {recent.map(article => (
+          <a href={`/blog/${article.id}`} class="article-card">
+            <div class="article-card__image-placeholder">
+              {article.data.category === 'preparation' ? '🎒' :
+               article.data.category === 'equipement' ? '⚡' :
+               article.data.category === 'habitat' ? '🏡' :
+               article.data.category === 'sante' ? '🩹' : '🔒'}
+            </div>
+            <div class="article-card__body">
+              <span class={`category-badge category-badge--${article.data.category}`}>
+                {categoryLabels[article.data.category]}
+              </span>
+              <h3 class="article-card__title">{article.data.title}</h3>
+              <p class="article-card__excerpt">{article.data.description}</p>
+              <div class="article-card__meta">
+                <span>{article.data.pubDate.toLocaleDateString('fr-FR', {day:'numeric',month:'short',year:'numeric'})}</span>
+                {article.data.readingTime && <span>{article.data.readingTime} min</span>}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- NEWSLETTER -->
+  <section class="newsletter-section">
+    <div class="container--narrow newsletter-inner">
+      <p class="label">La lettre du Refuge</p>
+      <h2>Chaque semaine, un guide pratique</h2>
+      <p>Rejoignez des milliers de familles qui préparent l'imprévu avec calme. Pas de sensationnalisme, que du concret.</p>
+      <form class="newsletter-form" action="/newsletter" method="POST">
+        <input type="email" name="email" placeholder="votre@email.com" required />
+        <button type="submit" class="btn btn--primary">Rejoindre gratuitement</button>
+      </form>
+      <p class="newsletter-note">Gratuit. Désabonnement en un clic.</p>
+    </div>
+  </section>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+/* HERO */
+.hero {
+  position: relative;
+  padding: 5rem 0 4rem;
+  overflow: hidden;
+}
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(212,130,26,0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+.hero-content { position: relative; max-width: 700px; }
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 0.35rem 0.9rem;
+  border-radius: 20px;
+  font-family: var(--font-sub);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 1.75rem;
+}
+.pulse-dot {
+  width: 7px;
+  height: 7px;
+  background: var(--accent);
+  border-radius: 50%;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
+.hero-title {
+  font-size: clamp(2.5rem, 6vw, 4rem);
+  font-weight: 900;
+  line-height: 1.1;
+  margin-bottom: 1.25rem;
+}
+.hero-title em {
+  font-style: normal;
+  color: var(--accent);
+}
+.hero-desc {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  max-width: 560px;
+  margin-bottom: 2rem;
+}
+.hero-actions { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 3rem; }
+.hero-stats {
+  display: flex;
+  gap: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-subtle);
+  flex-wrap: wrap;
+}
+.stat { display: flex; flex-direction: column; gap: 0.25rem; }
+.stat-num {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--accent);
+  line-height: 1;
+}
+.stat-label {
+  font-family: var(--font-sub);
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+/* PILLARS */
+.section { padding: 4rem 0; }
+.pillars-section { padding: 3rem 0; }
+.pillars-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+.pillar-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 2rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  text-decoration: none;
+  transition: border-color 0.2s, background 0.2s;
+}
+.pillar-card:hover {
+  border-color: var(--border);
+  background: var(--bg-card-hover);
+}
+.pillar-icon { font-size: 2rem; }
+.pillar-card h3 {
+  font-family: var(--font-sub);
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.pillar-card p {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  flex: 1;
+}
+.pillar-link {
+  font-family: var(--font-sub);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-top: 0.5rem;
+}
+
+/* NEWSLETTER */
+.newsletter-section {
+  background: var(--bg-card);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  margin-top: 3rem;
+}
+.newsletter-inner {
+  text-align: center;
+  padding: 4rem 1.5rem;
+}
+.newsletter-inner h2 { font-size: 2rem; margin: 0.75rem 0 1rem; }
+.newsletter-inner > p {
+  color: var(--text-secondary);
+  max-width: 500px;
+  margin: 0 auto 2rem;
+}
+.newsletter-form {
+  display: flex;
+  gap: 0.75rem;
+  max-width: 480px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.newsletter-form input {
+  flex: 1;
+  min-width: 220px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.75rem 1rem;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  outline: none;
+}
+.newsletter-form input:focus { border-color: var(--accent); }
+.newsletter-note {
+  margin-top: 0.75rem !important;
+  font-size: 0.75rem !important;
+  color: var(--text-muted) !important;
+}
+@media (max-width: 768px) {
+  .pillars-grid { grid-template-columns: 1fr; }
+}
+</style>

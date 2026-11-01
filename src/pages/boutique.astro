@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const products = [
+  { name: "Kit d'urgence 72h complet", price: "89€", tag: "Bestseller", emoji: "🎒", desc: "Kit pré-assemblé pour 1 adulte : eau, nourriture, premiers secours, éclairage. Prêt en 5 minutes.", cat: "Préparation" },
+  { name: "Station de recharge EcoFlow River 2", price: "349€", tag: "Recommandé", emoji: "⚡", desc: "256 Wh, 600W de puissance, recharge solaire compatible. La meilleure entrée de gamme.", cat: "Énergie" },
+  { name: "Filtre à eau LifeStraw Family", price: "89€", tag: "", emoji: "💧", desc: "Filtre 1 000 litres d'eau. Idéal pour toute la famille, aucun produit chimique nécessaire.", cat: "Eau" },
+  { name: "Radio à manivelle Eton FRX3+", price: "79€", tag: "", emoji: "📻", desc: "Radio AM/FM/NOAA, lampe intégrée, chargeur USB, résistante aux chocs. L'essentielle.", cat: "Communication" },
+  { name: "Lyophilisés Trek'n Eat — Pack 10 repas", price: "65€", tag: "", emoji: "🍲", desc: "10 repas lyophilisés, conservation 8 ans, 700-800 kcal par sachet. Légers et délicieux.", cat: "Alimentation" },
+  { name: "Sac de départ 40L Tasmanian Tiger", price: "139€", tag: "Pro", emoji: "🎽", desc: "40L, MOLLE, imperméable, ceinture ventrale. Le sac de départ de référence.", cat: "Équipement" },
+  { name: "Couverture de survie × 4", price: "18€", tag: "", emoji: "🌡️", desc: "Couvertures de survie aluminium, légères, conservent 90% de la chaleur corporelle.", cat: "Chaleur" },
+  { name: "Panneau solaire portable 100W", price: "129€", tag: "", emoji: "☀️", desc: "Compatible toutes stations de recharge portables, pliable, efficace même par temps nuageux.", cat: "Énergie" },
+];
+---
+<BaseLayout title="Boutique — Équipements recommandés" description="Notre sélection de matériel de préparation testé et recommandé.">
+  <Header />
+  <main>
+    <section class="page-header">
+      <div class="container">
+        <p class="label">La Réserve</p>
+        <h1>Équipements recommandés</h1>
+        <p class="page-desc">Sélection testée et validée. Certains liens sont affiliés — cela ne change pas votre prix.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="products-grid">
+          {products.map(p => (
+            <div class="product-card">
+              {p.tag && <span class="product-tag">{p.tag}</span>}
+              <div class="product-icon">{p.emoji}</div>
+              <div class="product-cat">{p.cat}</div>
+              <h3 class="product-name">{p.name}</h3>
+              <p class="product-desc">{p.desc}</p>
+              <div class="product-footer">
+                <span class="product-price">{p.price}</span>
+                <a href="#" class="btn btn--primary" style="font-size:0.75rem;padding:0.5rem 1.25rem;">Voir sur Amazon →</a>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</BaseLayout>
+
+<style>
+.page-header { padding: 3rem 0 2rem; border-bottom: 1px solid var(--border-subtle); }
+.page-header h1 { font-size: 2.5rem; margin: 0.5rem 0; }
+.page-desc { color: var(--text-secondary); font-style: italic; font-size: 0.875rem; }
+.section { padding: 3rem 0 5rem; }
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+}
+.product-card {
+  position: relative;
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  transition: border-color 0.2s;
+}
+.product-card:hover { border-color: var(--border); }
+.product-tag {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-family: var(--font-sub);
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  background: var(--accent);
+  color: #000;
+  padding: 0.2rem 0.5rem;
+}
+.product-icon { font-size: 2rem; }
+.product-cat {
+  font-family: var(--font-sub);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.product-name {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-top: 0.25rem;
+}
+.product-desc {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  flex: 1;
+}
+.product-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-subtle);
+}
+.product-price {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  font-weight: 900;
+  color: var(--accent);
+}
+@media (max-width: 1024px) { .products-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 640px) { .products-grid { grid-template-columns: 1fr; } }
+</style>
