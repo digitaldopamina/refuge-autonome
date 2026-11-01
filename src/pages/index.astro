@@ -28,9 +28,9 @@ const pillars = [
 
   <!-- HERO -->
   <section class="hero">
-    <div class="hero-bg"></div>
-    <div class="container hero-layout">
-    <div class="hero-content">
+    <div class="hero-bg-image" style="background-image: url('/images/hero.jpg')"></div>
+    <div class="hero-overlay"></div>
+    <div class="container hero-content">
       <div class="hero-badge">
         <span class="pulse-dot"></span>
         <span>Guides mis à jour régulièrement</span>
@@ -51,10 +51,6 @@ const pillars = [
         <div class="stat"><span class="stat-num">4</span><span class="stat-label">Piliers essentiels</span></div>
         <div class="stat"><span class="stat-num">100%</span><span class="stat-label">Guides testés en conditions réelles</span></div>
       </div>
-    </div>
-    <div class="hero-image-wrap">
-      <img src="/images/hero.jpg" alt="Famille préparée et autonome" class="hero-image" />
-    </div>
     </div>
   </section>
 
@@ -236,33 +232,33 @@ const pillars = [
 /* HERO */
 .hero {
   position: relative;
-  padding: 5rem 0 4rem;
+  padding: 6rem 0 5rem;
   overflow: hidden;
 }
-.hero-bg {
+.hero-bg-image {
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(212,130,26,0.08) 0%, transparent 70%);
+  background-size: cover;
+  background-position: center right;
+  opacity: 0.25;
+}
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to right,
+    var(--bg-primary) 35%,
+    transparent 75%
+  ), linear-gradient(
+    to top,
+    var(--bg-primary) 0%,
+    transparent 30%
+  );
   pointer-events: none;
 }
-.hero-layout {
+.hero-content {
   position: relative;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 3rem;
-  align-items: center;
-}
-.hero-content { position: relative; }
-.hero-image-wrap {
-  position: relative;
-  border-radius: 4px;
-  overflow: hidden;
-}
-.hero-image {
-  width: 100%;
-  height: 480px;
-  object-fit: cover;
-  display: block;
+  max-width: 640px;
 }
 .hero-badge {
   display: inline-flex;
@@ -466,8 +462,8 @@ const pillars = [
 }
 
 @media (max-width: 768px) {
-  .hero-layout { grid-template-columns: 1fr; }
-  .hero-image-wrap { display: none; }
+  .hero-bg-image { background-position: center center; }
+  .hero-overlay { background: linear-gradient(to bottom, rgba(var(--bg-primary-rgb,10,10,10),0.7) 0%, var(--bg-primary) 80%); }
   .pillars-grid { grid-template-columns: 1fr; }
   .youtube-grid { grid-template-columns: 1fr; }
 }
