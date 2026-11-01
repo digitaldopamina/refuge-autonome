@@ -5,7 +5,7 @@ pubDate: 2024-10-15
 category: habitat
 tags: [autonomie énergétique, solaire, isolation, chauffage bois, batterie, pompe à chaleur]
 featured: true
-image: "/images/maison-autonome-energie.jpg"
+image: "/images/maison-autonome.jpg"
 readingTime: 14
 ---
 

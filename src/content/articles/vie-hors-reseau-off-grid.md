@@ -5,7 +5,7 @@ pubDate: 2024-10-18
 category: habitat
 tags: [off-grid, hors réseau, autonomie, installation isolée, vie alternative, tiny house]
 featured: false
-image: "/images/vie-hors-reseau-off-grid.jpg"
+image: "/images/vie-au-reseau.jpg"
 readingTime: 15
 ---
 
