@@ -239,20 +239,22 @@ const pillars = [
   position: absolute;
   inset: 0;
   background-size: cover;
-  background-position: center right;
-  opacity: 0.25;
+  background-position: center center;
+  opacity: 0.45;
 }
 .hero-overlay {
   position: absolute;
   inset: 0;
   background: linear-gradient(
     to right,
-    var(--bg-primary) 35%,
-    transparent 75%
+    var(--bg-primary) 0%,
+    rgba(0,0,0,0.55) 40%,
+    rgba(0,0,0,0.3) 60%,
+    transparent 100%
   ), linear-gradient(
     to top,
     var(--bg-primary) 0%,
-    transparent 30%
+    transparent 25%
   );
   pointer-events: none;
 }
