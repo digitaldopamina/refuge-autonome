@@ -18,9 +18,9 @@ const categoryLabels: Record<string, string> = {
 };
 
 const pillars = [
-  { icon: '🎒', title: 'Préparer', desc: 'Kits 72h, réserves alimentaires et hydrique — les bases pour ne jamais être pris au dépourvu.', href: '/categories/preparation', color: 'var(--accent)' },
-  { icon: '⚡', title: 'S\'équiper', desc: 'Énergie solaire, éclairage de secours, communication — l\'équipement qui fait la différence.', href: '/categories/equipement', color: 'var(--green-light)' },
-  { icon: '🏡', title: 'Habiter', desc: 'Tiny houses, maisons autonomes, off-grid — vivre en dehors du système par choix.', href: '/categories/habitat', color: '#7ec8e3' },
+  { icon: '🎒', title: 'Préparer', desc: 'Kits 72h, réserves alimentaires et hydrique — les bases pour ne jamais être pris au dépourvu.', href: '/categories/preparation', color: 'var(--accent)', image: '/images/pilier-prepare.jpg' },
+  { icon: '⚡', title: 'S\'équiper', desc: 'Énergie solaire, éclairage de secours, communication — l\'équipement qui fait la différence.', href: '/categories/equipement', color: 'var(--green-light)', image: '/images/pilier-equiper.jpg' },
+  { icon: '🏡', title: 'Habiter', desc: 'Tiny houses, maisons autonomes, off-grid — vivre en dehors du système par choix.', href: '/categories/habitat', color: '#7ec8e3', image: '/images/pilier-habiter.jpg' },
 ];
 ---
 <BaseLayout title="Guides de préparation et autonomie pour votre famille">
@@ -29,7 +29,8 @@ const pillars = [
   <!-- HERO -->
   <section class="hero">
     <div class="hero-bg"></div>
-    <div class="container hero-content">
+    <div class="container hero-layout">
+    <div class="hero-content">
       <div class="hero-badge">
         <span class="pulse-dot"></span>
         <span>Guides mis à jour régulièrement</span>
@@ -50,6 +51,10 @@ const pillars = [
         <div class="stat"><span class="stat-num">4</span><span class="stat-label">Piliers essentiels</span></div>
         <div class="stat"><span class="stat-num">100%</span><span class="stat-label">Guides testés en conditions réelles</span></div>
       </div>
+    </div>
+    <div class="hero-image-wrap">
+      <img src="/images/hero.jpg" alt="Famille préparée et autonome" class="hero-image" />
+    </div>
     </div>
   </section>
 
@@ -77,10 +82,12 @@ const pillars = [
       <div class="pillars-grid">
         {pillars.map(p => (
           <a href={p.href} class="pillar-card">
-            <div class="pillar-icon" style={`color:${p.color}`}>{p.icon}</div>
-            <h3 style={`color:${p.color}`}>{p.title}</h3>
-            <p>{p.desc}</p>
-            <span class="pillar-link" style={`color:${p.color}`}>Explorer →</span>
+            <img src={p.image} alt={p.title} class="pillar-card__image" loading="lazy" />
+            <div class="pillar-card__body">
+              <h3 style={`color:${p.color}`}>{p.title}</h3>
+              <p>{p.desc}</p>
+              <span class="pillar-link" style={`color:${p.color}`}>Explorer →</span>
+            </div>
           </a>
         ))}
       </div>
@@ -238,7 +245,25 @@ const pillars = [
   background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(212,130,26,0.08) 0%, transparent 70%);
   pointer-events: none;
 }
-.hero-content { position: relative; max-width: 700px; }
+.hero-layout {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+}
+.hero-content { position: relative; }
+.hero-image-wrap {
+  position: relative;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.hero-image {
+  width: 100%;
+  height: 480px;
+  object-fit: cover;
+  display: block;
+}
 .hero-badge {
   display: inline-flex;
   align-items: center;
@@ -317,18 +342,29 @@ const pillars = [
 .pillar-card {
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
-  padding: 2rem;
   background: var(--bg-card);
   border: 1px solid var(--border-subtle);
   text-decoration: none;
+  overflow: hidden;
   transition: border-color 0.2s, background 0.2s;
 }
 .pillar-card:hover {
   border-color: var(--border);
   background: var(--bg-card-hover);
 }
-.pillar-icon { font-size: 2rem; }
+.pillar-card__image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+}
+.pillar-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.5rem;
+  flex: 1;
+}
 .pillar-card h3 {
   font-family: var(--font-sub);
   font-size: 1.2rem;
@@ -430,6 +466,8 @@ const pillars = [
 }
 
 @media (max-width: 768px) {
+  .hero-layout { grid-template-columns: 1fr; }
+  .hero-image-wrap { display: none; }
   .pillars-grid { grid-template-columns: 1fr; }
   .youtube-grid { grid-template-columns: 1fr; }
 }
