@@ -272,6 +272,58 @@ Ce test révèle toujours quelques manques. Mieux vaut les découvrir dans votre
 
 Un sac fonctionnel peut se faire pour 300 euros si vous choisissez des produits d'entrée de gamme fiables (Décathlon, marques basiques). Le haut de gamme monte facilement à 600-700 euros mais offre un confort, une durabilité et un poids allégé significatifs.
 
+## La référence officielle : ce que dit la Sécurité Civile française
+
+On parle souvent de "sac de survie" en mélangeant deux réalités très différentes. La Sécurité Civile française distingue clairement :
+
+**1. La réserve à domicile** — ce que vous gardez accessible chez vous pour traverser une période où les services sont perturbés sans devoir évacuer. C'est le kit 72h statique.
+
+**2. Le sac d'évacuation** — ce que vous emportez si les autorités demandent une évacuation rapide. C'est votre Bug-Out Bag.
+
+Une partie du contenu est commune : médicaments, lampe, chargeur, documents. Mais le sac d'évacuation doit rester **transportable et adapté à votre situation**. Essayer de faire tenir toute la réserve de la maison dans un sac à dos, c'est l'erreur classique à éviter.
+
+### Les chiffres officiels à connaître
+
+La fiche officielle française indique **6 litres d'eau potable par personne** pour 72 heures. Ce repère est à nuancer :
+
+- 6L d'eau pèse environ **6 kg** — c'est à organiser à la maison, pas à porter dans un sac sur le dos
+- Pour le sac d'évacuation, une gourde de 1L et un moyen de filtration sont plus réalistes
+- Les enfants, les personnes fragiles et les animaux ont des besoins spécifiques à anticiper
+
+La liste officielle comprend également : radio à piles avec piles de rechange, lampe de poche avec piles de rechange, chargeur de téléphone, trousse de premiers secours, médicaments en cours, vêtements chauds, couverture de survie, documents protégés dans une pochette étanche, et un peu d'argent liquide (les distributeurs et paiements électroniques peuvent être hors service).
+
+### Deux questions à se poser avant de préparer
+
+La Sécurité Civile recommande de séparer mentalement deux usages :
+
+- **Qu'est-ce qui reste facilement accessible à la maison ?** → La réserve statique
+- **Qu'est-ce que je peux emporter sans me mettre en difficulté ?** → Le sac d'évacuation
+
+Ce cadre évite de surcharger le sac d'évacuation avec des provisions pensées pour la maison.
+
+### La méthode en trois zones
+
+Pour rendre la vérification plus simple et rapide, organisez votre sac en trois zones logiques :
+
+| Zone | Contenu |
+|------|---------|
+| **Eau et alimentation** | Gourde, filtration, barres énergétiques, conserves légères |
+| **Santé et hygiène** | Trousse de soins, médicaments, hygiène de base |
+| **Information et éclairage** | Radio, lampe, documents, téléphone + chargeur |
+
+Une petite fiche placée dans le sac peut indiquer : où sont les objets, qui prend quoi si plusieurs adultes sont présents, quel proche contacter en premier. Ne notez pas de données médicales sensibles sur un papier laissé visible.
+
+### La maintenance, c'est aussi simple que ça
+
+La recommandation officielle : **une vérification complète une fois par an minimum**. Dates de péremption des aliments, piles, médicaments. Si vous utilisez un élément, remettez-le en place ou remplacez-le immédiatement — pour que le sac soit prêt la fois suivante.
+
+Une façon pratique de démarrer : prenez une feuille et faites trois colonnes.
+- Ce que j'ai déjà à la maison
+- Ce qu'il faut vérifier (dates, état)
+- Ce qui manque
+
+Commencez par les besoins vitaux et les traitements médicaux. Ajoutez les autres éléments au fil du temps plutôt que d'acheter tout d'un coup.
+
 ---
 
 Le sac de départ, c'est peut-être la seule préparation dont vous ne vous servirez jamais. Et c'est exactement pourquoi vous devez en avoir un. Parce que si vous en avez besoin, vous en aurez vraiment besoin — et le moment où vous le prenez dans vos mains ne sera pas le bon moment pour commencer à réfléchir à son contenu.
