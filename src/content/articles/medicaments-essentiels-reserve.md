@@ -166,6 +166,118 @@ Un kit de médicaments n'est pas une alternative aux soins médicaux. Consultez 
 
 L'automédication, c'est pour les bobos du quotidien. Pour tout ce qui sort de l'ordinaire, c'est le médecin.
 
+## Médicaments pour des profils spécifiques
+
+La liste générale couvre 80% des cas. Selon votre situation familiale ou vos activités, certains médicaments supplémentaires méritent d'être dans votre réserve.
+
+### Familles avec nourrissons (0-2 ans)
+
+Les médicaments pour nourrissons demandent une précision particulière sur les dosages — toujours en mg/kg, jamais "une cuillère à café" sans vérification.
+
+**Indispensables :**
+- Paracétamol sirop nourrisson (30mg/ml) avec la seringue doseuse fournie
+- Sérum physiologique en unidoses (pour le nez et les yeux)
+- Mouche-bébé ou aspirateur nasal électrique (Nosiboo, NoseFrida)
+- Thermomètre rectal (le plus fiable chez les moins d'un an)
+- Suppressitoires de paracétamol 80mg et 150mg (quand l'enfant vomit)
+
+**À demander à votre pédiatre en avance :**
+- Solution de réhydratation orale pédiatrique (SRO Hydraflu pédiatrique)
+- Antihistaminique liquide si antécédent d'allergie
+
+**Ce qu'on oublie souvent :** une lime à ongles de nourrisson (les ongles tranchants grattent le visage), et la pommade Cicatryl pour les érythèmes fessiers.
+
+### Personnes âgées (65 ans et plus)
+
+Avec l'âge, les interactions médicamenteuses deviennent plus complexes. La réserve doit être construite avec le médecin traitant.
+
+**Points de vigilance spécifiques :**
+- Les personnes âgées tolèrent moins bien l'ibuprofène (risque rénal et gastrique accru) — privilégier le paracétamol
+- Les antihistaminiques sédatifs (Polaramine) augmentent le risque de chutes — utiliser avec précaution
+- Les opioïdes légers (codéine, tramadol) ont des effets plus marqués
+
+**Ce qui est particulièrement utile :**
+- Liste à jour de tous les médicaments courants et dosages (à emporter si hospitalisation)
+- Pilulier hebdomadaire pour ne pas perdre de dose en situation de stress
+- Réserve de 30 jours de chaque médicament chronique (à renouveler systématiquement avant épuisement)
+
+### Personnes avec allergies sévères
+
+Si vous ou un membre de votre foyer avez une allergie sévère (arachides, venin d'insecte, médicament), votre réserve doit impérativement inclure :
+
+- **Adrénaline auto-injectable (EpiPen, Anapen ou Jext)** : 2 stylos minimum (en cas d'échec de la première injection ou de réaction biphasique). Ordonnance obligatoire. Vérifiez la date de péremption tous les 3 mois.
+- **Antihistaminique oral à absorption rapide** : cétirizine ou loratadine pour les réactions modérées
+- **Corticoïde oral** (prednisolone, prednisone) sur prescription : pour les réactions persistantes
+
+Tous les membres adultes du foyer doivent savoir comment utiliser l'EpiPen. Des formations courtes existent en pharmacie.
+
+### Voyageurs et randonneurs
+
+Si vous faites régulièrement des activités outdoor ou des voyages loin des pharmacies :
+
+- **Traitement anti-paludéen de réserve** (doxycycline ou atovaquone-proguanil) : à demander à votre médecin avant un voyage en zone à risque. La doxycycline sert aussi d'antibiotique à large spectre.
+- **Ciprofloxacine** (antibiotique) : pour la turista sévère avec diarrhée bactérienne, sur ordonnance
+- **Diamox** (acétazolamide) : pour prévenir le mal des montagnes, sur ordonnance
+- **Crème écran total SPF 50+** et traitement antiparasitaire cutané (Éosine, crème à la perméthrine)
+
+## Compléments naturels en soutien
+
+Sans remplacer les médicaments, certains compléments ont une efficacité reconnue pour des indications précises et peuvent alléger la dépendance aux médicaments chimiques pour les cas bénins.
+
+**Gingembre** (en gélules ou tisane) : propriétés antiémétiques validées par plusieurs études. Efficace pour les nausées de grossesse, le mal des transports, et les nausées post-opératoires légères. Tisane : 2-4g de gingembre frais râpé infusé 10 minutes.
+
+**Miel de manuka** : propriétés antibactériennes documentées. Utile en application locale sur les plaies superficielles en l'absence de désinfectant classique. A une activité contre certaines bactéries multirésistantes en utilisation topique.
+
+**Echinacée** : stimulant immunitaire, peut réduire la durée des rhumes si pris dès les premiers symptômes. Efficacité modérée mais documentée.
+
+**Charbon actif** : adsorbant intestinal, utile en cas d'intoxication alimentaire bénigne pour neutraliser les toxines. Attention : peut interférer avec l'absorption d'autres médicaments si pris simultanément.
+
+**Huile de lavande vraie** (Lavandula angustifolia) : analgésique et antiseptique léger en application cutanée. Utilisable sur les piqûres d'insectes, petites brûlures, plaies superficielles.
+
+Ces remèdes ne remplacent jamais une consultation médicale, mais ils constituent des "plan B" utiles en situation d'isolement ou de pénurie.
+
+## Durée de vie et renouvellement des médicaments
+
+La péremption des médicaments est plus nuancée que ce qu'indique l'étiquette.
+
+**Ce qui périme vite :**
+- Sirops (ouvert) : 1 mois après ouverture pour la plupart
+- Collyres (ouverts) : 15-30 jours selon la formule
+- Nitro-glycérine : se dégrade rapidement, vérifier souvent
+- Antibiotiques liquides reconstitués : 7-14 jours au réfrigérateur
+
+**Ce qui reste stable longtemps :**
+- Paracétamol comprimés : souvent efficace 1-2 ans après la date de péremption
+- Ibuprofène comprimés : même chose
+- Pommades et crèmes (non ouverts) : généralement stables
+- Aspirine : peut se dégrader plus vite (odeur de vinaigre = dégradation)
+
+**Règle pratique :** ne jamais jeter les médicaments périmés dans les toilettes (contamination des eaux) ni à la poubelle ordinaire. Retournez-les en pharmacie (programme Cyclamed gratuit) et achetez du neuf.
+
+**Méthode de rotation :** posez les nouveaux achats derrière les anciens — vous consommez d'abord ce qui périme le plus tôt. Vérifiez une fois par an en janvier.
+
+## Questions fréquentes sur la pharmacie d'urgence
+
+**Combien de jours de stock de médicaments chroniques faut-il avoir ?**
+
+La recommandation des autorités sanitaires en cas de crise est de 30 jours. En pratique, demandez à votre médecin une ordonnance pour 3 mois dès que vous passez en renouvellement, et commandez à la pharmacie avant d'arriver à 30 jours. Cette "avance roulante" vous donne toujours au moins 30 jours de réserve sans stocker excessivement.
+
+**Peut-on stocker des antibiotiques sans ordonnance en France ?**
+
+Non — les antibiotiques sont uniquement disponibles sur ordonnance en France. Il n'est pas recommandé de les conserver d'un traitement à l'autre et de les prendre sans avis médical, car les antibiotiques sont actifs sur des bactéries spécifiques. Une antibiothérapie inadaptée peut être inefficace et contribuer à la résistance bactérienne. Si vous voyagez dans des zones isolées, votre médecin peut vous prescrire un antibiotique "de réserve" avec des instructions précises sur quand l'utiliser.
+
+**Comment transporter une pharmacie lors d'une évacuation ?**
+
+Prévoyez une trousse légère de 2-3 kg maximum avec uniquement l'essentiel : analgésiques, antihistaminique, désinfectant, pansements, médicaments chroniques pour 15 jours, et tout document médical important (groupe sanguin, allergies, liste des traitements). Laissez la pharmacie complète à domicile — vous n'avez pas besoin de tout emporter, seulement de ce qui couvre les 15 premiers jours.
+
+**L'EpiPen se périme — est-ce grave d'utiliser un stylo périmé ?**
+
+En situation d'urgence anaphylactique, un EpiPen périmé reste bien meilleur que pas d'EpiPen du tout. Des études montrent que l'adrénaline reste présente et active dans les stylos périmés depuis moins d'un an. Cela ne dispense pas de les renouveler dès que possible, mais ne l'abandonnez pas si c'est votre seul recours.
+
+**Comment distinguer une intoxication alimentaire d'une appendicite ?**
+
+L'intoxication alimentaire se manifeste généralement dans les 2-12h après ingestion, touche souvent plusieurs personnes ayant mangé la même chose, et combine nausées, vomissements et diarrhée. L'appendicite commence typiquement par une douleur autour du nombril qui migre dans les 6-12h vers la fosse iliaque droite (bas ventre droit), s'intensifie en marchant ou sautant, et peut s'accompagner de fièvre et de nausées mais rarement de diarrhée. En cas de doute sur une appendicite, appelez le 15 ou allez aux urgences.
+
 ---
 
 Une pharmacie bien constituée et bien organisée, c'est de la tranquillité d'esprit. Elle vous permet de gérer la plupart des petits problèmes de santé chez vous, sans urgences nocturnes et sans ruptures de traitement.

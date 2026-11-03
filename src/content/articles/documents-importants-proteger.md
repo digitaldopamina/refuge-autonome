@@ -232,6 +232,106 @@ Les documents ne sont utiles que s'ils sont à jour. Créez un rappel annuel pou
 - Nouvelle voiture : carte grise, assurance
 - Changement d'emploi : nouveau contrat, bulletins de salaire
 
+## Les erreurs les plus courantes dans la protection des documents
+
+Même les personnes qui pensent avoir bien organisé leurs documents commettent certaines erreurs récurrentes. Les voici, avec comment les éviter.
+
+### Erreur 1 : tout mettre dans un seul endroit
+
+Si votre classeur d'urgence et votre boîte ignifuge brûlent ensemble, vous repartez de zéro. La règle des trois copies (physique, cloud, support hors du domicile) s'applique aux documents comme aux données informatiques. Confiez une enveloppe avec les photocopies essentielles à un proche de confiance (parents, frère/sœur, ami sûr).
+
+### Erreur 2 : ne pas prévenir les autres membres de la famille
+
+Un classeur d'urgence que vous seul savez trouver est inutile si vous êtes incapacité. Chaque adulte du foyer doit savoir : où est le classeur, quel mot de passe ouvre le coffre ou la boîte, où sont les clés USB de sauvegarde, et comment accéder au cloud.
+
+### Erreur 3 : des mots de passe écrits en clair
+
+Ne notez jamais votre code de carte bancaire à côté de votre carte. Mais dans un classeur d'urgence confié à un notaire ou à un proche, une liste de mots de passe essentiels (en clair, ou via un indice que vous seul comprenez) peut être une protection, pas une faiblesse.
+
+La solution intermédiaire : utilisez un gestionnaire de mots de passe (Bitwarden, 1Password), et notez uniquement le mot de passe maître dans une enveloppe cachetée chez votre notaire.
+
+### Erreur 4 : ne jamais mettre à jour les scans
+
+Un scan de votre CNI de 2012 ne vous aide pas si elle est périmée depuis 2022. Établissez un rappel annuel (le 1er janvier, votre anniversaire — peu importe) pour passer en revue les documents numérisés et mettre à jour ceux qui ont changé.
+
+### Erreur 5 : sous-estimer les documents "secondaires"
+
+Tout le monde pense à la CNI. Peu de gens pensent au relevé de carrière Assurance Retraite, aux attestations CPF, ou aux diagnostics immobiliers. Ces documents sont pourtant très longs à reconstituer. Un scan de 10 minutes aujourd'hui peut vous éviter des mois de démarches.
+
+### Erreur 6 : oublier les documents numériques natifs
+
+Vous avez peut-être des billets, des contrats, des assurances qui n'existent qu'en version numérique (envoyés par email, téléchargeables depuis un portail). Créez un dossier "Documents numériques originaux" dans votre cloud et archivez-y systématiquement ces fichiers dès réception.
+
+## Documents et numériques en situation de crise
+
+En cas de catastrophe réelle — inondation, incendie, séisme — les besoins changent. Voici comment adapter.
+
+### Dans les 48 premières heures
+
+Vous avez perdu votre logement ou êtes évacué. Ce dont vous avez besoin immédiatement :
+- Une pièce d'identité valide (pour l'hébergement d'urgence, les aides)
+- Le numéro de votre contrat d'assurance habitation (pour déclencher la prise en charge)
+- Votre RIB (pour recevoir d'éventuelles aides ou virements d'urgence)
+- Les coordonnées de votre banque (pour bloquer les cartes si portefeuille perdu)
+
+Si vous avez accès à votre cloud, tout cela est disponible en 2 minutes.
+
+### Les démarches dans la première semaine
+
+Une fois en sécurité, priorité aux démarches urgentes :
+1. **Assureur** : déclarez le sinistre dans les 5 jours ouvrés (délai légal pour incendie, cambriolage — délai plus court pour catastrophe naturelle)
+2. **Employeur** : signalez votre situation pour les congés exceptionnels si nécessaire
+3. **Banque** : si vous avez perdu des cartes, les faire bloquer et remplacer
+4. **Mairie** : pour accéder aux aides locales d'urgence (fonds de secours)
+
+### Les ayants droits en cas de décès
+
+C'est rarement le scénario qu'on veut envisager, mais si votre domicile est classé en zone de risque ou si vous vous préparez à des scénarios sérieux : vos proches doivent pouvoir accéder à vos documents et comptes en cas de décès.
+
+La solution la plus robuste : un **testament notarié** qui indique clairement où sont vos documents, quels sont vos actifs, et comment accéder à vos comptes numériques. Le notaire conserve une copie et peut être contacté par vos héritiers directement.
+
+## Ressources et outils recommandés
+
+**Applications de scan :**
+- Adobe Scan (iOS/Android) : reconnaît automatiquement les bords du document, PDF haute qualité
+- Microsoft Lens : s'intègre à OneDrive, idéal si vous utilisez l'écosystème Microsoft
+- Genius Scan : simple et rapide, export PDF avec OCR
+
+**Stockage cloud sécurisé :**
+- Google Drive (15 Go gratuit) : partageable facilement avec les proches
+- Proton Drive : chiffrement de bout en bout, privacy-first, 1 Go gratuit
+- iCloud (si famille Apple) : intégration transparente, 5 Go gratuit
+
+**Gestionnaires de mots de passe :**
+- Bitwarden : open source, gratuit pour l'usage personnel, Emergency Access disponible
+- 1Password : payant (3€/mois) mais interface excellente
+
+**Boîtes ignifuges abordables :**
+- SentrySafe CHW20220 (40€) : résistance 30 min à 927°C, format A4
+- Rottner Magnum (70-90€) : résistance 60 min, mieux pour les documents volumineux
+
+## Questions fréquentes sur la protection des documents
+
+**Faut-il déposer des documents originaux chez un notaire ?**
+
+Pour certains documents cruciaux (testament, acte de vente immobilier), le notaire est le seul dépositaire légitime. Pour les autres, c'est une option de sécurité supplémentaire utile si vous avez des doutes sur la sécurité de votre domicile. Vous pouvez déposer une enveloppe scellée contenant vos mots de passe principaux et les coordonnées de vos comptes chez votre notaire — elle ne sera ouverte que par vos héritiers ou à votre demande.
+
+**Comment sécuriser les scans si mon téléphone est perdu ou volé ?**
+
+La clé est la séparation : ne stockez pas vos scans uniquement sur votre téléphone local. Synchronisez-les avec un cloud (Google Drive, iCloud) protégé par un mot de passe fort et une authentification à deux facteurs. Ainsi, la perte du téléphone ne fait pas perdre les documents.
+
+**Puis-je présenter un scan de ma CNI à la place de l'original ?**
+
+En France, la présentation de l'original est obligatoire dans la plupart des démarches officielles (banque, administration). Les scans ne remplacent pas les originaux pour l'identification légale. Ils servent à prouver que le document existait (pour les reconstructions administratives) et à avoir les numéros sous la main (numéro de CNI, numéro de passeport).
+
+**Que faire si mes documents sont en mauvais état ou difficiles à scanner ?**
+
+Pour les vieux documents abîmés (actes de naissance anciens, diplômes fragiles), utilisez un scanner à plat plutôt que l'appareil photo du téléphone — la qualité est meilleure. Pour les documents très fragiles, une copie certifiée conforme demandée à l'administration d'origine est plus fiable qu'un scan de mauvaise qualité.
+
+**Dois-je crypter les fichiers dans le cloud ?**
+
+Si vous avez des préoccupations de sécurité (données personnelles sensibles, exposition professionnelle), le chiffrement est une bonne pratique. Proton Drive chiffre automatiquement. Sur Google Drive ou iCloud, vous pouvez chiffrer les fichiers avant upload avec des outils comme Cryptomator (gratuit, open source). Pour la plupart des particuliers, l'authentification à deux facteurs sur le compte cloud est déjà une protection suffisante.
+
 ---
 
 Deux heures de travail un dimanche, et vous dormez plus tranquillement pour les années qui suivent. C'est probablement le meilleur retour sur investissement en temps de toute la préparation d'urgence.
