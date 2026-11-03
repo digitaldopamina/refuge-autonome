@@ -278,6 +278,60 @@ En décembre-janvier, les modèles vendables sont soldés ou en rupture. Les pri
 - [ ] Couvertures de survie dans chaque chambre
 - [ ] Numéro du chauffagiste en favori sur le téléphone
 
+## Garder chaud sans énergie : techniques passives
+
+Si tous vos systèmes de chauffage défaillent simultanément (panne EDF prolongée + gaz épuisé + tempête empêchant l'approvisionnement), il reste des solutions pour garder le froid à distance.
+
+### La chambre chaude
+
+La stratégie des frontières froides : abandonnez les grandes pièces et concentrez toute la chaleur disponible dans une ou deux pièces. Fermez toutes les portes. Une petite chambre de 12m² est 3 fois plus facile à chauffer qu'un salon de 35m².
+
+**Isolation temporaire des fenêtres :**
+Collez du film plastique bulle (vendu en rouleau en quincaillerie, environ 2€/m²) sur la face intérieure des fenêtres. Réduction des pertes par vitrage de 30 à 50%. Des couvertures épaisses accrochées en guise de rideaux épais ajoutent encore 10 à 20%.
+
+**Isolation du sol :**
+Le sol froid aspire la chaleur par les pieds. Des tapis épais, des couvertures au sol, ou des cartons posés à plat réduisent significativement la sensation de froid.
+
+### La chaleur corporelle
+
+Le corps humain produit environ 80W en repos et 200 à 500W à l'effort. Dans un espace confiné, plusieurs personnes peuvent maintenir une température acceptable.
+
+**Tactiques concrètes :**
+- Dormir à plusieurs dans la même pièce (un parent avec l'enfant en bas âge)
+- Sacs de couchage de survie (certifiés -10°C à -20°C) dans les lits
+- Couverture de survie en aluminium (2€ en pharmacie) doublant une couverture classique — réfléchit 90% de la chaleur corporelle
+- Vêtements en couches : le principe des 3 couches (humidité, isolation, protection) s'applique aussi en intérieur
+
+**Seuil à surveiller :** en dessous de 15°C dans un logement avec des enfants ou des personnes âgées, appelez le 15 (SAMU) ou votre mairie — des centres de chaleur sont ouverts lors des vagues de froid officielles (déclenchées par Météo-France).
+
+### La bouillotte et la chaleur localisée
+
+Une bouillotte de 2L remplie d'eau chaude (80-90°C) maintient la chaleur 6 à 8 heures dans un lit. Deux bouillottes dans les draps avant le coucher permettent de dormir confortablement dans une chambre à 12-14°C.
+
+Les chauffe-mains chimiques (poches activables disponibles en pharmacie ou magasins de sport, 1 à 3€ l'unité) sont compacts et pratiques pour les extrémités.
+
+## Questions fréquentes sur le chauffage d'appoint en hiver
+
+**Peut-on laisser tourner un radiateur à bain d'huile toute la nuit ?**
+
+Oui, c'est l'un des chauffages d'appoint les plus sûrs pour un usage nocturne. Le bain d'huile ne brûle pas l'oxygène, ne produit pas de CO, et la surface du radiateur monte en température graduellement sans risque de brûlure en cas de contact. Les modèles récents avec thermostat et timer permettent de programmer une température cible. Seule précaution : ne pas le couvrir ni le placer trop près d'une literie ou d'un rideau. La consommation d'un 1500W sur une nuit (8h) est environ 12 kWh — à vérifier par rapport à votre abonnement.
+
+**La cheminée à foyer ouvert est-elle efficace pour chauffer ?**
+
+Non — c'est l'un des systèmes de chauffage les moins efficaces. Une cheminée à foyer ouvert a un rendement de -10% à +15% : elle aspire l'air chaud de la pièce par le tirage et le rejette dehors, tout en réchauffant un peu par rayonnement direct. C'est agréable visuellement mais peu efficace. Un insert (foyer fermé vitré) porte le rendement à 60-75%. Un poêle à bois indépendant : 70-85%. Si vous avez une cheminée ouverte, envisagez un insert lors de votre prochain projet de rénovation.
+
+**Comment savoir si mon détecteur CO fonctionne encore ?**
+
+Les détecteurs CO ont une durée de vie de 5 à 7 ans (indiquée sur l'emballage ou au dos de l'appareil). Passé ce délai, la cellule de détection se dégrade et l'appareil peut ne plus détecter le CO même avec les piles neuves. Appuyez sur le bouton test — si le signal sonore retentit, les piles et l'électronique fonctionnent, mais pas forcément la cellule. Vérifiez la date de péremption imprimée sur l'appareil. Si vous ne la trouvez pas ou si l'appareil date de plus de 7 ans, remplacez-le (15 à 40€ en grande surface).
+
+**Combien de bouteilles de gaz prévoir pour une saison ?**
+
+Pour un chauffage à gaz de 2000W utilisé 6h par jour comme appoint principal lors des grands froids (environ 30 jours/hiver en France moyenne), comptez 60 heures de fonctionnement. Une bouteille de 13kg de butane dure environ 14 à 18 heures à pleine puissance. Prévoyez donc 4 à 5 bouteilles pour couvrir les grands froids. Si c'est un appoint ponctuel (quelques heures en cas de panne), 2 bouteilles suffisent. Achetez-les en automne : les prix sont stables et les stocks disponibles.
+
+**Les couvertures de survie sont-elles vraiment efficaces en intérieur ?**
+
+Oui, mais pas seules. La couverture de survie (film mylar aluminisé) réfléchit 90% du rayonnement thermique corporel — c'est son principal mécanisme. En intérieur, glissée entre le corps et une couverture classique, elle maintient une chaleur remarquable. Elle ne crée pas de chaleur, elle la conserve. Inconvénient : elle ne respire pas (condensation si portée à même la peau pendant plusieurs heures) et fait du bruit. Usage optimal : à l'extérieur du sac de couchage ou entre deux couvertures. Une couverture de survie vaut 1 à 3€ en pharmacie — en avoir 4 dans le logement coûte moins de 10€ et peut faire une vraie différence lors d'une panne prolongée.
+
 ---
 
 Le chauffage d'urgence, c'est comme une roue de secours : vous espérez ne jamais en avoir besoin, mais le jour où la panne arrive à -5°C, vous êtes très content de l'avoir préparée.

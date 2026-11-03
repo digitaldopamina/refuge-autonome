@@ -280,6 +280,28 @@ Si la tiny house vous attire pour ses valeurs (sobriété, coût réduit, autono
 
 **Essayer avant d'acheter :** plusieurs constructeurs proposent des nuitées dans leurs modèles (Baluchon loue certaines tiny houses pour des week-ends). Des plateformes comme Airbnb ou Huttopia proposent des séjours en tiny house. Faites-le avant d'investir.
 
+## Questions fréquentes sur la tiny house en France
+
+**Peut-on habiter en permanence dans une tiny house sans terrain propre ?**
+
+C'est la grande question. En France, la loi ALUR (2014) reconnaît les habitations légères de loisirs sur les terrains de camping et les parcs résidentiels de loisirs (PRL). En dehors de ces zones, une tiny house stationnée en permanence sur le terrain d'un particulier (même le vôtre) est dans une zone grise légale : techniquement, le stationnement prolongé d'une caravane ou remorque sur un terrain privé est toléré dans de nombreuses communes (surtout rurales) mais peut faire l'objet d'arrêtés municipaux d'interdiction. La seule façon légalement claire de résider en permanence dans une tiny house est soit de disposer d'un terrain constructible et de demander un permis de construire (mais la tiny house doit alors respecter les normes d'habitabilité permanente), soit d'être dans un PRL qui accepte les résidences permanentes.
+
+**Combien coûte l'assurance d'une tiny house ?**
+
+Une tiny house sur remorque est assurée comme une caravane routière tant qu'elle est en déplacement (assurance RC incluse dans votre assurance auto). À l'arrêt, elle doit être assurée comme un habitat : responsabilité civile, incendie, dommages. Plusieurs assureurs proposent des contrats spécifiques "habitation légère" ou "habitat alternatif" : Maif, Macif, et quelques assureurs spécialisés (Atelka, Prévi-habitat). Budget : 300 à 600€ par an selon les garanties et la valeur déclarée.
+
+**Une tiny house garde-t-elle sa valeur dans le temps ?**
+
+Ça dépend. Les tiny houses bien construites par des constructeurs reconnus avec matériaux de qualité se revendent 70 à 90% du prix d'achat après 5 ans et 50 à 70% après 10 ans, si elles sont bien entretenues — mieux que beaucoup de biens immobiliers une fois les frais de transaction déduits. Les autoconstructions de moindre qualité peuvent perdre 40 à 60% de leur valeur en 3-4 ans. La revente est facilitée par la notoriété du constructeur, la qualité des matériaux, et l'entretien visible (charpente, toiture, isolation).
+
+**Peut-on financer une tiny house avec un crédit immobilier ?**
+
+Non, en général. Les banques considèrent une tiny house sur remorque comme un bien mobilier, pas immobilier — elles proposent donc un crédit à la consommation (taux plus élevé, durée plus courte). Pour une tiny house fixée sur fondations avec permis de construire, un crédit immobilier peut être accordé, mais peu de banques ont l'expérience de ces dossiers. Des solutions existent : Crédit Agricole et Crédit Mutuel ont des conseillers habitués aux projets d'habitat alternatif dans certaines régions. Les plateformes de crowdlending permettent aussi de financer une partie du projet à des taux intermédiaires.
+
+**La tiny house est-elle adaptée aux familles avec enfants ?**
+
+Des milliers de familles vivent en tiny house avec des enfants, y compris en France. Ce qui fonctionne : deux enfants de moins de 8 ans dans une tiny house bien conçue avec lits superposés, espace de jeu extérieur prévu, et accès à la nature. Ce qui est difficile : des adolescents qui ont besoin d'intimité dans moins de 30m², ou un enfant avec des besoins particuliers (sensoriel, médical). L'aménagement doit être pensé avec les enfants, et le mode de vie accepté par eux — une tiny house imposée à un adolescent qui veut de l'espace va créer des tensions. Beaucoup de familles qui réussissent en tiny house ont choisi un terrain avec espace extérieur généreux pour compenser l'intérieur compact.
+
 ---
 
 La tiny house est un projet de vie cohérent pour les personnes qui acceptent ses contraintes et valorisent ce qu'elle offre : sobriété, mobilité théorique, propriété abordable, rapport à l'espace repensé. Elle ne convient pas à tout le monde, et c'est normal.

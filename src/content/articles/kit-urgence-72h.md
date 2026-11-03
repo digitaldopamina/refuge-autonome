@@ -323,6 +323,28 @@ Un kit bien rempli, c'est une bonne chose. Mais il y a des compétences qui ne s
 - **Connaître votre quartier** — savoir où se trouvent les points de rassemblement officiels, quels voisins peuvent avoir besoin d'aide, quel est le chemin pour sortir de la ville à pied si les routes sont bloquées.
 - **Avoir un plan familial** — votre famille sait-elle quoi faire si vous n'êtes pas à la maison lors d'une crise ? Où se retrouver ? Quel contact appeler ? Ces questions méritent une conversation en famille, pas au moment de la crise.
 
+## Questions fréquentes sur le kit d'urgence 72h
+
+**Quelle est la différence entre un kit 72h et un "bug-out bag" ?**
+
+Un kit 72h est conçu pour rester chez soi ou dans un abri proche pendant 3 jours — une panne de courant, une alerte de confinement, une tempête. Son contenu favorise le confort et la durée (eau, nourriture, éclairage, communication). Un bug-out bag ("sac de départ" en français) est conçu pour être porté sur le dos lors d'une évacuation : il est plus léger, plus compact, et privilégie la mobilité sur le confort. Dans la pratique, beaucoup de préparés constituent un kit 72h à domicile ET un sac de départ plus compact. Si vous ne deviez faire qu'une seule chose, le kit 72h à domicile est plus utile statistiquement — les évacuations sont moins fréquentes que les pannes ou confinements.
+
+**Est-il vraiment nécessaire de prévoir de l'eau si on a le robinet ?**
+
+L'eau du robinet peut être coupée ou contaminée lors exactement des crises qui nécessitent un kit d'urgence : inondations touchant les réseaux, coupures de pompage électrique, contamination de la source. En France, des coupures d'eau surviennent chaque année lors de fortes chaleurs (risque de rupture des canalisations), de gel (casses de tuyaux), d'inondations, ou de travaux d'urgence. La recommandation de 3L/personne/jour est un minimum de sécurité que votre kit 72h doit couvrir — soit 9L pour 3 jours pour une personne. Ne comptez pas sur le robinet pour être toujours disponible au moment précis où vous aurez besoin de votre kit.
+
+**Peut-on acheter un kit prêt à l'emploi en ligne plutôt que de le constituer soi-même ?**
+
+Oui, il en existe (Survie Boutique, Crossroads, certains kits sur Amazon). Les avantages : gain de temps, cohérence des composants. Les inconvénients : coût souvent supérieur de 30 à 50%, contenu générique qui ne correspond pas à votre profil familial (médicaments spécifiques absents, aucune adaptation pour enfants ou personnes âgées), et certains kits contiennent des produits de qualité médiocre. Si vous achetez un kit prêt à l'emploi, prenez-le comme base et complétez-le avec vos besoins spécifiques plutôt que de le considérer comme complet.
+
+**Quelle est la durée de vie de la nourriture stockée dans le kit ?**
+
+Les rations de survie lyophilisées ou en comprimés : 5 à 25 ans selon les fabricants. Les barres de céréales classiques : 1 à 2 ans. Le beurre de cacahuète en pot (non ouvert) : 1 à 2 ans. Les conserves de légumes ou thon : 3 à 5 ans. La règle pratique : chaque année, lors de votre maintenance annuelle du kit, consommez et remplacez tout ce qui expire dans les 12 mois. Ne mettez jamais dans votre kit des aliments dont la date est inférieure à 1 an — ils expireront avant votre prochaine maintenance.
+
+**Faut-il adapter le kit selon la région où on habite ?**
+
+Absolument. Un kit adapté pour la région parisienne (pannes électriques, inondations ponctuelles) diffère de celui d'un habitant de la côte atlantique (tempêtes, submersion) ou d'une zone de montagne (avalanche, isolement hivernal, altitude). Vérifiez les risques spécifiques de votre commune via le DDRM (Dossier Départemental des Risques Majeurs) de votre département ou sur georisques.gouv.fr. Adaptez votre kit en conséquence : une valve anti-retour et des sacs de sable pour une zone inondable, des crampons et couverture de survie supplémentaire pour une zone de montagne, des masques FFP2 si vous êtes près d'une zone industrielle à risque chimique.
+
 ---
 
 Préparer un kit d'urgence, ça prend une demi-journée et quelques centaines d'euros. Ce que ça vous donne, ça n'a pas de prix : la certitude que si quelque chose arrive — et quelque chose finit toujours par arriver — votre famille sera dans la meilleure position possible pour traverser ça.
