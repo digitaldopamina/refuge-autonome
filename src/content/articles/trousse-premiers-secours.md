@@ -193,6 +193,67 @@ Pour une trousse de premiers secours complète pour une famille de 4 :
 | Formation PSC1 par adulte | 15-60 € |
 | **Total** | **190-360 €** |
 
+## Les premiers secours selon les situations les plus fréquentes
+
+Avoir le bon réflexe au bon moment fait souvent plus de différence que le matériel lui-même. Voici les situations les plus courantes et les gestes adaptés.
+
+### Coupure profonde ou hémorragie
+
+**Geste immédiat :** compression directe et ferme sur la plaie avec une compresse stérile ou un tissu propre. Maintenir la pression sans relâcher — au moins 10 minutes. Ne pas retirer la compresse même si elle est imbibée de sang : ajoutez-en une par-dessus.
+
+**Si la compression ne suffit pas (artère touchée, sang qui jaillit en jets) :** poser un garrot au-dessus de la plaie, noter l'heure de pose. Un garrot posé ne doit être retiré que par un professionnel médical.
+
+**Appel au 15** dès que la compression directe ne suffit pas, ou si la plaie est profonde, souillée, ou implique une zone articulaire.
+
+### Brûlure
+
+**Geste immédiat :** eau froide courante sur la brûlure pendant 15 minutes minimum. L'eau froide soulage la douleur ET limite l'étendue des dégâts. Ne jamais mettre du beurre, de la farine, ou une pommade.
+
+**Appel au 15 :** brûlure étendue (>1% de la surface corporelle, environ la taille de la paume de la main), brûlure du visage, des mains, des pieds, des organes génitaux, ou brûlure profonde (peau blanche ou noire, insensible au toucher).
+
+### Étouffement
+
+**Adulte ou enfant >1 an :** 5 tapes dans le dos (entre les omoplates, talon de la main), puis 5 compressions abdominales (manœuvre de Heimlich) en alternance. Si la personne perd conscience : appeler le 15 et commencer la RCP.
+
+**Nourrisson <1 an :** 5 tapes dans le dos + 5 compressions thoraciques (pas abdominales). Technique différente — à apprendre en formation.
+
+### Malaise avec perte de connaissance
+
+1. Vérifier la conscience (parler fort, secouer doucement les épaules)
+2. Appeler le 15
+3. Vérifier la respiration (regarder, écouter, sentir pendant 10 secondes)
+4. Si respiration normale : mettre en position latérale de sécurité (PLS)
+5. Si pas de respiration : commencer la RCP (30 compressions, 2 insufflations)
+6. Utiliser le DAE (défibrillateur) dès qu'il est disponible
+
+### Fracture suspectée
+
+**Ne jamais** : tenter de remettre l'os en place, retirer une chaussure si la cheville est fracturée, faire marcher la personne.
+
+**Geste :** immobiliser le membre dans la position où il se trouve avec une attelle improvisée (planche, carton rigide, rouleau de journaux) fixée avec des bandes. Appliquer de la glace enveloppée dans un tissu (jamais directement sur la peau). Diriger vers les urgences ou appeler le 15 si fracture ouverte ou membre déformé.
+
+## Questions fréquentes sur la trousse de premiers secours
+
+**Faut-il vraiment une formation pour utiliser une trousse de premiers secours ?**
+
+Pour les gestes simples (nettoyer une plaie superficielle, poser un pansement, traiter une brûlure légère), non. Ces gestes sont accessibles à tous avec un bon guide. En revanche, pour les situations graves — arrêt cardiaque, étouffement, hémorragie artérielle, fractures — la formation PSC1 fait une différence réelle. Les statistiques sont claires : en cas d'arrêt cardiaque, chaque minute sans RCP réduit les chances de survie de 10%. Une personne formée qui agit immédiatement peut doubler les chances de survie avant l'arrivée des secours.
+
+**Quelle est la différence entre une trousse à 15€ en pharmacie et une trousse complète à 80€ ?**
+
+Les trousses du commerce sont sous-équipées : quelques pansements, une bande, parfois des gants. Elles couvrent les petites blessures du quotidien. Une trousse complète inclut des compresses stériles de plusieurs tailles, un garrot homologué, des gants de qualité (pas des gants fins qui se déchirent), un masque de poche pour la RCP, une couverture de survie, et un thermomètre. Pour une famille préparée, la trousse faite soi-même à partir d'une liste qualitative est plus économique et plus complète qu'une trousse du commerce.
+
+**Comment gérer les médicaments périmés dans la trousse ?**
+
+Ne pas les jeter à la poubelle ou dans les toilettes. Les rapporter à la pharmacie dans le cadre du programme Cyclamed (signalé par un logo vert). Les médicaments périmés peuvent être moins efficaces ou, dans de rares cas, produire des effets différents. Pour la trousse d'urgence, respectez les dates et renouvelez lors de votre révision semestrielle.
+
+**Peut-on mettre de l'alcool pour désinfecter une plaie ?**
+
+L'alcool à 70° (éthanol ou isopropanol) est efficace pour désinfecter une plaie, mais il est douloureux et peut abîmer les tissus en cours de cicatrisation s'il est utilisé seul. La recommandation actuelle est de nettoyer la plaie à l'eau savonneuse, puis d'appliquer un antiseptique adapté (Bétadine, Biseptine, Cyteal). Évitez l'alcool pur (90°) sur les plaies — trop irritant. L'alcool à 70° reste utile pour désinfecter le matériel (pinces, ciseaux).
+
+**Quelle est la durée de conservation des pansements et compresses dans la trousse ?**
+
+Les pansements stériles individuels ont généralement une durée de péremption de 3 à 5 ans indiquée sur l'emballage. Tant que l'emballage est intact et non souillé, ils restent stériles. Un emballage abîmé, humide ou déchiré = à jeter, quelle que soit la date. Les bandes et compresses non stériles (pour la compression ou l'immobilisation) n'ont pas de date de péremption tant qu'elles restent propres et sèches.
+
 ---
 
 Une trousse de premiers secours bien équipée et une personne formée pour l'utiliser — c'est l'assurance-vie domestique la plus concrète qui soit. Les accidents n'arrivent pas qu'aux autres. La question n'est pas si vous en aurez un jour besoin, mais quand.
