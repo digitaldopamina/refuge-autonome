@@ -172,6 +172,104 @@ La préparation saine, c'est celle qui part d'une évaluation factuelle des risq
 
 La différence entre les deux : l'orientation. La préparation anxiogène est centrée sur la peur. La préparation saine est centrée sur la compétence.
 
+## Préparer les enfants psychologiquement
+
+Les enfants ne sont pas des adultes en miniature. Leur traitement de la peur et de l'anxiété est différent, et leur préparation psychologique demande une approche adaptée à leur âge.
+
+### Moins de 6 ans : la sécurité par la routine
+
+Les enfants en bas âge ne comprennent pas les concepts de risque ou de préparation. Ce qui les sécurise, c'est la routine, la présence des parents, et des objets familiers.
+
+**Ce qui fonctionne :**
+- Ne pas les exposer aux nouvelles alarmantes (télévision, conversations anxieuses des adultes)
+- Maintenir les rituels même en situation dégradée (histoire du soir, câlin du matin)
+- Avoir un objet de confort (doudou, jouet) dans le sac d'urgence
+- Expliquer les changements avec des termes simples et rassurants ("on va faire du camping dans la maison ce soir")
+
+**Ce qu'on évite :**
+- Les explications trop détaillées sur les dangers
+- Les discussions anxieuses entre adultes devant eux
+- Modifier tous les repères en même temps (si possible)
+
+### De 6 à 12 ans : la compréhension et le rôle actif
+
+À cet âge, les enfants comprennent qu'il existe des dangers dans le monde mais ont besoin de les voir gérés par les adultes pour rester en confiance. Ils apprécient et bénéficient d'avoir un rôle.
+
+**Ce qui fonctionne :**
+- Expliquer les plans d'urgence de façon factuelle et non dramatique ("si on doit quitter la maison, on se retrouve à l'école")
+- Leur donner une mission : tenir la lampe torche, surveiller le chien, s'occuper du petit frère
+- Faire des "répétitions" présentées comme des jeux
+- Répondre honnêtement aux questions sans catastrophiser
+
+**Ce qu'ils peuvent apprendre :**
+- Le numéro de téléphone d'un parent
+- Les deux points de rassemblement familiaux
+- Comment appeler le 15, le 18 ou le 112
+- Comment utiliser une lampe frontale
+
+### De 12 à 17 ans : l'implication réelle
+
+Les adolescents peuvent comprendre et intégrer des préparatifs sérieux. Ils ont tendance à mieux accepter la préparation si on les implique comme des partenaires plutôt que comme des enfants.
+
+**Ce qui fonctionne :**
+- Les inclure dans les discussions de planification
+- Leur expliquer les raisons, pas seulement les consignes
+- Leur enseigner des compétences concrètes (premiers secours, cuisson sur réchaud, lecture de carte)
+- Leur confier des responsabilités réelles (gérer la trousse de premiers secours, tenir le stock de piles à jour)
+
+**Ce qu'il faut éviter :**
+- Les informer de tout avec tous les détails anxiogènes
+- Les impliquer dans des discussions répétées qui alimentent une anxiété chronique
+
+## Gérer les dynamiques de groupe en crise
+
+Une crise ne survient jamais en solo. Que ce soit en famille, entre voisins ou dans un groupe plus large, la dynamique de groupe affecte considérablement la capacité collective à traverser une situation difficile.
+
+### Les personnalités sous stress
+
+Sous stress intense, les traits de caractère s'amplifient. Quelques profils typiques à anticiper dans votre entourage :
+
+**Le "chef" qui monopolise :** sous stress, certaines personnes à fort leadership naturel tendent à prendre toutes les décisions sans consulter les autres. Risque : décisions solitaires non optimales, ressentiment des autres membres.
+
+**Le "paralysé" :** certaines personnes (environ 10-15%) se bloquent totalement face à l'urgence. Ils ont besoin d'instructions précises et simples, pas de questions ouvertes.
+
+**Le "catastrophiste" :** amplifie les mauvaises nouvelles, génère de la panique chez les autres. Besoin d'être recadré sur les faits, pas sur les projections.
+
+**Le "pragmatique silencieux" :** agit sans parler, parfois jugé froid ou indifférent. Souvent le plus efficace dans l'action immédiate.
+
+**Ce que vous pouvez faire :** connaître ces profils à l'avance (y compris le vôtre) permet d'anticiper les frictions et d'attribuer les rôles en conséquence. Une personne naturellement anxieuse et paralysante sera plus utile à s'occuper des enfants qu'à diriger les décisions.
+
+### La prise de décision en groupe
+
+Les groupes prennent généralement de meilleures décisions que les individus en temps normal, mais de moins bonnes sous stress intense. Quelques règles pour améliorer la prise de décision collective en crise :
+
+- **Limiter le comité décisionnel :** 2-3 personnes maximum pour les décisions urgentes. Les grands groupes créent de la paralysie.
+- **Définir les rôles avant :** qui décide quoi en cas de crise ? Cette décision prise à l'avance évite les conflits sous stress.
+- **Vérifier les faits avant d'agir :** prendre 30 secondes pour s'assurer qu'on a bien compris la situation réduit les erreurs coûteuses.
+- **Décider, puis ajuster :** une décision imparfaite prise rapidement vaut mieux que la paralysie. En crise, "l'ennemi du bien c'est le parfait" s'applique pleinement.
+
+## Questions fréquentes sur la psychologie de la préparation
+
+**La préparation ne risque-t-elle pas de me rendre anxieux au quotidien ?**
+
+La recherche montre l'inverse. Les études sur les communautés qui se préparent activement (populations en zone sismique, populations habitant près de volcans) montrent généralement moins d'anxiété que les populations non préparées confrontées aux mêmes risques. La préparation transforme la peur diffuse en action concrète, et l'action concrète réduit l'anxiété. Si votre préparation génère plus d'anxiété qu'elle n'en résout, c'est un signal qu'elle est trop focalisée sur les scénarios catastrophe et pas assez sur les actions pratiques.
+
+**Comment parler de la préparation à un conjoint qui ne voit pas l'intérêt ?**
+
+La résistance au sujet de la préparation vient souvent d'une association avec les survivalistes ou la paranoïa. Reformulez : "Je veux juste avoir de quoi tenir une semaine si on a une tempête ou une panne prolongée" est bien plus accessible que "Je veux se préparer pour l'effondrement". Commencez par les mesures les plus acceptables : stocker quelques jours de nourriture supplémentaire, avoir des lampes frontales. La plupart des gens valident ces mesures basiques une fois formulées normalement.
+
+**Mon enfant a vu les nouvelles et a maintenant peur des catastrophes. Que faire ?**
+
+Rassurez-le sur ce qui est fait pour le protéger (les plans de sécurité, le fait d'avoir des provisions, la connaissance des points de rassemblement). Expliquez que les médias montrent les événements exceptionnels, pas le quotidien. Réduisez l'exposition aux nouvelles anxiogènes. Et surtout : restez calme vous-même — votre état émotionnel est plus contagieux que les informations que vous donnez.
+
+**Comment savoir si ma réaction en crise sera "figement" ou "action" ?**
+
+Il n'est pas possible de le prédire parfaitement, mais les personnes qui ont le plus pratiqué des procédures sous stress (formation aux premiers secours, exercices d'évacuation, pompiers volontaires) ont statistiquement moins de réponses "figement". L'entraînement crée des automatismes qui court-circuitent la paralysie. La meilleure chose à faire : vous former aux premiers secours (PSC1 en France, accessible à tous, 7-8h de formation).
+
+**La préparation en solo est-elle efficace, ou faut-il impliquer toute la famille ?**
+
+Un seul adulte très bien préparé peut gérer seul de nombreuses situations d'urgence. Mais la préparation familiale est nettement plus robuste : deux adultes qui connaissent le plan, c'est la moitié du risque de défaillance individuelle. Et les enfants intégrés au plan (même à leur niveau) réagissent moins dans la panique, ce qui libère la capacité d'action des adultes. La préparation est une force multiplicatrice : la même quantité de préparation partagée entre 4 personnes est plus efficace que 4 fois la préparation d'une seule.
+
 ---
 
 La dimension psychologique de la préparation n'est pas un luxe ou une option. C'est ce qui transforme le matériel et les connaissances en capacité réelle à traverser une crise.

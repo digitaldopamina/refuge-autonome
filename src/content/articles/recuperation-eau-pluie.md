@@ -214,6 +214,122 @@ En cas de coupure du réseau d'eau ou de restriction, votre cuve de récupérati
 
 **Si vous n'avez pas de système installé en cas de crise :** les récupérateurs de pluie portables (grands seaux, bâches avec drain central, IBC 1000L) peuvent être mis en place rapidement. Moins efficace qu'une installation permanente, mais mieux que rien.
 
+## Problèmes courants et solutions
+
+Même bien installés, les systèmes de récupération d'eau de pluie peuvent présenter des dysfonctionnements. Voici les problèmes les plus fréquents et comment les résoudre.
+
+### L'eau dans la cuve sent mauvais
+
+**Cause probable :** développement d'algues, de bactéries ou de moisissures — souvent dû à une cuve exposée à la lumière, ou à une stagnation prolongée sans renouvellement.
+
+**Solutions :**
+- Vider entièrement la cuve et la nettoyer avec une solution de bicarbonate de soude (1 tasse pour 10L d'eau)
+- Rincer abondamment à l'eau claire
+- Ajouter quelques ml d'eau de Javel (hypochlorite de sodium 2%) pour assainir l'eau restante — quelques ml pour 1000L suffisent, et l'odeur se dissipe en quelques heures
+- Couvrir la cuve si elle est exposée à la lumière (les algues ont besoin de lumière pour se développer)
+
+### La cuve se remplit très lentement
+
+**Cause probable :** filtre anti-feuilles obstrué, first flush diverter mal réglé, ou raccordement à une seule gouttière au lieu de plusieurs.
+
+**Solutions :**
+- Nettoyer le filtre anti-feuilles (toutes les 2-4 semaines en période de chute des feuilles)
+- Vérifier le diverter : certains modèles ont une bille intérieure qui peut se coincer
+- Si possible, raccorder 2 ou 3 descentes de gouttière plutôt qu'une seule
+
+### La pompe fait du bruit ou ne donne pas de débit
+
+**Cause probable :** pompe à sec (niveau d'eau trop bas), filtre colmaté, ou pompe défaillante.
+
+**Solutions :**
+- Vérifier le niveau dans la cuve avant tout
+- Nettoyer le pré-filtre de la pompe
+- Vérifier l'aspiration (pas de fuite d'air dans le tuyau d'aspiration)
+- Si la pompe date de plus de 5-7 ans, envisager son remplacement (durée de vie typique : 5-10 ans selon usage)
+
+### L'eau contient de la sédiment malgré le filtre
+
+**Cause probable :** filtre anti-sédiments saturé, ou cuve qui n'a pas été vidée depuis longtemps (dépôt de boue au fond).
+
+**Solutions :**
+- Remplacer le filtre anti-sédiments (à changer tous les 6-12 mois selon usage)
+- Effectuer une vidange complète de la cuve pour éliminer les sédiments accumulés au fond
+- S'assurer que la prise d'aspiration de la pompe est à 20-30cm du fond, pas à ras du fond
+
+## Optimiser la collecte selon la saison
+
+La pluviométrie en France varie considérablement selon la saison et la région. Voici comment adapter votre gestion de cuve au rythme des saisons.
+
+### Printemps : reconstitution des réserves
+
+Après l'hiver, si vous avez vidé votre cuve aérienne pour éviter le gel, c'est le moment de la reconstituer. Les pluies de printemps sont généralement fréquentes — remplissage rapide.
+
+**Actions :**
+- Remontage de la cuve aérienne (ou ouverture des vannes si vous n'avez pas vidé)
+- Nettoyage du filtre anti-feuilles après la chute des pollens
+- Vérification du raccordement aux gouttières
+
+### Été : gestion de la pénurie
+
+En été, les pluies peuvent être rares pendant plusieurs semaines. La cuve risque de se vider si vous arrosez beaucoup.
+
+**Actions :**
+- Arroser tôt le matin ou en soirée (réduction de l'évaporation)
+- Paillis au pied des plantes (réduction des besoins en eau de 30-50%)
+- Couper l'alimentation du potager en eau de ville dès que la cuve est pleine — économiser l'eau de ville pour les périodes sèches
+
+### Automne : remplissage maximal
+
+Octobre à novembre est généralement la meilleure période de remplissage dans la plupart des régions françaises. C'est aussi la période où les feuilles bouchent les filtres.
+
+**Actions :**
+- Nettoyage hebdomadaire du filtre anti-feuilles en période de chute
+- S'assurer que la cuve est pleine avant l'arrivée des gelées (si cuve non enterrée)
+- Vérification des raccordements avant les grandes pluies
+
+### Hiver : préparation au gel
+
+Pour les cuves aériennes en polyéthylène :
+- En dessous de -5°C prolongés, l'eau gelée peut déformer ou fissurer la cuve
+- Solution 1 : vider la cuve et le réseau en novembre (fermer le collecteur de gouttière)
+- Solution 2 : isoler la cuve avec une couverture de laine de roche ou polystyrène (protège jusqu'à -10°C environ)
+- Solution 3 : choisir une cuve enterrée dès le départ — elle ne gèle jamais
+
+## Comparatif des coûts et retour sur investissement
+
+Voici un tableau récapitulatif pour vous aider à choisir l'investissement adapté à vos besoins.
+
+| Configuration | Investissement initial | Volume collecté/an | Économie annuelle | Amortissement |
+|--------------|----------------------|-------------------|------------------|--------------|
+| Cuve aérienne 500L | 80-120€ | 500-1500L (arrosage) | 5-15€ | 8-24 ans |
+| Cuve aérienne 1000L + pompe | 200-350€ | 1000-3000L | 10-30€ | 12-35 ans |
+| Cuve enterrée 5000L | 3000-5000€ | 10 000-30 000L | 30-100€ (arrosage) | 30-150 ans |
+| Cuve enterrée 5000L + usage WC | 5000-8000€ | 10 000-30 000L | 150-250€ | 20-50 ans |
+
+**Conclusion financière :** la récupération d'eau de pluie ne se justifie pas sur le seul critère financier en France, où l'eau du robinet est peu chère. Elle se justifie sur des critères d'autonomie, de résilience, et d'impact environnemental.
+
+## Questions fréquentes sur la récupération d'eau de pluie
+
+**Puis-je installer une cuve enterrée moi-même sans professionnel ?**
+
+Techniquement oui, mais c'est difficile sans engin de terrassement. Une tranchée pour une cuve de 5000L nécessite d'excaver plusieurs m³ de terre, de préparer un lit de sable compacté, de descendre et positionner la cuve (qui pèse plusieurs centaines de kilos vide), puis de remblayer en compactant progressivement. Sans engin, c'est physiquement très difficile. Le terrassement représente généralement 40-60% du coût d'installation — demandez un devis séparé pour juste l'excavation et la pose, puis faites les raccordements vous-même.
+
+**La cuve doit-elle être déclarée en mairie même pour un usage jardin uniquement ?**
+
+Non. L'usage uniquement extérieur (arrosage, nettoyage de véhicules, nettoyage de terrasses) ne nécessite aucune déclaration ni autorisation. La déclaration en mairie n'est obligatoire que si vous raccordez l'eau de pluie à un réseau intérieur (WC, lave-linge).
+
+**Combien de temps peut-on stocker l'eau de pluie dans une cuve avant qu'elle se dégrade ?**
+
+Dans une cuve bien conçue (fermée, pas exposée à la lumière, avec premier flush diverter), l'eau reste utilisable pour l'arrosage plusieurs mois. Pour les usages intérieurs (WC, lave-linge), un filtre anti-sédiments et un traitement UV assurent une eau de qualité stable. L'eau stagnante sans traitement dans une cuve ouverte peut développer des bactéries et des algues en quelques semaines — d'où l'importance de la couvrir et d'utiliser l'eau régulièrement.
+
+**Mon toit est en zinc — est-ce que ça rend l'eau dangereuse ?**
+
+Les toitures en zinc lixivient effectivement du zinc dans l'eau de ruissellement, à des concentrations qui peuvent être préoccupantes pour certains usages. Pour l'arrosage de légumes en grande quantité, c'est à surveiller (le zinc peut s'accumuler dans les sols à haute dose). Pour les WC et le lave-linge, les concentrations typiques ne posent pas de problème. Pour la boisson, un filtre par osmose inverse élimine efficacement le zinc. Si votre toiture est ancienne avec de la peinture au plomb, c'est un problème plus sérieux — évitez tout usage en contact avec la peau ou les aliments.
+
+**Une cuve de récupération augmente-t-elle le risque de moustiques tigres ?**
+
+Oui, si elle est mal couverte. Un centimètre d'eau stagnante suffit pour que des moustiques pondent leurs œufs. Solution simple : couvercle hermétique sur la cuve (standard sur les cuves de qualité), tamis fin sur les entrées et la sortie du trop-plein, et absence d'eau stagnante autour de la cuve. Un réseau de récupération bien installé n'est pas plus à risque qu'un baril ouvert — et bien moins qu'une soucoupe sous pot de fleurs oubliée.
+
 ---
 
 La récupération d'eau de pluie, c'est l'un des investissements les plus tangibles en autonomie. L'eau tombe sur votre toit de toute façon — autant la récupérer.
