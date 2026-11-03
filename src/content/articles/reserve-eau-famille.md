@@ -167,6 +167,72 @@ Pour votre sac d'évacuation, vous ne pouvez pas porter 40 litres d'eau. Voici c
 
 En cas d'évacuation, vous trouverez des points d'eau sur votre route (rivières, fontaines, centres d'hébergement). Le filtre vous donne l'autonomie de les utiliser.
 
+## Adapter votre réserve selon votre profil familial
+
+Les besoins en eau varient considérablement d'un foyer à l'autre. Voici comment adapter votre stock à votre réalité.
+
+### Familles avec nourrissons ou très jeunes enfants
+
+Un nourrisson allaité ne consomme pas d'eau directement, mais la mère a des besoins hydriques augmentés (2 à 2,5L par jour au lieu d'1,5L). Un nourrisson au biberon consomme de l'eau pour la préparation des biberons — uniquement de l'eau stérilisée ou minérale (eau du robinet bouillie et refroidie, ou eau en bouteille).
+
+**Ce qu'il faut prévoir en plus :**
+- Un stock d'eau minérale faiblement minéralisée (Evian, Volvic — vérifiez la mention "convient à la préparation des aliments pour nourrissons")
+- La possibilité de faire bouillir de l'eau même en panne d'électricité (réchaud à gaz)
+- Au moins 4L/jour pour un biberon + besoins de la mère
+
+### Personnes souffrant de pathologies rénales ou diabétiques
+
+Certaines conditions médicales augmentent significativement les besoins en eau. Les personnes atteintes de diabète insipide, d'insuffisance rénale chronique, ou suivant certains traitements (lithium, diurétiques) peuvent avoir des besoins de 3 à 4L par jour.
+
+Renseignez-vous auprès de votre médecin sur vos besoins spécifiques et dimensionnez votre stock en conséquence.
+
+### Animaux domestiques
+
+Un chien de taille moyenne consomme 500mL à 1,5L par jour. Un chat environ 200-300mL. Ne les oubliez pas dans votre calcul.
+
+Un chien de 20kg + 4 personnes = environ 8,5L par jour minimum à stocker.
+
+## Gestion de l'eau en période de chaleur extrême
+
+Les canicules peuvent transformer une panne d'eau anodine en situation médicalement sérieuse. La transpiration augmente les besoins en eau de 50 à 100% selon l'intensité de la chaleur et l'activité physique.
+
+**Conseils pour réduire les pertes d'eau en canicule :**
+- Rester à l'intérieur aux heures les plus chaudes (11h-17h)
+- Éviter tout effort physique intense
+- Porter des vêtements légers et amples
+- Humidifier la peau plutôt que de boire davantage (un brumisateur économise plus qu'il ne coûte)
+- Dormir dans la pièce la plus fraîche
+
+**Signes de déshydratation à surveiller :**
+- Urines foncées (jaune foncé ou marron) — signe fiable de déshydratation
+- Maux de tête, vertiges
+- Bouche sèche persistante
+- Fatigue inhabituelle, confusion chez les personnes âgées
+
+En cas de déshydratation légère : boire de l'eau additionnée d'une pincée de sel et d'un peu de sucre (solution de réhydratation orale improvise). Les sachets de SRO (sels de réhydratation orale) sont peu chers et très utiles dans votre trousse.
+
+## Questions fréquentes sur la réserve d'eau famille
+
+**L'eau du robinet mise en bouteille dure-t-elle vraiment 6 mois ?**
+
+Oui, dans les conditions appropriées. L'eau du robinet chlorée, stockée dans des contenants propres en PEHD (polyéthylène haute densité) alimentaire, à l'abri de la chaleur et de la lumière, reste potable 6 mois. La date n'est pas celle de péremption de l'eau elle-même (l'eau H₂O ne "périme" pas), mais celle à laquelle les propriétés antimicrobiennes du chlore s'épuisent et l'eau peut commencer à développer des micro-organismes. Renouveler tous les 6 mois reste la règle de précaution raisonnable.
+
+**Peut-on boire l'eau d'une piscine en situation d'urgence absolue ?**
+
+Non sans traitement préalable. L'eau de piscine contient du chlore (souvent trop dosé pour la boisson directe), parfois des algicides, des stabilisants et d'autres produits chimiques. Elle peut provoquer des irritations gastro-intestinales. En urgence absolue, diluez-la massivement avec de l'eau de pluie ou de source et filtrez-la. Ce n'est pas une réserve d'eau potable fiable.
+
+**Comment savoir si mon eau stockée est encore bonne sans la goûter ?**
+
+L'eau propre est inodore et incolore. Si elle sent le plastique ou présente une légère odeur, aérez-la en la transvasant — souvent ça suffit. Si elle sent le soufre, l'égout ou présente une coloration, traitez-la avant de la boire (purification chimique ou ébullition). Une eau visiblement trouble doit d'abord être filtrée.
+
+**Faut-il stocker de l'eau uniquement dans des contenants alimentaires, ou peut-on utiliser des bidons d'huile nettoyés ?**
+
+Les contenants alimentaires (bouteilles d'eau, bidons marqués "alimentaire" ou "food grade") sont fortement recommandés. Les bidons ayant contenu d'autres liquides (huile, détergents) peuvent libérer des résidus même après nettoyage approfondi — les plastiques absorbent les produits chimiques dans leur structure. Investissez dans des contenants dédiés au stockage d'eau. Les jerricanes militaires (en polyéthylène haute densité) sont excellents et durables.
+
+**Quelle est la meilleure façon de filtrer l'eau de pluie avant de la stocker ?**
+
+Pour l'eau de pluie destinée à la boisson en urgence : 1) filtrez les grosses impuretés à travers un tissu ou un filtre à café, 2) traitez chimiquement (Micropur ou eau de Javel quelques gouttes) ou faites bouillir. Pour un usage régulier, un filtre céramique + charbon actif (type Big Berkey) élimine la quasi-totalité des contaminants bactériologiques et beaucoup de contaminants chimiques. L'eau de pluie recueillie sur un toit propre est généralement saine après ces traitements, sauf en zone industrielle ou à proximité de culture intensive.
+
 ---
 
 L'eau, contrairement à la nourriture, ne se négocie pas. On peut tenir 3 semaines sans manger. Sans eau potable, 3 jours. C'est pour ça que c'est la première priorité de toute préparation sérieuse.

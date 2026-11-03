@@ -180,6 +180,100 @@ Le plan contient :
 - Lieu de stockage du sac de départ et des documents
 - Liste des médicaments essentiels de chaque membre de la famille
 
+## Cas particuliers : quand le plan standard ne suffit pas
+
+Certaines situations nécessitent des adaptations de votre plan d'évacuation de base.
+
+### Evacuation nocturne
+
+Un incendie, une inondation soudaine, un accident chimique — les crises n'attendent pas le lever du soleil. Votre plan doit fonctionner à 3h du matin, dans le noir.
+
+**Adaptations nécessaires :**
+- Lampe frontale à portée de main (sur la table de chevet ou fixée à votre sac de départ)
+- Chaussures accessibles immédiatement (pas dans un placard fermé à clé)
+- Vêtements d'urgence posés sur une chaise ou le bord du lit (temps froid : jean, pull, manteau)
+- Chemin d'évacuation connu par cœur et praticable les yeux fermés
+
+**Exercice nocturne :** une fois par an, simulez une évacuation nocturne en coupant les lumières. Vous découvrirez des obstacles que vous n'aviez pas anticipés.
+
+### Personnes en situation de handicap ou à mobilité réduite
+
+Si un membre de votre foyer utilise un fauteuil roulant, des béquilles, ou a une mobilité réduite, le plan d'évacuation nécessite une planification spécifique.
+
+**Points à vérifier :**
+- L'itinéraire d'évacuation est-il praticable en fauteuil ? (pas d'escaliers comme seule sortie)
+- Qui est désigné pour aider la personne à mobilité réduite ? (une personne dédiée, pas "tout le monde")
+- Les équipements médicaux nécessaires (déambulateur, oxygène portable) sont-ils inclus dans la liste de départ ?
+- Votre commune dispose-t-elle d'un registre des personnes vulnérables ? (contacter la mairie pour s'y inscrire)
+
+### Evacuation avec des personnes âgées dépendantes
+
+Les personnes âgées dépendantes ont des besoins spécifiques qui peuvent ralentir significativement une évacuation :
+- Médicaments (liste complète + ordonnances)
+- Documents de santé (carnet de suivi, directives anticipées)
+- Temps de déplacement plus long — anticipez en commençant l'évacuation plus tôt
+- Contact anticipé avec SAMU ou SDIS si la personne nécessite une aide médicale pour être déplacée
+
+### Evacuation quand vous n'êtes pas à la maison
+
+Prévoyez un scénario "je suis au travail, les enfants sont à l'école" :
+- Liste des personnes autorisées à récupérer vos enfants (communiquée à l'établissement scolaire)
+- Point de rassemblement familial valide hors école ET hors domicile
+- Clé de voiture de secours chez un voisin ou proche de confiance
+- Vêtements et chaussures de rechange au bureau (pratique aussi pour les accidents quotidiens)
+
+## Pratiquer l'évacuation : comment faire une simulation réaliste
+
+Un plan jamais testé est un plan dont on ne sait pas s'il fonctionne. La simulation révèle les angles morts.
+
+### La simulation de base (15-20 minutes)
+
+Sans prévenir votre famille à l'avance (ou en les prévenant 5 minutes avant pour les enfants les plus jeunes), déclarez une "urgence fictive" et demandez à chacun d'aller chercher son sac de départ et de se retrouver au point de rassemblement A.
+
+**Ce qu'elle révèle :**
+- Qui sait où est son sac ?
+- Qui sait où est le point de rassemblement A ?
+- Combien de temps prend réellement l'évacuation ? (souvent le double de ce qu'on imagine)
+- Qui hésite sur les priorités à emporter en dernier moment ?
+
+### La simulation avancée (1h-2h)
+
+Une fois par an, faites une simulation plus complète :
+- Demandez à chaque membre de la famille de partir séparément (comme s'ils n'étaient pas à la maison)
+- Rendez-vous au point de rassemblement B
+- Simulez la communication avec votre contact extérieur à la zone
+- Vérifiez que tous les documents sont bien dans le sac de départ
+
+### Points à noter et améliorer
+
+Après chaque simulation, notez :
+- Ce qui a manqué (documents oubliés, équipements absents)
+- Ce qui était trop lourd ou inutile
+- Ce qui a pris trop de temps
+- Les questions posées par les enfants (révèlent les lacunes du plan)
+
+## Questions fréquentes sur le plan d'évacuation
+
+**Faut-il vraiment un plan écrit, ou est-ce suffisant de s'en souvenir ?**
+
+Le plan écrit est indispensable. Sous stress, la mémoire défaille — des études sur le comportement humain en situation d'urgence montrent que des personnes parfaitement entraînées oublient des procédures simples sous panique aiguë. Un plan plastifié, posé à un endroit connu de tous, ne panique pas et ne "blanche" pas. De plus, un plan écrit peut être suivi par un membre de la famille qui était absent quand il a été élaboré.
+
+**À quelle fréquence doit-on mettre à jour le plan ?**
+
+Révisez le plan chaque fois que quelque chose change dans votre vie : déménagement, naissance d'un enfant, changement d'école des enfants, changement de travail modifiant vos trajets habituels, ajout d'un animal domestique, arrivée d'une personne âgée dans le foyer. Et faites une révision de routine annuelle même sans changement apparent — les numéros de téléphone changent, les contacts de confiance évoluent.
+
+**Que faire si on ne peut pas évacuer (accès bloqué, inondation encerclant la maison) ?**
+
+C'est le scénario d'"évacuation impossible" qui nécessite un plan de confinement plutôt qu'une évacuation. Montez aux étages supérieurs en cas d'inondation. Signalez votre présence (drap blanc à la fenêtre, SMS à vos proches, appel au 15/18). Ne traversez jamais une zone inondée à pied ou en voiture — 30cm d'eau courante renverse un adulte, 50cm emporte un véhicule. Dans ce cas, attendez les secours et économisez vos ressources (eau, nourriture, téléphone).
+
+**Nos enfants sont scolarisés dans deux écoles différentes. Comment gérer ?**
+
+Désignez une personne responsable par école. Idéalement, l'un des parents va à l'école A, l'autre à l'école B, et vous vous retrouvez ensuite au point de rassemblement B. Assurez-vous que les deux écoles disposent d'une liste à jour des personnes autorisées à récupérer chaque enfant, avec un numéro de contact fonctionnel pour vous joindre. En cas d'impossibilité (parents tous deux au travail loin), désignez une personne de confiance pour chaque école — et vérifiez que les établissements scolaires ont validé leur autorisation.
+
+**Combien de temps faut-il prévoir pour évacuer un appartement au 5e étage sans ascenseur ?**
+
+Chronométrez-le vraiment — ne l'estimez pas. Avec un sac de 15kg, deux enfants, un chien et un membre âgé, descendre 5 étages peut prendre 8 à 15 minutes. Ce n'est pas une contrainte rédhibitoire, mais c'est une réalité à intégrer dans votre plan. Si l'escalier est votre seule sortie et qu'il est condamné (incendie dans l'escalier), vous devez savoir à l'avance que l'option "confinement + signalement aux secours depuis votre logement" existe et est la bonne dans ce cas.
+
 ---
 
 Un plan d'évacuation, ça se prépare en quelques heures. Ça se teste une fois par an. Et ça transforme une situation de panique potentielle en une réponse coordonnée et efficace.
