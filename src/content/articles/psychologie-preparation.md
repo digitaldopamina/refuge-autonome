@@ -7,6 +7,17 @@ tags: [psychologie, stress, crise, famille, résilience, mental, décision]
 featured: false
 image: "/images/psychologie-preparation.jpg"
 readingTime: 14
+faq:
+  - question: "La préparation ne risque-t-elle pas de me rendre anxieux au quotidien ?"
+    answer: "La recherche montre l'inverse. Les études sur les communautés qui se préparent activement (populations en zone sismique, populations habitant près de volcans) montrent généralement moins d'anxiété que les populations non préparées confrontées aux mêmes risques. La préparation transforme la peur diffuse en action concrète, et l'action concrète réduit l'anxiété. Si votre préparation génère plus d'anxiété qu'elle n'en résout, c'est un signal qu'elle est trop focalisée sur les scénarios catastrophe "
+  - question: "Comment parler de la préparation à un conjoint qui ne voit pas l'intérêt ?"
+    answer: "La résistance au sujet de la préparation vient souvent d'une association avec les survivalistes ou la paranoïa. Reformulez : \"Je veux juste avoir de quoi tenir une semaine si on a une tempête ou une panne prolongée\" est bien plus accessible que \"Je veux se préparer pour l'effondrement\". Commencez par les mesures les plus acceptables : stocker quelques jours de nourriture supplémentaire, avoir des lampes frontales. La plupart des gens valident ces mesures basiques une fois formulées normaleme"
+  - question: "Mon enfant a vu les nouvelles et a maintenant peur des catastrophes. Que faire ?"
+    answer: "Rassurez-le sur ce qui est fait pour le protéger (les plans de sécurité, le fait d'avoir des provisions, la connaissance des points de rassemblement). Expliquez que les médias montrent les événements exceptionnels, pas le quotidien. Réduisez l'exposition aux nouvelles anxiogènes. Et surtout : restez calme vous-même — votre état émotionnel est plus contagieux que les informations que vous donnez."
+  - question: "Comment savoir si ma réaction en crise sera \"figement\" ou \"action\" ?"
+    answer: "Il n'est pas possible de le prédire parfaitement, mais les personnes qui ont le plus pratiqué des procédures sous stress (formation aux premiers secours, exercices d'évacuation, pompiers volontaires) ont statistiquement moins de réponses \"figement\". L'entraînement crée des automatismes qui court-circuitent la paralysie. La meilleure chose à faire : vous former aux premiers secours (PSC1 en France, accessible à tous, 7-8h de formation)."
+  - question: "La préparation en solo est-elle efficace, ou faut-il impliquer toute la famille ?"
+    answer: "Un seul adulte très bien préparé peut gérer seul de nombreuses situations d'urgence. Mais la préparation familiale est nettement plus robuste : deux adultes qui connaissent le plan, c'est la moitié du risque de défaillance individuelle. Et les enfants intégrés au plan (même à leur niveau) réagissent moins dans la panique, ce qui libère la capacité d'action des adultes. La préparation est une force multiplicatrice : la même quantité de préparation partagée entre 4 personnes est plus efficace que "
 ---
 
 On parle beaucoup de kits d'urgence, de réserves alimentaires, de matériel. Rarement de ce qui se passe dans la tête quand la crise arrive.

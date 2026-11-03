@@ -7,6 +7,17 @@ tags: [alimentation, stockage, longue durée, autonomie]
 featured: true
 image: "/images/reserve-alimentaire.jpg"
 readingTime: 13
+faq:
+  - question: "Combien de temps de réserves faut-il viser concrètement ?"
+    answer: "La recommandation officielle française (SGDSN — Secrétariat Général de la Défense et de la Sécurité Nationale) est de 10 jours d'autonomie. La plupart des praticiens de la préparation recommandent 3 mois comme objectif réaliste pour un foyer. Au-delà de 3 mois, le rapport bénéfice/coût diminue et la rotation devient difficile à gérer. Pour commencer : visez 2 semaines, c'est accessible en quelques semaines de constitution progressive."
+  - question: "Les aliments lyophilisés valent-ils vraiment leur prix élevé ?"
+    answer: "Pour le stockage de très long terme (10-25 ans) et une utilisation mobile (sac de départ, trekking), oui. Pour le stock de crise habituel à domicile, non — les conserves classiques et les produits secs couvrent les mêmes besoins à un coût 3 à 5 fois inférieur. Les lyophilisés se justifient dans un kit d'évacuation 72h (légers, compacts) et dans un stock de \"ultra-long terme\" qu'on n'envisage d'utiliser qu'en catastrophe majeure."
+  - question: "Comment gérer le stock quand certains membres de la famille ont des intolérances ou allergies ?"
+    answer: "Constituez votre stock autour des contraintes de la personne la plus restrictive — le stock doit être utilisable par tous. Notez sur chaque contenant les allergènes présents (gluten, lait, fruits à coques, etc.). Si une personne a des besoins caloriques ou nutritionnels spéciaux (diabète, insuffisance rénale), consultez son médecin ou diététicien pour adapter le stock à ses besoins — certaines restrictions alimentaires médicales changent complètement les choix de stockage."
+  - question: "Faut-il stocker de l'alcool ou des cigarettes pour le troc ?"
+    answer: "La valeur d'échange de l'alcool et du tabac en situation de pénurie est réelle historiquement. Mais ce n'est pas une priorité — votre eau, nourriture, médicaments et énergie passent avant. Si vous souhaitez intégrer cet aspect, stockez de petits formats (miniatures d'alcool, paquets individuels) plutôt que de grandes quantités. Mais c'est optionnel et accessoire par rapport aux fondamentaux."
+  - question: "Comment expliquer l'importance des réserves alimentaires aux membres de la famille qui pensent que c'est de la paranoïa ?"
+    answer: "Reformulez : \"On stocke pour les situations normales qui arrivent à tout le monde — grève de 10 jours, tempête qui bloque les routes, licenciement inattendu qui rend les courses difficiles — pas pour la fin du monde.\" Un stock alimentaire bien géré, c'est aussi une économie : acheter en volume quand les prix sont bas et consommer quand ils montent, c'est une stratégie financière rationnelle. La plupart des gens comprennent mieux l'argument économique que l'argument survivaliste."
 ---
 
 Il y a quelque chose de profondément rassurant dans un placard bien rempli. Pas un placard en désordre où traînent des boîtes de raviolis entassées depuis des années — mais un stock réfléchi, tournant, qui représente une vraie capacité d'autonomie alimentaire pour votre famille.

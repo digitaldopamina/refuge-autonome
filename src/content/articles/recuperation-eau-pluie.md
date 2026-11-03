@@ -7,6 +7,17 @@ tags: [eau de pluie, récupération, cuve, autonomie, arrosage, réglementation]
 featured: false
 image: "/images/recuperation-eau-pluie.jpg"
 readingTime: 13
+faq:
+  - question: "Puis-je installer une cuve enterrée moi-même sans professionnel ?"
+    answer: "Techniquement oui, mais c'est difficile sans engin de terrassement. Une tranchée pour une cuve de 5000L nécessite d'excaver plusieurs m³ de terre, de préparer un lit de sable compacté, de descendre et positionner la cuve (qui pèse plusieurs centaines de kilos vide), puis de remblayer en compactant progressivement. Sans engin, c'est physiquement très difficile. Le terrassement représente généralement 40-60% du coût d'installation — demandez un devis séparé pour juste l'excavation et la pose, puis"
+  - question: "La cuve doit-elle être déclarée en mairie même pour un usage jardin uniquement ?"
+    answer: "Non. L'usage uniquement extérieur (arrosage, nettoyage de véhicules, nettoyage de terrasses) ne nécessite aucune déclaration ni autorisation. La déclaration en mairie n'est obligatoire que si vous raccordez l'eau de pluie à un réseau intérieur (WC, lave-linge)."
+  - question: "Combien de temps peut-on stocker l'eau de pluie dans une cuve avant qu'elle se dégrade ?"
+    answer: "Dans une cuve bien conçue (fermée, pas exposée à la lumière, avec premier flush diverter), l'eau reste utilisable pour l'arrosage plusieurs mois. Pour les usages intérieurs (WC, lave-linge), un filtre anti-sédiments et un traitement UV assurent une eau de qualité stable. L'eau stagnante sans traitement dans une cuve ouverte peut développer des bactéries et des algues en quelques semaines — d'où l'importance de la couvrir et d'utiliser l'eau régulièrement."
+  - question: "Mon toit est en zinc — est-ce que ça rend l'eau dangereuse ?"
+    answer: "Les toitures en zinc lixivient effectivement du zinc dans l'eau de ruissellement, à des concentrations qui peuvent être préoccupantes pour certains usages. Pour l'arrosage de légumes en grande quantité, c'est à surveiller (le zinc peut s'accumuler dans les sols à haute dose). Pour les WC et le lave-linge, les concentrations typiques ne posent pas de problème. Pour la boisson, un filtre par osmose inverse élimine efficacement le zinc. Si votre toiture est ancienne avec de la peinture au plomb, c'"
+  - question: "Une cuve de récupération augmente-t-elle le risque de moustiques tigres ?"
+    answer: "Oui, si elle est mal couverte. Un centimètre d'eau stagnante suffit pour que des moustiques pondent leurs œufs. Solution simple : couvercle hermétique sur la cuve (standard sur les cuves de qualité), tamis fin sur les entrées et la sortie du trop-plein, et absence d'eau stagnante autour de la cuve. Un réseau de récupération bien installé n'est pas plus à risque qu'un baril ouvert — et bien moins qu'une soucoupe sous pot de fleurs oubliée."
 ---
 
 En France, il tombe en moyenne 800 à 900mm de pluie par an, avec de grandes variations régionales (400mm à Marseille, 1500mm dans les Pyrénées). Sur un toit de 100m², cela représente 80 000 à 90 000 litres d'eau par an qui ruissellent vers les gouttières et les égouts.

@@ -7,6 +7,17 @@ tags: [potager, jardinage, autonomie alimentaire, semences, balcon, légumes]
 featured: false
 image: "/images/potager-urgence.jpg"
 readingTime: 13
+faq:
+  - question: "Combien de mètres carrés de jardin faut-il pour se nourrir en autonomie ?"
+    answer: "Pour couvrir les besoins en légumes (pas les calories totales) d'une personne, comptez 50 à 100m² de jardin productif bien géré. Pour une autonomie alimentaire réelle (légumes + féculents + protéines végétales), il faut environ 400 à 600m² par personne en culture intensive, ou 1000 à 2000m² en jardinage extensif. Ces chiffres supposent une bonne maîtrise des techniques de culture. Un débutant aura des rendements plus faibles les premières années."
+  - question: "Peut-on faire un potager d'urgence sans jardin, sur un balcon ?"
+    answer: "Absolument. Des tomates cerises en pots de 15-20L, des courgettes en bac de 40-50L (une seule plante, très productive), des haricots sur treillis, des salades et aromates en jardinières — un balcon de 10-15m² peut produire une contribution réelle à l'alimentation d'été. Ce n'est pas l'autonomie totale, mais c'est concret. Commencez avec des tomates cerises et des herbes : faciles, productives, et transformatrices de tout repas."
+  - question: "Les semences achetées en jardinerie sont-elles réutilisables d'une année à l'autre ?"
+    answer: "Ça dépend. Les variétés \"hybrides F1\" (marquées F1 sur les sachets) donnent de mauvais résultats en seconde génération — leurs graines sont soit stériles, soit très différentes de la plante mère. Les variétés \"population\" ou \"anciennes\" (non marquées F1) donnent des graines fidèles et peuvent être récoltées chaque année. Pour la résilience alimentaire, privilégiez les variétés reproductibles. Les catalogues Kokopelli ou Biaugerme proposent exclusivement ces variétés."
+  - question: "Combien de temps faut-il avant d'avoir sa première récolte ?"
+    answer: "Ça dépend des cultures. Les radis : 3-4 semaines. Les laitues : 6-8 semaines. Les haricots verts : 8-10 semaines. Les tomates et courgettes : 3-4 mois. Les pommes de terre : 4-5 mois. En cas de crise, plantez d'abord les cultures à cycle court (radis, épinards, laitues, haricots) pour avoir quelque chose à manger rapidement, pendant que les cultures longues se développent."
+  - question: "Les légumes du potager peuvent-ils remplacer des compléments vitaminiques pendant une crise ?"
+    answer: "Oui, pour la plupart des vitamines. Les légumes du potager apportent vitamine C (tomates, poivrons, persil — une tige de persil couvre la moitié du besoin journalier en vitamine C), vitamine A (carottes, épinards, courgettes), vitamine K (légumes verts), et des minéraux variés. Ce qui manque dans un régime basé sur le jardin : vitamine D (soleil), vitamine B12 (uniquement dans les produits animaux), et oméga-3 (poissons gras, noix). Ces lacunes méritent d'être comblées par des compléments dans v"
 ---
 
 Il y a une image qui m'a marqué : des photos de jardins de la Seconde Guerre mondiale en Angleterre. Les "Victory Gardens" — des potagers sur les toits d'immeubles londoniens, dans les parcs publics, les arrière-cours, les terrains vagues. En 1944, 1,4 million de jardins d'urgence produisaient 10% des légumes consommés dans le pays.

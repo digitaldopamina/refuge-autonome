@@ -6,6 +6,17 @@ category: sante
 tags: [premiers secours, trousse, santé, urgence, famille]
 image: "/images/trousse-premiers-secours.jpg"
 readingTime: 13
+faq:
+  - question: "Faut-il vraiment une formation pour utiliser une trousse de premiers secours ?"
+    answer: "Pour les gestes simples (nettoyer une plaie superficielle, poser un pansement, traiter une brûlure légère), non. Ces gestes sont accessibles à tous avec un bon guide. En revanche, pour les situations graves — arrêt cardiaque, étouffement, hémorragie artérielle, fractures — la formation PSC1 fait une différence réelle. Les statistiques sont claires : en cas d'arrêt cardiaque, chaque minute sans RCP réduit les chances de survie de 10%. Une personne formée qui agit immédiatement peut doubler les ch"
+  - question: "Quelle est la différence entre une trousse à 15€ en pharmacie et une trousse complète à 80€ ?"
+    answer: "Les trousses du commerce sont sous-équipées : quelques pansements, une bande, parfois des gants. Elles couvrent les petites blessures du quotidien. Une trousse complète inclut des compresses stériles de plusieurs tailles, un garrot homologué, des gants de qualité (pas des gants fins qui se déchirent), un masque de poche pour la RCP, une couverture de survie, et un thermomètre. Pour une famille préparée, la trousse faite soi-même à partir d'une liste qualitative est plus économique et plus complè"
+  - question: "Comment gérer les médicaments périmés dans la trousse ?"
+    answer: "Ne pas les jeter à la poubelle ou dans les toilettes. Les rapporter à la pharmacie dans le cadre du programme Cyclamed (signalé par un logo vert). Les médicaments périmés peuvent être moins efficaces ou, dans de rares cas, produire des effets différents. Pour la trousse d'urgence, respectez les dates et renouvelez lors de votre révision semestrielle."
+  - question: "Peut-on mettre de l'alcool pour désinfecter une plaie ?"
+    answer: "L'alcool à 70° (éthanol ou isopropanol) est efficace pour désinfecter une plaie, mais il est douloureux et peut abîmer les tissus en cours de cicatrisation s'il est utilisé seul. La recommandation actuelle est de nettoyer la plaie à l'eau savonneuse, puis d'appliquer un antiseptique adapté (Bétadine, Biseptine, Cyteal). Évitez l'alcool pur (90°) sur les plaies — trop irritant. L'alcool à 70° reste utile pour désinfecter le matériel (pinces, ciseaux)."
+  - question: "Quelle est la durée de conservation des pansements et compresses dans la trousse ?"
+    answer: "Les pansements stériles individuels ont généralement une durée de péremption de 3 à 5 ans indiquée sur l'emballage. Tant que l'emballage est intact et non souillé, ils restent stériles. Un emballage abîmé, humide ou déchiré = à jeter, quelle que soit la date. Les bandes et compresses non stériles (pour la compression ou l'immobilisation) n'ont pas de date de péremption tant qu'elles restent propres et sèches."
 ---
 
 La plupart des trousses de premiers secours qu'on achète en pharmacie sont sous-équipées. Quelques pansements, une bande, un antiseptique — de quoi soigner une égratignure. Pas de quoi gérer une vraie urgence.

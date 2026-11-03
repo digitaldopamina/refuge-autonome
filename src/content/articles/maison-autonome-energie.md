@@ -7,6 +7,17 @@ tags: [autonomie énergétique, solaire, isolation, chauffage bois, batterie, po
 featured: true
 image: "/images/maison-autonome.jpg"
 readingTime: 14
+faq:
+  - question: "L'autonomie énergétique complète est-elle réaliste pour une maison individuelle ?"
+    answer: "Techniquement oui, économiquement discutable. Une maison bien isolée, chauffée au bois, avec 10 kWc de solaire et 20-30 kWh de stockage peut atteindre 95%+ d'autonomie électrique annuelle. Mais le coût du stockage (batteries) pour couvrir les longues périodes sans soleil en hiver est encore très élevé (20 000 à 50 000€). Le compromis réaliste : 70-85% d'autonomie en conservant le réseau comme filet de sécurité."
+  - question: "Vaut-il mieux investir dans l'isolation ou dans le solaire en premier ?"
+    answer: "L'isolation en premier, sans hésitation. Un euro investi en isolation économise 3 à 5 fois plus qu'un euro investi en production solaire, parce qu'il réduit les besoins à la source. Une maison bien isolée avec un système solaire modeste obtient souvent de meilleurs résultats qu'une maison passoire avec beaucoup de panneaux."
+  - question: "Comment savoir si mon toit est adapté au solaire ?"
+    answer: "Un toit orienté au sud (±30°) avec une inclinaison de 25 à 40° est idéal. Est et Ouest donnent 15 à 30% de moins. Le nord ne vaut généralement pas l'investissement. Un toit sans ombre entre 9h et 15h est crucial — un seul module ombré peut réduire la production de toute la chaîne de 20 à 40%. Des outils comme Google Project Sunroof ou cadastre.solaire.fr permettent d'estimer le potentiel de votre toit gratuitement."
+  - question: "Peut-on installer soi-même des panneaux solaires pour économiser ?"
+    answer: "Pour les installations plug-and-play jusqu'à 800W (2 panneaux + micro-onduleur sur prise standard), oui — c'est légal et sans risque si on suit les instructions. Au-delà, l'installation doit être réalisée par un professionnel certifié pour être conforme et bénéficier des aides. Certains propriétaires font appel à un professionnel pour le raccordement et font eux-mêmes la pose des panneaux — vérifiez si votre installateur l'accepte, cela peut réduire le coût de main-d'œuvre."
+  - question: "Combien de temps faut-il pour rendre une maison autonome à 70% ?"
+    answer: "Un plan réaliste sur 5 à 10 ans : - Années 1-2 : isolation des combles, remplacement des ampoules, calfeutrage - Années 2-4 : système de chauffage bois ou granulés - Années 4-7 : installation solaire photovoltaïque avec stockage - Années 5-10 : chauffe-eau solaire, optimisation Ce rythme permet d'étaler l'investissement (30 000 à 60 000€ au total selon la taille et l'état initial) et d'utiliser les aides disponibles chaque année."
 ---
 
 Il y a un malentendu courant autour de l'autonomie énergétique. Beaucoup pensent que c'est une question de production — poser des panneaux solaires, acheter un groupe électrogène, investir dans un système de stockage. En réalité, la première étape est l'inverse : réduire les besoins.

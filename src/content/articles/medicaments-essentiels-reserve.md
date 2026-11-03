@@ -6,6 +6,17 @@ category: sante
 tags: [médicaments, pharmacie, santé, urgence, réserve, premiers secours]
 image: "/images/medicaments-reserve.jpg"
 readingTime: 13
+faq:
+  - question: "Combien de jours de stock de médicaments chroniques faut-il avoir ?"
+    answer: "La recommandation des autorités sanitaires en cas de crise est de 30 jours. En pratique, demandez à votre médecin une ordonnance pour 3 mois dès que vous passez en renouvellement, et commandez à la pharmacie avant d'arriver à 30 jours. Cette \"avance roulante\" vous donne toujours au moins 30 jours de réserve sans stocker excessivement."
+  - question: "Peut-on stocker des antibiotiques sans ordonnance en France ?"
+    answer: "Non — les antibiotiques sont uniquement disponibles sur ordonnance en France. Il n'est pas recommandé de les conserver d'un traitement à l'autre et de les prendre sans avis médical, car les antibiotiques sont actifs sur des bactéries spécifiques. Une antibiothérapie inadaptée peut être inefficace et contribuer à la résistance bactérienne. Si vous voyagez dans des zones isolées, votre médecin peut vous prescrire un antibiotique \"de réserve\" avec des instructions précises sur quand l'utiliser."
+  - question: "Comment transporter une pharmacie lors d'une évacuation ?"
+    answer: "Prévoyez une trousse légère de 2-3 kg maximum avec uniquement l'essentiel : analgésiques, antihistaminique, désinfectant, pansements, médicaments chroniques pour 15 jours, et tout document médical important (groupe sanguin, allergies, liste des traitements). Laissez la pharmacie complète à domicile — vous n'avez pas besoin de tout emporter, seulement de ce qui couvre les 15 premiers jours."
+  - question: "L'EpiPen se périme — est-ce grave d'utiliser un stylo périmé ?"
+    answer: "En situation d'urgence anaphylactique, un EpiPen périmé reste bien meilleur que pas d'EpiPen du tout. Des études montrent que l'adrénaline reste présente et active dans les stylos périmés depuis moins d'un an. Cela ne dispense pas de les renouveler dès que possible, mais ne l'abandonnez pas si c'est votre seul recours."
+  - question: "Comment distinguer une intoxication alimentaire d'une appendicite ?"
+    answer: "L'intoxication alimentaire se manifeste généralement dans les 2-12h après ingestion, touche souvent plusieurs personnes ayant mangé la même chose, et combine nausées, vomissements et diarrhée. L'appendicite commence typiquement par une douleur autour du nombril qui migre dans les 6-12h vers la fosse iliaque droite (bas ventre droit), s'intensifie en marchant ou sautant, et peut s'accompagner de fièvre et de nausées mais rarement de diarrhée. En cas de doute sur une appendicite, appelez le 15 ou "
 ---
 
 Il n'est pas question ici de faire de l'automédication à outrance ou de remplacer un médecin. Mais avoir une pharmacie d'urgence raisonnée à domicile, c'est être capable de gérer les petits problèmes de santé sans courir à la pharmacie à 23h ou en pleine nuit, et d'assurer une continuité de traitement si les approvisionnements sont perturbés.

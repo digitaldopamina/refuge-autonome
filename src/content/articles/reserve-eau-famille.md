@@ -6,6 +6,17 @@ category: preparation
 tags: [eau, stockage, famille, autonomie, filtration]
 image: "/images/reserve-eau.jpg"
 readingTime: 12
+faq:
+  - question: "L'eau du robinet mise en bouteille dure-t-elle vraiment 6 mois ?"
+    answer: "Oui, dans les conditions appropriées. L'eau du robinet chlorée, stockée dans des contenants propres en PEHD (polyéthylène haute densité) alimentaire, à l'abri de la chaleur et de la lumière, reste potable 6 mois. La date n'est pas celle de péremption de l'eau elle-même (l'eau H₂O ne \"périme\" pas), mais celle à laquelle les propriétés antimicrobiennes du chlore s'épuisent et l'eau peut commencer à développer des micro-organismes. Renouveler tous les 6 mois reste la règle de précaution raisonnab"
+  - question: "Peut-on boire l'eau d'une piscine en situation d'urgence absolue ?"
+    answer: "Non sans traitement préalable. L'eau de piscine contient du chlore (souvent trop dosé pour la boisson directe), parfois des algicides, des stabilisants et d'autres produits chimiques. Elle peut provoquer des irritations gastro-intestinales. En urgence absolue, diluez-la massivement avec de l'eau de pluie ou de source et filtrez-la. Ce n'est pas une réserve d'eau potable fiable."
+  - question: "Comment savoir si mon eau stockée est encore bonne sans la goûter ?"
+    answer: "L'eau propre est inodore et incolore. Si elle sent le plastique ou présente une légère odeur, aérez-la en la transvasant — souvent ça suffit. Si elle sent le soufre, l'égout ou présente une coloration, traitez-la avant de la boire (purification chimique ou ébullition). Une eau visiblement trouble doit d'abord être filtrée."
+  - question: "Faut-il stocker de l'eau uniquement dans des contenants alimentaires, ou peut-on utiliser des bidons d'huile nettoyés ?"
+    answer: "Les contenants alimentaires (bouteilles d'eau, bidons marqués \"alimentaire\" ou \"food grade\") sont fortement recommandés. Les bidons ayant contenu d'autres liquides (huile, détergents) peuvent libérer des résidus même après nettoyage approfondi — les plastiques absorbent les produits chimiques dans leur structure. Investissez dans des contenants dédiés au stockage d'eau. Les jerricanes militaires (en polyéthylène haute densité) sont excellents et durables."
+  - question: "Quelle est la meilleure façon de filtrer l'eau de pluie avant de la stocker ?"
+    answer: "Pour l'eau de pluie destinée à la boisson en urgence : 1) filtrez les grosses impuretés à travers un tissu ou un filtre à café, 2) traitez chimiquement (Micropur ou eau de Javel quelques gouttes) ou faites bouillir. Pour un usage régulier, un filtre céramique + charbon actif (type Big Berkey) élimine la quasi-totalité des contaminants bactériologiques et beaucoup de contaminants chimiques. L'eau de pluie recueillie sur un toit propre est généralement saine après ces traitements, sauf en zone ind"
 ---
 
 L'eau, c'est le premier besoin vital et pourtant c'est souvent le plus négligé dans les préparatifs d'urgence. On ouvre le robinet depuis l'enfance sans y penser. L'eau coule — ça a toujours été ainsi, ça le sera toujours. Jusqu'au jour où ça ne l'est plus.

@@ -12,6 +12,10 @@ const articles = defineCollection({
     featured: z.boolean().optional().default(false),
     image: z.string().optional(),
     readingTime: z.number().optional(),
+    faq: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }),
 });
 

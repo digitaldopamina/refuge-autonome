@@ -6,6 +6,17 @@ category: securite
 tags: [sécurité, logement, protection, intrusion, catastrophe naturelle]
 image: "/images/securiser-logement.jpg"
 readingTime: 12
+faq:
+  - question: "Mon propriétaire doit-il payer pour sécuriser le logement ?"
+    answer: "C'est partagé. Le propriétaire est responsable de la structure et des éléments fixes (porte d'entrée, serrure de la porte, détecteurs de fumée dans certains contextes). Le locataire est responsable de la sécurité de ses biens et peut installer des équipements démontables (barre de fenêtre, alarme sans perçage). Pour les travaux importants (remplacement de la porte), négociez avec votre propriétaire — c'est dans son intérêt aussi."
+  - question: "Un appartement au 5e étage est-il plus sûr qu'une maison ?"
+    answer: "Pour les cambriolages, oui — les étages élevés sont nettement moins ciblés. Pour les catastrophes naturelles, ça dépend : un appartement haut est bien protégé des inondations mais vulnérable aux séismes (les étages intermédiaires sont généralement les plus exposés dans les structures qui s'effondrent par étages)."
+  - question: "Une caméra de surveillance dissuade-t-elle vraiment les cambrioleurs ?"
+    answer: "Les caméras visibles ont un effet dissuasif documenté dans des études criminologiques. Les cambrioleurs opportunistes (70% des cas) cherchent des cibles faciles et éviteront une maison avec caméra visible. Les cambrioleurs professionnels, eux, peuvent contourner ou ignorer les caméras. La combinaison caméra + bon éclairage + serrure certifiée est beaucoup plus efficace que chaque élément seul."
+  - question: "Peut-on installer une serrure connectée (smart lock) sans perdre en sécurité ?"
+    answer: "Les serrures connectées de bonne qualité (Yale Linus, August, Nuki) ont une certification mécanique équivalente aux serrures classiques et ajoutent la commodité de l'accès sans clé. Le risque est le piratage de la serrure via son application. Pour réduire ce risque : réseau Wi-Fi sécurisé, mises à jour firmware régulières, accès par authentification à deux facteurs. Conservez toujours un cylindre de clé mécanique en parallèle en cas de panne de l'électronique."
+  - question: "Doit-on signaler sa préparation aux voisins ?"
+    answer: "Paradoxe apparent : annoncer publiquement que vous avez des réserves peut attirer les mauvaises personnes en cas de crise. La solution est le réseau de confiance : identifiez 2-4 voisins avec qui vous partagez vos préparatifs mutuellement. Ce réseau de voisins préparés est votre meilleure assurance — l'entraide de proximité fonctionne mieux que l'isolement, même bien préparé."
 ---
 
 Sécuriser son logement, c'est un sujet qui touche à deux réalités différentes que les gens confondent souvent. D'un côté, la sécurité au sens classique : protéger votre domicile contre les cambriolages et les intrusions. De l'autre, la préparation aux aléas : tempêtes, inondations, pannes électriques prolongées, situations de crise.

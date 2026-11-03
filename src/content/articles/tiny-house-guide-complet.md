@@ -7,6 +7,17 @@ tags: [tiny house, habitat alternatif, vie mobile, THOW, réglementation, habita
 featured: false
 image: "/images/tiny-house.jpg"
 readingTime: 14
+faq:
+  - question: "Peut-on habiter en permanence dans une tiny house sans terrain propre ?"
+    answer: "C'est la grande question. En France, la loi ALUR (2014) reconnaît les habitations légères de loisirs sur les terrains de camping et les parcs résidentiels de loisirs (PRL). En dehors de ces zones, une tiny house stationnée en permanence sur le terrain d'un particulier (même le vôtre) est dans une zone grise légale : techniquement, le stationnement prolongé d'une caravane ou remorque sur un terrain privé est toléré dans de nombreuses communes (surtout rurales) mais peut faire l'objet d'arrêtés mu"
+  - question: "Combien coûte l'assurance d'une tiny house ?"
+    answer: "Une tiny house sur remorque est assurée comme une caravane routière tant qu'elle est en déplacement (assurance RC incluse dans votre assurance auto). À l'arrêt, elle doit être assurée comme un habitat : responsabilité civile, incendie, dommages. Plusieurs assureurs proposent des contrats spécifiques \"habitation légère\" ou \"habitat alternatif\" : Maif, Macif, et quelques assureurs spécialisés (Atelka, Prévi-habitat). Budget : 300 à 600€ par an selon les garanties et la valeur déclarée."
+  - question: "Une tiny house garde-t-elle sa valeur dans le temps ?"
+    answer: "Ça dépend. Les tiny houses bien construites par des constructeurs reconnus avec matériaux de qualité se revendent 70 à 90% du prix d'achat après 5 ans et 50 à 70% après 10 ans, si elles sont bien entretenues — mieux que beaucoup de biens immobiliers une fois les frais de transaction déduits. Les autoconstructions de moindre qualité peuvent perdre 40 à 60% de leur valeur en 3-4 ans. La revente est facilitée par la notoriété du constructeur, la qualité des matériaux, et l'entretien visible (charpe"
+  - question: "Peut-on financer une tiny house avec un crédit immobilier ?"
+    answer: "Non, en général. Les banques considèrent une tiny house sur remorque comme un bien mobilier, pas immobilier — elles proposent donc un crédit à la consommation (taux plus élevé, durée plus courte). Pour une tiny house fixée sur fondations avec permis de construire, un crédit immobilier peut être accordé, mais peu de banques ont l'expérience de ces dossiers. Des solutions existent : Crédit Agricole et Crédit Mutuel ont des conseillers habitués aux projets d'habitat alternatif dans certaines région"
+  - question: "La tiny house est-elle adaptée aux familles avec enfants ?"
+    answer: "Des milliers de familles vivent en tiny house avec des enfants, y compris en France. Ce qui fonctionne : deux enfants de moins de 8 ans dans une tiny house bien conçue avec lits superposés, espace de jeu extérieur prévu, et accès à la nature. Ce qui est difficile : des adolescents qui ont besoin d'intimité dans moins de 30m², ou un enfant avec des besoins particuliers (sensoriel, médical). L'aménagement doit être pensé avec les enfants, et le mode de vie accepté par eux — une tiny house imposée "
 ---
 
 La première fois que j'ai vu une tiny house en vrai — pas en photo Pinterest, en vrai, dans un jardin normand — j'ai eu deux réactions simultanées. La première : "c'est incroyablement bien pensé." La deuxième, après avoir discuté une heure avec les occupants : "c'est beaucoup plus compliqué que ça n'en a l'air."

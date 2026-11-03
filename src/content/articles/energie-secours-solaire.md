@@ -6,6 +6,17 @@ category: equipement
 tags: [énergie solaire, autonomie, panneau solaire, batterie, panne électrique]
 image: "/images/energie-solaire.jpg"
 readingTime: 13
+faq:
+  - question: "Combien de panneaux solaires faut-il pour alimenter une maison entière ?"
+    answer: "Une maison française consomme en moyenne 4 500 à 5 500 kWh/an. Pour couvrir cette consommation en autoconsommation solaire, il faut environ 6 à 8 kWc de panneaux (soit 15 à 20 panneaux de 400W), avec stockage batterie. Pour une autonomie de secours partielle — éclairage, communication, réfrigérateur médicaments — 500 à 1000W de panneaux avec 2-5 kWh de stockage suffisent pour une famille."
+  - question: "Peut-on utiliser une station solaire portative pendant un voyage en camping ?"
+    answer: "Oui, c'est même l'un des usages les plus pratiques. Les stations portatives (Jackery, EcoFlow, Bluetti) sont conçues pour être transportées. Côté camping, un panneau de 100-200W posé sur le toit d'un fourgon ou d'une tente peut fournir suffisamment d'énergie pour les équipements de base. À noter : les panneaux monocristallins sont plus efficaces mais plus fragiles que les panneaux semi-flexibles pour un usage mobile."
+  - question: "Quelle est la durée de vie d'un panneau solaire ?"
+    answer: "Les panneaux solaires modernes sont garantis 25 à 30 ans avec une dégradation de rendement de 0,5 à 0,7% par an. Un panneau qui produit 400W à l'installation produit encore environ 320-340W au bout de 25 ans. Les onduleurs et batteries ont des durées de vie plus courtes : 10-15 ans pour les onduleurs, 5-15 ans pour les batteries selon la chimie et l'usage. C'est sur ces composants que se concentrent les remplacements à prévoir."
+  - question: "Est-ce que le solaire fonctionne quand il fait nuageux ?"
+    answer: "Oui, mais avec une production réduite. Par ciel couvert, un panneau produit 10 à 25% de sa puissance nominale. Par ciel voilé (nuages fins), 40 à 60%. La production n'est pas nulle, mais un système prévu pour 3 heures d'ensoleillement plein peut mettre 10-12h à se recharger par ciel couvert. En Bretagne ou dans le Nord, intégrez cette réalité dans vos calculs de dimensionnement."
+  - question: "Peut-on alimenter un chauffe-eau électrique avec des panneaux solaires en autonomie ?"
+    answer: "Techniquement oui, mais le dimensionnement est lourd. Un chauffe-eau 150L consomme 1 500 à 3 000W pendant 1 à 2h par jour, soit 1,5 à 6 kWh/jour. Pour alimenter ça avec des panneaux, il faut 1 500 à 3 000W de puissance crête et une belle journée ensoleillée. Mieux vaut opter pour un chauffe-eau solaire thermique (CESI), qui utilise directement la chaleur du soleil avec un rendement 3 fois supérieur au photovoltaïque pour cet usage."
 ---
 
 Une panne électrique de 4 jours en plein hiver. C'est ce qui s'est passé dans plusieurs communes du Sud-Ouest lors des tempêtes de janvier 2009, et plus récemment dans certaines zones lors de la tempête Ciaran en novembre 2023. Les familles sans préparation se sont retrouvées sans chauffage, sans éclairage, sans possibilité de recharger les téléphones, et avec le contenu du congélateur qui fondait.

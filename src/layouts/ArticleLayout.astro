@@ -14,6 +14,11 @@ interface ArticleData {
   id?: string;
 }
 
+interface FaqItem {
+  question: string;
+  answer: string;
+}
+
 interface Props {
   title: string;
   description: string;
@@ -23,10 +28,11 @@ interface Props {
   readingTime?: number;
   image?: string;
   slug?: string;
+  faq?: FaqItem[];
   allArticles?: Array<{ id: string; data: ArticleData }>;
 }
 
-const { title, description, pubDate, category, tags, readingTime, image, slug, allArticles = [] } = Astro.props;
+const { title, description, pubDate, category, tags, readingTime, image, slug, faq = [], allArticles = [] } = Astro.props;
 
 const categoryLabels: Record<string, string> = {
   preparation: 'Préparation',
@@ -40,7 +46,81 @@ const formattedDate = pubDate.toLocaleDateString('fr-FR', {
   day: 'numeric', month: 'long', year: 'numeric'
 });
 
-// Sidebar: 6 other articles (same category first, then rest)
+// ── Schema.org JSON-LD ───────────────────────────────
+const siteUrl = 'https://refugeautonome.com';
+const articleUrl = `${siteUrl}/blog/${slug}`;
+const imageUrl = image ? (image.startsWith('http') ? image : `${siteUrl}${image}`) : undefined;
+const pubDateISO = pubDate.toISOString();
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: title,
+  description: description,
+  url: articleUrl,
+  datePublished: pubDateISO,
+  dateModified: pubDateISO,
+  image: imageUrl,
+  inLanguage: 'fr-FR',
+  author: {
+    '@type': 'Organization',
+    name: 'Le Refuge Autonome',
+    url: siteUrl,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Le Refuge Autonome',
+    url: siteUrl,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${siteUrl}/favicon.svg`,
+    },
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': articleUrl,
+  },
+};
+
+const faqSchema = faq.length > 0 ? {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faq.map(item => ({
+    '@type': 'Question',
+    name: item.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.answer,
+    },
+  })),
+} : null;
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Accueil',
+      item: siteUrl,
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Blog',
+      item: `${siteUrl}/blog`,
+    },
+    {
+      '@type': 'ListItem',
+      position: 3,
+      name: title,
+      item: articleUrl,
+    },
+  ],
+};
+
+// ── Sidebar: 6 other articles (same category first, then rest)
 const otherArticles = allArticles
   .filter(a => a.id !== slug)
   .sort((a, b) => {
@@ -56,7 +136,16 @@ const relatedArticles = allArticles
   .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
   .slice(0, 3);
 ---
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} image={imageUrl}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+    {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content={pubDateISO} />
+    <meta property="article:author" content="Le Refuge Autonome" />
+    {tags && tags.map(tag => <meta property="article:tag" content={tag} />)}
+  </Fragment>
   <Header />
 
   <main class="article-page">

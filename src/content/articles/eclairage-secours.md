@@ -6,6 +6,17 @@ category: equipement
 tags: [éclairage, lampe, panne, secours, LED, lanterne, bougie]
 image: "/images/eclairage-secours.jpg"
 readingTime: 11
+faq:
+  - question: "Combien de lampes frontales faut-il avoir dans une famille de 4 ?"
+    answer: "Idéalement une par personne adulte et une adaptée pour chaque enfant. En pratique minimum, 2 lampes frontales adultes + 1 veilleuse enfant + 1 lanterne centrale. Mais avoir 4 lampes frontales (une par personne) supprime tous les conflits et les situations de dépannage dans le noir."
+  - question: "Peut-on utiliser les bougies comme éclairage principal pendant une panne prolongée ?"
+    answer: "Oui, mais avec des précautions. Les bougies pilier de grande taille (8-10cm de diamètre, 20cm de hauteur) durent 50-80 heures. Le risque principal est l'incendie : ne les laissez jamais sans surveillance, gardez-les dans des photophores stables en verre, et ayez un extincteur ou un seau d'eau à portée."
+  - question: "Les piles rechargeables valent-elles l'investissement pour un kit d'urgence ?"
+    answer: "Oui, à condition de choisir les bonnes. Les Eneloop de Panasonic (format \"Low Self-Discharge\") gardent 70% de leur charge après 10 ans de stockage. C'est nettement mieux que les NiMH classiques. Investissement initial plus élevé, mais rentable sur 3-5 ans d'utilisation."
+  - question: "Quelle est la différence entre les lumens et la durée d'autonomie sur une lampe frontale ?"
+    answer: "Les lumens mesurent la puissance lumineuse (plus = plus lumineux). L'autonomie dépend des lumens utilisés : une lampe de 300 lumens max peut fonctionner 50h à 50 lumens (mode économie) ou seulement 4h à 300 lumens (mode max). Pour une panne longue, le mode économie (60-100 lumens) est le bon compromis entre visibilité et durée."
+  - question: "Comment organiser son stock de bougies pour qu'elles ne fondent pas dans le garage en été ?"
+    answer: "Conservez les bougies dans un endroit frais, sec et sombre — un placard intérieur, pas le garage où les températures peuvent dépasser 40°C en été. La chaleur déforme les bougies pilier et peut faire fondre les tealights dans leurs contenants. Température idéale de stockage : 15-22°C."
 ---
 
 Il est 19h un soir de janvier. Dehors, -5°C. Le réseau électrique de votre quartier vient de tomber — une tempête a arraché des câbles dans la zone. Votre téléphone est à 30% de batterie. Il fait nuit noire dans la maison.

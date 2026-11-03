@@ -7,6 +7,17 @@ tags: [off-grid, hors réseau, autonomie, installation isolée, vie alternative,
 featured: false
 image: "/images/vie-au-reseau.jpg"
 readingTime: 15
+faq:
+  - question: "Faut-il un terrain constructible pour vivre off-grid en France ?"
+    answer: "Pas nécessairement, mais c'est fortement recommandé pour une habitation principale légale. Vivre sur un terrain non constructible (agricole, naturel) dans une structure fixe est illégal et expose à des expulsions et amendes. Des exceptions existent : certaines communes rurales en déprise permettent des dérogations pour des projets d'habitat léger, notamment via les PLUi (Plans Locaux d'Urbanisme intercommunaux). Des structures mobiles (caravanes, camping-cars) n'ont pas le même statut légal qu'u"
+  - question: "Peut-on se déconnecter totalement de l'eau du réseau public en France ?"
+    answer: "Légalement oui, si vous disposez d'une source d'eau propre (puits, captage de source) validée par une analyse sanitaire. La déconnexion totale du réseau n'est pas interdite si vous avez une alternative. En pratique, la plupart des foyers off-grid maintiennent un raccordement au réseau en secours, même inutilisé la plupart du temps. La complication vient de l'assainissement : si vous avez un raccordement réseau disponible, le branchement à l'égout est souvent obligatoire (Code de la santé publiqu"
+  - question: "Combien coûte un système off-grid complet pour une maison de 100m² ?"
+    answer: "Les estimations varient énormément selon les choix techniques, la localisation et les économies réalisées en autoconstruction. Ordre de grandeur pour une maison bien isolée de 100m² avec confort moderne : - Système solaire 6 kWc + stockage 20 kWh : 15 000 à 25 000€ - Récupération et traitement eau de pluie : 3 000 à 8 000€ - Chauffage bois (poêle de masse ou chaudière granulés) : 5 000 à 15 000€ - Assainissement autonome : 5 000 à 12 000€ - Total système : 28 000 à 60 000€ Sans compter le terrai"
+  - question: "La vie off-grid est-elle compatible avec des enfants scolarisés ?"
+    answer: "Oui, mais avec des contraintes logistiques selon l'emplacement. Les familles off-grid avec enfants scolarisés vivent généralement à moins de 30 minutes d'une école. Le covoiturage scolaire, les bus scolaires ruraux et parfois l'instruction en famille (légale en France depuis toujours, réglementée depuis 2021) sont les solutions utilisées. L'instruction en famille nécessite une déclaration annuelle et un contrôle par l'Éducation Nationale des apprentissages — c'est une option viable mais qui dema"
+  - question: "Peut-on travailler en télétravail depuis un lieu off-grid ?"
+    answer: "Oui, si vous avez une connexion internet suffisante. Les options disponibles selon la localisation : fibre ou ADSL (disponible dans de nombreuses zones rurales françaises), 4G ou 5G via routeur mobile (couverture croissante mais pas universelle), satellite (Starlink couvre désormais la quasi-totalité de la France avec des débits de 50 à 150 Mbps — environ 50€/mois). Un système solaire bien dimensionné peut alimenter un ordinateur et une box sans difficulté. Le principal défi n'est pas technique "
 ---
 
 J'ai rencontré des dizaines de personnes qui avaient "le projet off-grid". Certains ont sauté, d'autres pas. Ce qui les différenciait n'était pas le courage ni les moyens — c'était la clarté sur ce que ça implique vraiment.

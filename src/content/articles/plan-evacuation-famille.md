@@ -6,6 +6,17 @@ category: preparation
 tags: [évacuation, plan familial, enfants, communication, urgence]
 image: "/images/plan-evacuation.jpg"
 readingTime: 11
+faq:
+  - question: "Faut-il vraiment un plan écrit, ou est-ce suffisant de s'en souvenir ?"
+    answer: "Le plan écrit est indispensable. Sous stress, la mémoire défaille — des études sur le comportement humain en situation d'urgence montrent que des personnes parfaitement entraînées oublient des procédures simples sous panique aiguë. Un plan plastifié, posé à un endroit connu de tous, ne panique pas et ne \"blanche\" pas. De plus, un plan écrit peut être suivi par un membre de la famille qui était absent quand il a été élaboré."
+  - question: "À quelle fréquence doit-on mettre à jour le plan ?"
+    answer: "Révisez le plan chaque fois que quelque chose change dans votre vie : déménagement, naissance d'un enfant, changement d'école des enfants, changement de travail modifiant vos trajets habituels, ajout d'un animal domestique, arrivée d'une personne âgée dans le foyer. Et faites une révision de routine annuelle même sans changement apparent — les numéros de téléphone changent, les contacts de confiance évoluent."
+  - question: "Que faire si on ne peut pas évacuer (accès bloqué, inondation encerclant la maison) ?"
+    answer: "C'est le scénario d'\"évacuation impossible\" qui nécessite un plan de confinement plutôt qu'une évacuation. Montez aux étages supérieurs en cas d'inondation. Signalez votre présence (drap blanc à la fenêtre, SMS à vos proches, appel au 15/18). Ne traversez jamais une zone inondée à pied ou en voiture — 30cm d'eau courante renverse un adulte, 50cm emporte un véhicule. Dans ce cas, attendez les secours et économisez vos ressources (eau, nourriture, téléphone)."
+  - question: "Nos enfants sont scolarisés dans deux écoles différentes. Comment gérer ?"
+    answer: "Désignez une personne responsable par école. Idéalement, l'un des parents va à l'école A, l'autre à l'école B, et vous vous retrouvez ensuite au point de rassemblement B. Assurez-vous que les deux écoles disposent d'une liste à jour des personnes autorisées à récupérer chaque enfant, avec un numéro de contact fonctionnel pour vous joindre. En cas d'impossibilité (parents tous deux au travail loin), désignez une personne de confiance pour chaque école — et vérifiez que les établissements scolaire"
+  - question: "Combien de temps faut-il prévoir pour évacuer un appartement au 5e étage sans ascenseur ?"
+    answer: "Chronométrez-le vraiment — ne l'estimez pas. Avec un sac de 15kg, deux enfants, un chien et un membre âgé, descendre 5 étages peut prendre 8 à 15 minutes. Ce n'est pas une contrainte rédhibitoire, mais c'est une réalité à intégrer dans votre plan. Si l'escalier est votre seule sortie et qu'il est condamné (incendie dans l'escalier), vous devez savoir à l'avance que l'option \"confinement + signalement aux secours depuis votre logement\" existe et est la bonne dans ce cas."
 ---
 
 La plupart des familles pensent qu'elles savent comment réagir en cas d'urgence. Puis la crise arrive — incendie, fuite de gaz, inondation soudaine — et tout le monde court dans des directions différentes, sans coordination, en cherchant les clés, en oubliant les documents, en essayant d'appeler des téléphones qui ne répondent pas.

@@ -6,6 +6,17 @@ category: preparation
 tags: [documents, sauvegarde, urgence, administratif, numérique, protection]
 image: "/images/documents-importants.jpg"
 readingTime: 11
+faq:
+  - question: "Faut-il déposer des documents originaux chez un notaire ?"
+    answer: "Pour certains documents cruciaux (testament, acte de vente immobilier), le notaire est le seul dépositaire légitime. Pour les autres, c'est une option de sécurité supplémentaire utile si vous avez des doutes sur la sécurité de votre domicile. Vous pouvez déposer une enveloppe scellée contenant vos mots de passe principaux et les coordonnées de vos comptes chez votre notaire — elle ne sera ouverte que par vos héritiers ou à votre demande."
+  - question: "Comment sécuriser les scans si mon téléphone est perdu ou volé ?"
+    answer: "La clé est la séparation : ne stockez pas vos scans uniquement sur votre téléphone local. Synchronisez-les avec un cloud (Google Drive, iCloud) protégé par un mot de passe fort et une authentification à deux facteurs. Ainsi, la perte du téléphone ne fait pas perdre les documents."
+  - question: "Puis-je présenter un scan de ma CNI à la place de l'original ?"
+    answer: "En France, la présentation de l'original est obligatoire dans la plupart des démarches officielles (banque, administration). Les scans ne remplacent pas les originaux pour l'identification légale. Ils servent à prouver que le document existait (pour les reconstructions administratives) et à avoir les numéros sous la main (numéro de CNI, numéro de passeport)."
+  - question: "Que faire si mes documents sont en mauvais état ou difficiles à scanner ?"
+    answer: "Pour les vieux documents abîmés (actes de naissance anciens, diplômes fragiles), utilisez un scanner à plat plutôt que l'appareil photo du téléphone — la qualité est meilleure. Pour les documents très fragiles, une copie certifiée conforme demandée à l'administration d'origine est plus fiable qu'un scan de mauvaise qualité."
+  - question: "Dois-je crypter les fichiers dans le cloud ?"
+    answer: "Si vous avez des préoccupations de sécurité (données personnelles sensibles, exposition professionnelle), le chiffrement est une bonne pratique. Proton Drive chiffre automatiquement. Sur Google Drive ou iCloud, vous pouvez chiffrer les fichiers avant upload avec des outils comme Cryptomator (gratuit, open source). Pour la plupart des particuliers, l'authentification à deux facteurs sur le compte cloud est déjà une protection suffisante."
 ---
 
 Un incendie, une inondation, un cambriolage, une évacuation d'urgence. Dans ces situations, les gens récupèrent d'abord leurs enfants, leurs animaux, parfois un sac de départ. Les documents — souvent — restent derrière.

@@ -7,6 +7,17 @@ tags: [chauffage, hiver, sécurité, appoint, urgence, préparation hivernale]
 featured: false
 image: "/images/chauffage-appoint.jpg"
 readingTime: 13
+faq:
+  - question: "Peut-on laisser tourner un radiateur à bain d'huile toute la nuit ?"
+    answer: "Oui, c'est l'un des chauffages d'appoint les plus sûrs pour un usage nocturne. Le bain d'huile ne brûle pas l'oxygène, ne produit pas de CO, et la surface du radiateur monte en température graduellement sans risque de brûlure en cas de contact. Les modèles récents avec thermostat et timer permettent de programmer une température cible. Seule précaution : ne pas le couvrir ni le placer trop près d'une literie ou d'un rideau. La consommation d'un 1500W sur une nuit (8h) est environ 12 kWh — à véri"
+  - question: "La cheminée à foyer ouvert est-elle efficace pour chauffer ?"
+    answer: "Non — c'est l'un des systèmes de chauffage les moins efficaces. Une cheminée à foyer ouvert a un rendement de -10% à +15% : elle aspire l'air chaud de la pièce par le tirage et le rejette dehors, tout en réchauffant un peu par rayonnement direct. C'est agréable visuellement mais peu efficace. Un insert (foyer fermé vitré) porte le rendement à 60-75%. Un poêle à bois indépendant : 70-85%. Si vous avez une cheminée ouverte, envisagez un insert lors de votre prochain projet de rénovation."
+  - question: "Comment savoir si mon détecteur CO fonctionne encore ?"
+    answer: "Les détecteurs CO ont une durée de vie de 5 à 7 ans (indiquée sur l'emballage ou au dos de l'appareil). Passé ce délai, la cellule de détection se dégrade et l'appareil peut ne plus détecter le CO même avec les piles neuves. Appuyez sur le bouton test — si le signal sonore retentit, les piles et l'électronique fonctionnent, mais pas forcément la cellule. Vérifiez la date de péremption imprimée sur l'appareil. Si vous ne la trouvez pas ou si l'appareil date de plus de 7 ans, remplacez-le (15 à 40"
+  - question: "Combien de bouteilles de gaz prévoir pour une saison ?"
+    answer: "Pour un chauffage à gaz de 2000W utilisé 6h par jour comme appoint principal lors des grands froids (environ 30 jours/hiver en France moyenne), comptez 60 heures de fonctionnement. Une bouteille de 13kg de butane dure environ 14 à 18 heures à pleine puissance. Prévoyez donc 4 à 5 bouteilles pour couvrir les grands froids. Si c'est un appoint ponctuel (quelques heures en cas de panne), 2 bouteilles suffisent. Achetez-les en automne : les prix sont stables et les stocks disponibles."
+  - question: "Les couvertures de survie sont-elles vraiment efficaces en intérieur ?"
+    answer: "Oui, mais pas seules. La couverture de survie (film mylar aluminisé) réfléchit 90% du rayonnement thermique corporel — c'est son principal mécanisme. En intérieur, glissée entre le corps et une couverture classique, elle maintient une chaleur remarquable. Elle ne crée pas de chaleur, elle la conserve. Inconvénient : elle ne respire pas (condensation si portée à même la peau pendant plusieurs heures) et fait du bruit. Usage optimal : à l'extérieur du sac de couchage ou entre deux couvertures. Une"
 ---
 
 L'hiver 2022-2023 a rappelé à beaucoup de Français que le chauffage n'est pas garanti. Entre les menaces de coupures de gaz, les pannes de réseau de chaleur urbain, et les délestages électriques qui n'ont finalement pas eu lieu mais auraient pu, des milliers de foyers se sont retrouvés à chercher en urgence un chauffage d'appoint. Les rayons étaient vides en novembre.

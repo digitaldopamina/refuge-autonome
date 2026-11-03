@@ -7,6 +7,17 @@ tags: [kit urgence, 72h, préparation, famille]
 featured: true
 image: "/images/kit-urgence-72h.jpg"
 readingTime: 14
+faq:
+  - question: "Quelle est la différence entre un kit 72h et un \"bug-out bag\" ?"
+    answer: "Un kit 72h est conçu pour rester chez soi ou dans un abri proche pendant 3 jours — une panne de courant, une alerte de confinement, une tempête. Son contenu favorise le confort et la durée (eau, nourriture, éclairage, communication). Un bug-out bag (\"sac de départ\" en français) est conçu pour être porté sur le dos lors d'une évacuation : il est plus léger, plus compact, et privilégie la mobilité sur le confort. Dans la pratique, beaucoup de préparés constituent un kit 72h à domicile ET un sac "
+  - question: "Est-il vraiment nécessaire de prévoir de l'eau si on a le robinet ?"
+    answer: "L'eau du robinet peut être coupée ou contaminée lors exactement des crises qui nécessitent un kit d'urgence : inondations touchant les réseaux, coupures de pompage électrique, contamination de la source. En France, des coupures d'eau surviennent chaque année lors de fortes chaleurs (risque de rupture des canalisations), de gel (casses de tuyaux), d'inondations, ou de travaux d'urgence. La recommandation de 3L/personne/jour est un minimum de sécurité que votre kit 72h doit couvrir — soit 9L pour "
+  - question: "Peut-on acheter un kit prêt à l'emploi en ligne plutôt que de le constituer soi-même ?"
+    answer: "Oui, il en existe (Survie Boutique, Crossroads, certains kits sur Amazon). Les avantages : gain de temps, cohérence des composants. Les inconvénients : coût souvent supérieur de 30 à 50%, contenu générique qui ne correspond pas à votre profil familial (médicaments spécifiques absents, aucune adaptation pour enfants ou personnes âgées), et certains kits contiennent des produits de qualité médiocre. Si vous achetez un kit prêt à l'emploi, prenez-le comme base et complétez-le avec vos besoins spéci"
+  - question: "Quelle est la durée de vie de la nourriture stockée dans le kit ?"
+    answer: "Les rations de survie lyophilisées ou en comprimés : 5 à 25 ans selon les fabricants. Les barres de céréales classiques : 1 à 2 ans. Le beurre de cacahuète en pot (non ouvert) : 1 à 2 ans. Les conserves de légumes ou thon : 3 à 5 ans. La règle pratique : chaque année, lors de votre maintenance annuelle du kit, consommez et remplacez tout ce qui expire dans les 12 mois. Ne mettez jamais dans votre kit des aliments dont la date est inférieure à 1 an — ils expireront avant votre prochaine maintenan"
+  - question: "Faut-il adapter le kit selon la région où on habite ?"
+    answer: "Absolument. Un kit adapté pour la région parisienne (pannes électriques, inondations ponctuelles) diffère de celui d'un habitant de la côte atlantique (tempêtes, submersion) ou d'une zone de montagne (avalanche, isolement hivernal, altitude). Vérifiez les risques spécifiques de votre commune via le DDRM (Dossier Départemental des Risques Majeurs) de votre département ou sur georisques.gouv.fr. Adaptez votre kit en conséquence : une valve anti-retour et des sacs de sable pour une zone inondable, "
 ---
 
 La première fois que j'ai monté un vrai kit d'urgence, j'ai réalisé que j'avais passé des années à me croire préparé sans l'être vraiment. Une bouteille d'eau dans un placard, une vieille lampe torche dont les piles étaient mortes depuis 2019, et quelques boîtes de conserve périmées. C'était ça, mon "kit d'urgence". Pas terrible.

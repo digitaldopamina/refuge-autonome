@@ -6,6 +6,17 @@ category: equipement
 tags: [voiture, urgence, panne, kit, coffre, sécurité routière]
 image: "/images/kit-voiture.jpg"
 readingTime: 12
+faq:
+  - question: "Dois-je avoir un kit dans chaque voiture de la famille ?"
+    answer: "Idéalement oui. Un kit minimal par véhicule (gilet + triangle + lampe + câbles) est le strict minimum. Le kit complet peut être partagé si vous utilisez toujours les deux voitures ensemble, mais c'est un risque. Le plus simple : un kit de base dans chaque voiture (50-80€) et un kit plus complet dans la voiture principale."
+  - question: "Les câbles de démarrage sont-ils encore utiles avec les voitures récentes ?"
+    answer: "Oui. Même les voitures électriques et hybrides peuvent avoir une batterie 12V auxiliaire en panne. Et si vous avez un booster autonome (comme le NOCO GB40), vous n'avez même pas besoin d'une autre voiture."
+  - question: "Quelle est la durée de vie d'un kit anti-crevaison ?"
+    answer: "La plupart des kits anti-crevaison (gel colmatant) ont une durée de vie de 3 à 4 ans. Vérifiez la date d'expiration et remplacez le avant qu'il soit périmé."
+  - question: "Mon assurance couvre-t-elle l'assistance en cas de panne ?"
+    answer: "La plupart des contrats d'assurance incluent une assistance dépannage. Vérifiez votre contrat et gardez le numéro de votre assisteur dans le kit, sur papier — vous n'aurez pas forcément accès à votre téléphone ou à internet."
+  - question: "Faut-il avoir une carte routière si on a un GPS ?"
+    answer: "Fortement recommandé. Le GPS dépend du courant (votre batterie) et du réseau (pour les GPS connectés). Une carte papier de votre région ou de votre itinéraire habituel est une assurance zéro-défaillance."
 ---
 
 C'était un dimanche soir de décembre, retour de chez les beaux-parents sur l'autoroute A6. Crevaison soudaine à 22h, -3°C, 40 km du prochain péage. Je n'avais rien. Pas de gilet jaune, pas de triangle, pas de lampe. Mon téléphone était à 8% de batterie.

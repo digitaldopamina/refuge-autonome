@@ -6,6 +6,17 @@ category: preparation
 tags: [communication, crise, radio, talkie-walkie, réseau saturé, urgence]
 image: "/images/communication-crise.jpg"
 readingTime: 12
+faq:
+  - question: "Les SMS passent-ils vraiment mieux que les appels en cas de réseau saturé ?"
+    answer: "Oui. Un appel vocal crée une \"connexion\" qui monopolise de la bande passante pendant toute la durée de l'appel (quelques minutes minimum). Un SMS est transmis en quelques millisecondes et peut s'insérer dans des \"trous\" du réseau. En situation de saturation, le taux de succès des SMS est nettement plus élevé que celui des appels. WhatsApp et Telegram fonctionnent sur le même principe que les SMS (paquets de données courts)."
+  - question: "Un talkie-walkie peut-il être intercepté ?"
+    answer: "Oui. Les talkies-walkies PMR446 grand public émettent sur des fréquences non chiffrées. N'importe qui avec un talkie-walkie sur le même canal peut entendre vos conversations. Pour des communications sensibles, utilisez un jargon convenu à l'avance avec votre réseau (\"Oiseau\" pour \"tout va bien\", numéros de code pour les adresses, etc.). Pour un chiffrement réel, les solutions Mesh comme goTenna offrent du chiffrement de bout en bout."
+  - question: "Que faire si je n'ai plus de batterie et aucun moyen de recharger ?"
+    answer: "Priorité dans l'ordre : 1) Batterie externe si disponible. 2) Chargeur de voiture (câble USB → port USB de tableau de bord). 3) Voisin avec électricité ou groupe électrogène. 4) Station d'énergie portable communautaire si votre réseau de voisins en a une. 5) Téléphone d'urgence : dans de nombreuses communes, la mairie ouvre un point d'accueil avec recharge possible en cas de panne prolongée. La règle d'or : conservez toujours 20% de batterie sur votre téléphone principal."
+  - question: "Comment joindre un proche à l'étranger si internet ne marche pas ?"
+    answer: "Si internet est coupé mais le réseau téléphonique fonctionne partiellement, appelez directement avec le préfixe international (+33 depuis l'étranger pour joindre la France, +1 pour les USA, etc.). Si ni internet ni le réseau ne fonctionnent, votre contact hors zone (un proche dans une autre région ou un autre pays) peut servir de relais d'information : les personnes dans les zones non affectées ont généralement un accès normal aux réseaux."
+  - question: "Le réseau 4G/5G tombe-t-il avant ou après le réseau fixe (fibre, ADSL) en cas de panne ?"
+    answer: "Les deux tombent différemment. La panne électrique touche d'abord le réseau fixe (votre box internet s'éteint). Le réseau mobile résiste plus longtemps grâce aux batteries intégrées des antennes-relais (4 à 8h typiquement). En revanche, en cas de saturation (nombreuses personnes dans la même zone), le réseau mobile se sature avant le réseau fixe. En pratique : lors d'une panne électrique, vous perdez le WiFi mais gardez la 4G un certain temps. Lors d'un événement majeur avec des millions de pers"
 ---
 
 Le 13 novembre 2015, après les attentats de Paris, les réseaux mobiles de la capitale ont été saturés pendant plusieurs heures. Des milliers de personnes n'arrivaient pas à joindre leurs proches. Ce n'était pas une panne technique — c'était simplement trop d'appels en même temps pour une infrastructure dimensionnée pour un usage normal.
