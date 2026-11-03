@@ -208,6 +208,78 @@ Les panneaux solaires n'ont pas de pièce mobile et nécessitent peu d'entretien
 
 **Stations portables :** recharger complètement 2 fois par an minimum si non utilisées. Vérifier l'état de la batterie via l'application si disponible.
 
+## Préparer votre système solaire pour une crise prolongée
+
+Une coupure de 48 heures et une panne de 2 semaines ne se gèrent pas pareil. Voici comment penser la montée en puissance selon la durée probable de la crise.
+
+### Scénario 1 : panne de 24 à 72 heures
+
+C'est le scénario le plus fréquent — tempête, défaillance locale du réseau, incident sur un transformateur. Dans ce cas, une station portable d'entrée de gamme (Jackery 240 ou EcoFlow River 2) avec un panneau 100W couvre largement les besoins essentiels.
+
+**Priorités d'usage :**
+1. Recharge des téléphones (pour rester informé et joindre les secours)
+2. Éclairage LED (5-10W, peu consommateur)
+3. Box internet ou radio (si le signal est disponible)
+4. Ventilateur en été ou petite couverture chauffante (selon saison)
+
+**Ce qu'on ne fait pas :** tenter de faire tourner le réfrigérateur sur une batterie de 240Wh. Il consomme 30 à 80W en continu — il vide la batterie en 3 à 8 heures. Mieux vaut ouvrir le frigo le moins possible et consommer les aliments périssables prioritairement.
+
+### Scénario 2 : panne de 3 à 10 jours
+
+Une panne prolongée change tout. Le solaire doit couvrir les besoins en lumière, communication et éventuellement conservation des médicaments réfrigérés (insuline par exemple).
+
+**Ce qu'il faut :**
+- Station 500-1000Wh + panneau 100-200W
+- Gestion rigoureuse de la consommation (bilan quotidien)
+- Éclairage LED exclusivement
+- Réfrigérateur medicaments sur petit module Peltier (5-15W) si nécessaire
+
+**Astuce pour étirer l'autonomie :** couper tout en mode veille, recharger uniquement la journée, éteindre les appareils la nuit. Une bonne discipline de consommation double l'autonomie effective.
+
+### Scénario 3 : panne de plus de 2 semaines
+
+Les pannes aussi longues sont rares en France métropolitaine mais surviennent lors de catastrophes naturelles majeures (tempêtes Xynthia, Klaus, Lothar). Dans ce cas, un système fixe ou une installation hybride est nécessaire.
+
+**Ce qu'il faut :**
+- Panneaux 400-800W fixés ou orientables
+- Batteries 2-5 kWh minimum
+- Onduleur permettant l'alimentation des circuits prioritaires (éclairage, cuisine, communication)
+- Source de chauffage indépendante (bois, granulés) — le solaire seul ne suffit pas en hiver
+
+## Sécurité électrique : les règles à ne jamais ignorer
+
+Le solaire implique de l'électricité. Quelques règles impératives :
+
+**Tension continue (DC) :** les panneaux solaires produisent de la tension continue, potentiellement dangereuse dès 48V. Ne jamais court-circuiter les câbles, ne jamais travailler sur une installation sous tension sans formation.
+
+**Connexion au réseau :** toute installation raccordée au réseau électrique public doit être réalisée par un professionnel certifié QualiPV. Une installation non conforme peut causer des accidents mortels pour les agents de réseau travaillant sur les lignes.
+
+**Batteries lithium :** ne jamais percer ou écraser une batterie lithium. Stocker à l'écart des matières inflammables. En cas de surchauffe ou gonflement de la batterie, évacuer la pièce.
+
+**Utilisation en intérieur des générateurs :** rappel critique — aucun générateur à moteur (essence, gaz, diesel) ne doit fonctionner en espace fermé. Le monoxyde de carbone est inodore et mortel. Ce principe s'applique même en cas de panne prolongée.
+
+## Questions fréquentes sur l'énergie solaire de secours
+
+**Combien de panneaux solaires faut-il pour alimenter une maison entière ?**
+
+Une maison française consomme en moyenne 4 500 à 5 500 kWh/an. Pour couvrir cette consommation en autoconsommation solaire, il faut environ 6 à 8 kWc de panneaux (soit 15 à 20 panneaux de 400W), avec stockage batterie. Pour une autonomie de secours partielle — éclairage, communication, réfrigérateur médicaments — 500 à 1000W de panneaux avec 2-5 kWh de stockage suffisent pour une famille.
+
+**Peut-on utiliser une station solaire portative pendant un voyage en camping ?**
+
+Oui, c'est même l'un des usages les plus pratiques. Les stations portatives (Jackery, EcoFlow, Bluetti) sont conçues pour être transportées. Côté camping, un panneau de 100-200W posé sur le toit d'un fourgon ou d'une tente peut fournir suffisamment d'énergie pour les équipements de base. À noter : les panneaux monocristallins sont plus efficaces mais plus fragiles que les panneaux semi-flexibles pour un usage mobile.
+
+**Quelle est la durée de vie d'un panneau solaire ?**
+
+Les panneaux solaires modernes sont garantis 25 à 30 ans avec une dégradation de rendement de 0,5 à 0,7% par an. Un panneau qui produit 400W à l'installation produit encore environ 320-340W au bout de 25 ans. Les onduleurs et batteries ont des durées de vie plus courtes : 10-15 ans pour les onduleurs, 5-15 ans pour les batteries selon la chimie et l'usage. C'est sur ces composants que se concentrent les remplacements à prévoir.
+
+**Est-ce que le solaire fonctionne quand il fait nuageux ?**
+
+Oui, mais avec une production réduite. Par ciel couvert, un panneau produit 10 à 25% de sa puissance nominale. Par ciel voilé (nuages fins), 40 à 60%. La production n'est pas nulle, mais un système prévu pour 3 heures d'ensoleillement plein peut mettre 10-12h à se recharger par ciel couvert. En Bretagne ou dans le Nord, intégrez cette réalité dans vos calculs de dimensionnement.
+
+**Peut-on alimenter un chauffe-eau électrique avec des panneaux solaires en autonomie ?**
+
+Techniquement oui, mais le dimensionnement est lourd. Un chauffe-eau 150L consomme 1 500 à 3 000W pendant 1 à 2h par jour, soit 1,5 à 6 kWh/jour. Pour alimenter ça avec des panneaux, il faut 1 500 à 3 000W de puissance crête et une belle journée ensoleillée. Mieux vaut opter pour un chauffe-eau solaire thermique (CESI), qui utilise directement la chaleur du soleil avec un rendement 3 fois supérieur au photovoltaïque pour cet usage.
+
 ---
 
 L'énergie solaire de secours, c'est un investissement qui se rentabilise de deux façons : en sécurité (vous êtes autonome quand le réseau flanche) et en économie (une station portable ou un système fixe réduit votre facture d'électricité au quotidien).

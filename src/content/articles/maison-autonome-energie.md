@@ -217,6 +217,86 @@ L'autonomie totale (100%) est théoriquement possible mais très coûteuse (20-5
 
 Chaque phase augmente l'autonomie et a sa propre logique de retour sur investissement. Inutile de tout faire d'un coup — chaque étape a du sens indépendamment.
 
+## Les erreurs courantes dans le parcours vers l'autonomie
+
+Beaucoup de ménages qui se lancent dans l'autonomie énergétique commettent des erreurs qui coûtent cher ou ralentissent leur progression. En voici les principales.
+
+### Commencer par le solaire avant d'isoler
+
+C'est l'erreur la plus fréquente et la plus coûteuse. Installer 6 kWc de solaire sur une maison mal isolée qui chauffe à l'électricité, c'est comme remplir un seau percé. Les panneaux couvriront une fraction des besoins en chauffage — et vous aurez dépensé 10 000 à 15 000€ pour un résultat décevant.
+
+**La règle :** isolez d'abord, produisez ensuite. Un euro investi en isolation rapporte généralement plus qu'un euro investi en production solaire, surtout pour les maisons d'avant 1990.
+
+### Surestimer la production solaire hivernale
+
+En France, un panneau de 400W installé sur un toit bien orienté (plein sud, 30° d'inclinaison) produit :
+- Juillet : 140-160 kWh/mois
+- Janvier : 25-40 kWh/mois
+
+La production hivernale est 4 à 5 fois plus faible qu'en été. Si votre calcul d'autonomie suppose une production homogène toute l'année, vous serez déçu dès novembre.
+
+### Négliger la gestion de la consommation
+
+L'autonomie, ce n'est pas seulement produire plus — c'est aussi consommer mieux. Décaler les gros équipements (lave-linge, lave-vaisselle, pompe à chaleur) aux heures de production solaire maximale (11h-15h) peut augmenter l'autoconsommation de 20 à 40% sans un seul euro de matériel supplémentaire.
+
+Les prises intelligentes (Shelly, Zigbee) permettent d'automatiser ce décalage. Coût : 10-30€ par prise. Effet : significatif.
+
+### Choisir un installateur non certifié pour des raisons de prix
+
+La certification QualiPV (et RGE en général) n'est pas un détail administratif — c'est la condition pour accéder aux aides (prime à l'autoconsommation, MaPrimeRénov', TVA réduite). Un installateur non certifié moins cher vous prive de ces aides et peut rendre l'installation non conforme, ce qui crée des problèmes lors de la revente du bien.
+
+## Aides financières disponibles en France
+
+Le paysage des aides évolue chaque année. Voici un état des lieux des principales aides au moment de la rédaction de cet article :
+
+### MaPrimeRénov'
+
+Aide de l'État pour les travaux de rénovation énergétique. Montants variables selon le type de travaux et les revenus du foyer. Couvre l'isolation, les pompes à chaleur, les chauffe-eaux solaires, et depuis peu les systèmes de stockage associés au solaire.
+
+**Plafond :** 70% du coût des travaux pour les revenus très modestes, 50% pour les revenus modestes, 40% pour les revenus intermédiaires.
+
+**Condition :** installateur certifié RGE obligatoire.
+
+### Prime à l'autoconsommation (solaire photovoltaïque)
+
+Versée sur 5 ans pour les installations de 0 à 100 kWc raccordées au réseau et équipées d'un compteur. Montant : environ 230€/kWc pour une installation ≤3 kWc (montant actualisé trimestriellement par arrêté).
+
+### TVA réduite à 10%
+
+Sur les travaux de rénovation énergétique (isolation, chauffage) dans les logements de plus de 2 ans. La TVA s'applique à 10% au lieu de 20% — une économie significative sur des travaux lourds.
+
+### Prêt à taux zéro (Eco-PTZ)
+
+Permet de financer jusqu'à 50 000€ de travaux de rénovation énergétique sans intérêt. Cumulable avec MaPrimeRénov'. Accessible sans condition de revenus pour un bouquet de travaux.
+
+## Questions fréquentes sur la maison autonome en énergie
+
+**L'autonomie énergétique complète est-elle réaliste pour une maison individuelle ?**
+
+Techniquement oui, économiquement discutable. Une maison bien isolée, chauffée au bois, avec 10 kWc de solaire et 20-30 kWh de stockage peut atteindre 95%+ d'autonomie électrique annuelle. Mais le coût du stockage (batteries) pour couvrir les longues périodes sans soleil en hiver est encore très élevé (20 000 à 50 000€). Le compromis réaliste : 70-85% d'autonomie en conservant le réseau comme filet de sécurité.
+
+**Vaut-il mieux investir dans l'isolation ou dans le solaire en premier ?**
+
+L'isolation en premier, sans hésitation. Un euro investi en isolation économise 3 à 5 fois plus qu'un euro investi en production solaire, parce qu'il réduit les besoins à la source. Une maison bien isolée avec un système solaire modeste obtient souvent de meilleurs résultats qu'une maison passoire avec beaucoup de panneaux.
+
+**Comment savoir si mon toit est adapté au solaire ?**
+
+Un toit orienté au sud (±30°) avec une inclinaison de 25 à 40° est idéal. Est et Ouest donnent 15 à 30% de moins. Le nord ne vaut généralement pas l'investissement. Un toit sans ombre entre 9h et 15h est crucial — un seul module ombré peut réduire la production de toute la chaîne de 20 à 40%. Des outils comme Google Project Sunroof ou cadastre.solaire.fr permettent d'estimer le potentiel de votre toit gratuitement.
+
+**Peut-on installer soi-même des panneaux solaires pour économiser ?**
+
+Pour les installations plug-and-play jusqu'à 800W (2 panneaux + micro-onduleur sur prise standard), oui — c'est légal et sans risque si on suit les instructions. Au-delà, l'installation doit être réalisée par un professionnel certifié pour être conforme et bénéficier des aides. Certains propriétaires font appel à un professionnel pour le raccordement et font eux-mêmes la pose des panneaux — vérifiez si votre installateur l'accepte, cela peut réduire le coût de main-d'œuvre.
+
+**Combien de temps faut-il pour rendre une maison autonome à 70% ?**
+
+Un plan réaliste sur 5 à 10 ans :
+- Années 1-2 : isolation des combles, remplacement des ampoules, calfeutrage
+- Années 2-4 : système de chauffage bois ou granulés
+- Années 4-7 : installation solaire photovoltaïque avec stockage
+- Années 5-10 : chauffe-eau solaire, optimisation
+
+Ce rythme permet d'étaler l'investissement (30 000 à 60 000€ au total selon la taille et l'état initial) et d'utiliser les aides disponibles chaque année.
+
 ---
 
 La maison autonome n'est pas un horizon lointain réservé aux passionnés de technologie. C'est une série de décisions pratiques qui s'accumulent. Commencez par l'isolation et les LED, et vous verrez déjà la différence sur votre facture.
