@@ -158,6 +158,119 @@ Un logement bien préparé peut fonctionner en mode dégradé plusieurs jours, v
 - Radio à piles ou manivelle pour les informations officielles
 - Batterie externe chargée pour les téléphones
 
+## Connaître les risques spécifiques à votre zone
+
+Avant d'investir dans la sécurisation physique du logement, identifiez les risques propres à votre commune et à votre zone. Les mesures à prioriser dépendent directement de votre exposition.
+
+### Le DDRM et le DICRIM
+
+Chaque préfecture publie un **DDRM (Dossier Départemental des Risques Majeurs)**, qui recense tous les risques naturels et technologiques du département. Chaque commune qui y figure doit publier un **DICRIM (Document d'Information Communal sur les Risques Majeurs)**, accessible en mairie ou sur le site de votre commune.
+
+Ces documents vous indiquent :
+- Si vous êtes en zone inondable (et quelle fréquence de crue historique)
+- Si des mouvements de terrain ont été recensés
+- Si vous êtes près d'un site SEVESO (risque industriel)
+- Si vous êtes en zone sismique (carte zonage disponible sur georisques.gouv.fr)
+
+**Georisques.gouv.fr** centralise toutes ces informations par adresse. Entrez votre adresse et vous obtenez une carte des risques spécifiques à votre parcelle.
+
+### Adapter la préparation aux risques identifiés
+
+**Zone inondable (aléa faible à moyen) :** batardeaux de porte en priorité, pompe de relevage, documents en hauteur. Repérez la côte de la dernière inondation pour estimer la hauteur d'eau possible.
+
+**Zone inondable (aléa fort, crues régulières) :** envisagez le rehaussement des équipements électriques et de chauffage, et la pose d'un clapet anti-retour sur les canalisations d'égout (empêche les refoulements d'égout lors des crues).
+
+**Zone sismique (niveaux 3, 4 ou 5) :** ancrez les bibliothèques et armoires hautes aux murs. Stockez les objets lourds en bas plutôt qu'en hauteur. Connaissez le comportement à adopter (se protéger sous une table solide ou contre un mur porteur, ne pas sortir pendant les secousses).
+
+**Zone de feux de forêt :** débroussaillez 50m autour de la construction (obligation légale dans les zones à risque). Stockez un tuyau d'arrosage assez long pour atteindre le périmètre de votre propriété. Fermez portes, fenêtres et volets avant d'évacuer.
+
+### Le Plan Particulier de Mise en Sûreté de l'entreprise
+
+Si vous dirigez une entreprise ou gérez un immeuble, le **PPMS (Plan Particulier de Mise en Sûreté)** est obligatoire dans certains contextes (établissements scolaires notamment). Pour les immeubles résidentiels, un document équivalent — plan d'évacuation affiché dans les parties communes — est recommandé.
+
+## Préparer le logement pour le confinement
+
+Une crise ne nécessite pas toujours une évacuation. Parfois, au contraire, les autorités demandent de rester chez soi (nuage de gaz, contamination, pandémie). Votre logement doit être capable de vous protéger plusieurs jours en mode "confinement".
+
+### Confinement contre un nuage toxique
+
+En cas de nuage de polluant, de fuite chimique, ou d'accident industriel, les autorités peuvent ordonner un confinement immédiat. Les consignes sont diffusées par la radio et les sirènes.
+
+**Ce qu'il faut faire :**
+1. Rentrer immédiatement dans le logement le plus solide et étanche disponible
+2. Fermer toutes les fenêtres, portes, volets et chemins d'air (hotte aspirante, VMC)
+3. Colmater les aérations avec du ruban adhésif ou des chiffons humides
+4. Écouter la radio pour les consignes officielles
+5. Ne sortir que quand les autorités donnent le feu vert
+
+**Matériel à prévoir :** rouleaux de ruban adhésif large (5€), chiffons ou serviettes, radio portable à piles.
+
+**Durée typique d'un confinement :** 1 à 4 heures en général pour les accidents chimiques. Les réserves d'air dans un appartement bien fermé sont suffisantes pour plusieurs heures.
+
+### Confinement prolongé (pandémie, trouble civil)
+
+Pour un confinement de plusieurs jours ou semaines, le logement devient une base autonome. Les priorités :
+- **Réserves d'eau et alimentaires** (voir nos guides dédiés)
+- **Éclairage de secours** autonome
+- **Chauffage de secours** si saison froide
+- **Communication hors réseau** pour s'informer
+
+## Exercices pratiques et vérifications annuelles
+
+La préparation du logement n'est pas un projet ponctuel — c'est une maintenance régulière.
+
+### Le test semestriel (10 minutes tous les 6 mois)
+
+- **Tester les détecteurs de fumée** : appuyez sur le bouton test. Ils doivent sonner.
+- **Vérifier les détecteurs CO** : même chose.
+- **Vérifier la pression de l'extincteur** : l'aiguille doit être dans le vert.
+- **Tester les lampes de secours** : s'assurer qu'elles fonctionnent.
+- **Vérifier les dates de péremption** des piles et de la batterie de secours.
+
+### La vérification annuelle (1-2h chaque automne)
+
+L'automne est le meilleur moment : avant les tempêtes d'hiver, avant le froid.
+
+- **Inspection de la toiture** : tuiles déplacées, solins, gouttières obstruées
+- **Inspection des volets** : charnières, crochets, état général
+- **Élagage préventif** : branches mortes ou surplombantes
+- **Test de la pompe de relevage** (si vous en avez une) : branchez-la et vérifiez qu'elle pompe
+- **Vérification du stock de bois** (si cheminée/poêle) et du stock de bouteilles de gaz
+- **Inventaire du kit d'urgence** : renouveler les périmés, vérifier les dates
+
+### La simulation d'évacuation (une fois par an)
+
+Un exercice d'évacuation d'une dizaine de minutes avec toute la famille révèle les lacunes du plan. Scénarios à tester :
+
+1. **Feu dans la cuisine** : évacuation par la porte d'entrée
+2. **Feu dans l'entrée** : évacuation par une fenêtre ou escalier de secours
+3. **Nuit complète** : évacuation avec les yeux bandés (simule la fumée)
+4. **Point de rassemblement** : tout le monde se retrouve au bon endroit
+
+Les enfants qui ont "joué" à l'évacuation une fois réagissent beaucoup mieux lors d'une vraie urgence.
+
+## Questions fréquentes sur la sécurisation du logement
+
+**Mon propriétaire doit-il payer pour sécuriser le logement ?**
+
+C'est partagé. Le propriétaire est responsable de la structure et des éléments fixes (porte d'entrée, serrure de la porte, détecteurs de fumée dans certains contextes). Le locataire est responsable de la sécurité de ses biens et peut installer des équipements démontables (barre de fenêtre, alarme sans perçage). Pour les travaux importants (remplacement de la porte), négociez avec votre propriétaire — c'est dans son intérêt aussi.
+
+**Un appartement au 5e étage est-il plus sûr qu'une maison ?**
+
+Pour les cambriolages, oui — les étages élevés sont nettement moins ciblés. Pour les catastrophes naturelles, ça dépend : un appartement haut est bien protégé des inondations mais vulnérable aux séismes (les étages intermédiaires sont généralement les plus exposés dans les structures qui s'effondrent par étages).
+
+**Une caméra de surveillance dissuade-t-elle vraiment les cambrioleurs ?**
+
+Les caméras visibles ont un effet dissuasif documenté dans des études criminologiques. Les cambrioleurs opportunistes (70% des cas) cherchent des cibles faciles et éviteront une maison avec caméra visible. Les cambrioleurs professionnels, eux, peuvent contourner ou ignorer les caméras. La combinaison caméra + bon éclairage + serrure certifiée est beaucoup plus efficace que chaque élément seul.
+
+**Peut-on installer une serrure connectée (smart lock) sans perdre en sécurité ?**
+
+Les serrures connectées de bonne qualité (Yale Linus, August, Nuki) ont une certification mécanique équivalente aux serrures classiques et ajoutent la commodité de l'accès sans clé. Le risque est le piratage de la serrure via son application. Pour réduire ce risque : réseau Wi-Fi sécurisé, mises à jour firmware régulières, accès par authentification à deux facteurs. Conservez toujours un cylindre de clé mécanique en parallèle en cas de panne de l'électronique.
+
+**Doit-on signaler sa préparation aux voisins ?**
+
+Paradoxe apparent : annoncer publiquement que vous avez des réserves peut attirer les mauvaises personnes en cas de crise. La solution est le réseau de confiance : identifiez 2-4 voisins avec qui vous partagez vos préparatifs mutuellement. Ce réseau de voisins préparés est votre meilleure assurance — l'entraide de proximité fonctionne mieux que l'isolement, même bien préparé.
+
 ---
 
 Sécuriser son logement, c'est un investissement progressif, pas un projet qui se fait en un week-end. Commencez par les mesures les plus rentables : changer votre cylindre de serrure, installer des détecteurs de fumée fonctionnels, ajouter un éclairage à détecteur de mouvement. Ces trois actions à elles seules changent considérablement votre niveau de sécurité.

@@ -167,6 +167,137 @@ Ces technologies sont encore émergentes mais prometteuses pour la communication
 
 **Exercice pratique :** un dimanche matin, passez 2h avec votre famille sans téléphone. Faites-le communiquer en utilisant seulement les talkies-walkies ou la radio. Identifiez les failles dans votre plan.
 
+## Communication avec les personnes vulnérables
+
+Les personnes âgées, les enfants, et les personnes en situation de handicap ont des besoins spécifiques en matière de communication de crise. Les inclure dans votre plan de communication n'est pas optionnel.
+
+### Pour les personnes âgées
+
+Les personnes de plus de 75 ans sont les plus vulnérables lors des canicules, des coupures de courant prolongées, et des crises sanitaires. Leurs particularités :
+
+- Moins familières avec les smartphones et les applications
+- Plus susceptibles d'habiter seules
+- Risque d'isolation plus élevé quand les réseaux tombent
+
+**Ce que vous pouvez faire :**
+- **Identifier les personnes âgées isolées dans votre voisinage** avant une crise. Connaître leurs noms et où elles habitent
+- **Les inscrire au registre communal** : toutes les mairies ont un registre des personnes vulnérables (créé après la canicule de 2003). En cas de crise, les services municipaux les contactent en priorité
+- **Définir un protocole de passage** : en cas de crise, quelqu'un doit aller les voir physiquement si le téléphone ne répond pas
+- **S'assurer qu'elles ont une radio à piles** : c'est souvent leur seul moyen d'information quand les réseaux tombent
+
+### Pour les enfants scolarisés
+
+Si une crise survient pendant les heures scolaires, comment communiquer avec vos enfants ?
+
+**Les écoles ont des protocoles de crise (PPMS)** qui prévoient un confinement sur place et l'attente des parents. En cas de crise :
+1. Ne vous précipitez pas à l'école sans instructions — vous pouvez encombrer les routes
+2. Écoutez les instructions des autorités via la radio
+3. L'école ne remettra l'enfant qu'à une personne autorisée sur la liste — vérifiez que cette liste est à jour
+
+**Préparez votre enfant :**
+- Il/elle doit connaître le plan de communication familial par cœur (contact hors zone, points de rassemblement)
+- À partir de 8-9 ans, un enfant peut mémoriser le numéro de téléphone d'un parent et appeler d'une cabine ou d'un téléphone de voisin
+- Donnez à votre enfant une carte plastifiée dans son cartable avec : son nom, les deux numéros de contact (parent + contact hors zone), et les deux points de rassemblement
+
+### Pour les personnes en situation de handicap
+
+Le plan de communication doit anticiper les besoins spécifiques selon le type de handicap :
+
+**Handicap visuel :** les applications de synthèse vocale fonctionnent même quand les réseaux sont partiellement dégradés. La radio est un outil naturel. Assurez-vous que la personne a un compagnon de communication désigné.
+
+**Handicap auditif :** les SMS et messageries instantanées fonctionnent mieux que les appels vocaux — avantage en cas de réseau saturé. Les applications de sous-titrage automatique (Google Live Transcribe) peuvent fonctionner hors ligne.
+
+**Mobilité réduite :** le plan d'évacuation doit être adapté. Désignez des accompagnateurs. Signalez votre situation à la mairie pour être inclus dans les listes de personnes nécessitant assistance.
+
+## Fréquences radio officielles et réseaux d'urgence en France
+
+### Les fréquences radio à connaître
+
+La radio reste le vecteur d'information officiel en cas de catastrophe nationale. Voici les fréquences utiles à noter et à afficher dans votre kit d'urgence :
+
+**France Inter (fréquences principales par région) :**
+- Paris : 87,8 MHz
+- Lyon : 91,7 MHz
+- Marseille : 88,0 MHz
+- Bordeaux : 88,1 MHz
+- Lille : 89,8 MHz
+- (Consultez radio-france.fr pour votre fréquence locale)
+
+**France Bleu locale :** chaque département a sa propre fréquence France Bleu. C'est le relais régional des informations en cas de crise locale (inondation, incident industriel). Trouvez la vôtre sur francebleu.fr.
+
+**France Info :** 105,5 MHz (Paris), disponible sur DAB+ nationalement
+
+**RFI (Radio France Internationale) :** 89,0 MHz en Île-de-France, sur ondes courtes (9790, 9800 kHz) pour la réception longue distance
+
+### Les alertes officielles : FR-Alert
+
+Depuis 2022, la France dispose de **FR-Alert**, le système national d'alerte aux populations. Il envoie un message d'alerte directement sur votre téléphone mobile sans application, sans inscription, et sans connexion internet (il utilise le réseau de diffusion d'alerte Cell Broadcast, différent des SMS classiques).
+
+**Ce que vous devez savoir :**
+- FR-Alert fonctionne sur tous les smartphones modernes (iOs 15+ et Android 11+)
+- Il ne nécessite aucune application ni inscription
+- Il diffuse une alerte géolocalisée : vous ne recevez que les alertes de la zone où vous êtes
+- Le message est accompagné d'un son et d'une vibration particuliers (différent des SMS)
+- Il peut fonctionner même en cas de réseau partiellement dégradé
+
+**Activez-le :** vérifiez que les alertes gouvernementales sont activées dans les paramètres de votre téléphone (Paramètres > Notifications > Alertes d'urgence gouvernementales sur iOS, ou Paramètres > Applications > Messages > Alertes d'urgence sur Android).
+
+### Numéros d'urgence et leur particularité en crise
+
+Les numéros d'urgence (15, 17, 18, 112, 115) bénéficient d'une **priorité réseau** — ils passent même en cas de réseau saturé, là où les appels ordinaires échouent. C'est une raison importante de les appeler plutôt que d'appeler directement l'hôpital local ou un médecin en cas d'urgence.
+
+**Correspondances :**
+- **15** : SAMU (urgences médicales)
+- **17** : Police/Gendarmerie
+- **18** : Sapeurs-pompiers
+- **112** : Numéro européen (redirige vers le bon service selon votre localisation)
+- **115** : SAMU Social (personnes sans abri)
+- **114** : Numéro d'urgence pour les sourds et malentendants (SMS, chat)
+
+Le **114** est particulièrement important à noter : il permet aux personnes qui ne peuvent pas parler (choc, problème vocal, peur d'être entendu) de contacter les secours par SMS.
+
+## Bâtir un réseau de voisins préparés
+
+La communication en crise ne se limite pas aux appareils et aux fréquences. Le réseau humain de proximité est souvent le maillon le plus fiable.
+
+**Le principe :** organiser 4 à 6 foyers voisins (rue, immeuble) avec un protocole de communication commun et une coordination en cas de crise.
+
+**Comment le constituer :**
+1. Identifiez les voisins potentiellement intéressés (personnes âgées, familles avec enfants, personnes qui semblent organisées)
+2. Proposez une réunion informelle — un café, pas une "réunion de crise"
+3. Définissez un canal de communication commun en temps normal (groupe WhatsApp) et en crise (talkie-walkie, canal PMR446 #1)
+4. Notez les compétences de chacun : médecin, pompier volontaire, électricien, infirmière
+5. Faites un inventaire partagé discret : qui a un groupe électrogène, qui a des réserves d'eau, qui a une voiture 4x4
+
+**Les règles d'or :**
+- La discrétion : n'étalez pas vos réserves en public
+- La réciprocité : tout le monde contribue selon ses moyens
+- La confiance : testez le réseau en conditions normales avant d'en avoir besoin
+
+Un réseau de 5 voisins préparés vaut plus que 100kg de matériel stocké seul.
+
+## Questions fréquentes sur la communication en crise
+
+**Les SMS passent-ils vraiment mieux que les appels en cas de réseau saturé ?**
+
+Oui. Un appel vocal crée une "connexion" qui monopolise de la bande passante pendant toute la durée de l'appel (quelques minutes minimum). Un SMS est transmis en quelques millisecondes et peut s'insérer dans des "trous" du réseau. En situation de saturation, le taux de succès des SMS est nettement plus élevé que celui des appels. WhatsApp et Telegram fonctionnent sur le même principe que les SMS (paquets de données courts).
+
+**Un talkie-walkie peut-il être intercepté ?**
+
+Oui. Les talkies-walkies PMR446 grand public émettent sur des fréquences non chiffrées. N'importe qui avec un talkie-walkie sur le même canal peut entendre vos conversations. Pour des communications sensibles, utilisez un jargon convenu à l'avance avec votre réseau ("Oiseau" pour "tout va bien", numéros de code pour les adresses, etc.). Pour un chiffrement réel, les solutions Mesh comme goTenna offrent du chiffrement de bout en bout.
+
+**Que faire si je n'ai plus de batterie et aucun moyen de recharger ?**
+
+Priorité dans l'ordre : 1) Batterie externe si disponible. 2) Chargeur de voiture (câble USB → port USB de tableau de bord). 3) Voisin avec électricité ou groupe électrogène. 4) Station d'énergie portable communautaire si votre réseau de voisins en a une. 5) Téléphone d'urgence : dans de nombreuses communes, la mairie ouvre un point d'accueil avec recharge possible en cas de panne prolongée. La règle d'or : conservez toujours 20% de batterie sur votre téléphone principal.
+
+**Comment joindre un proche à l'étranger si internet ne marche pas ?**
+
+Si internet est coupé mais le réseau téléphonique fonctionne partiellement, appelez directement avec le préfixe international (+33 depuis l'étranger pour joindre la France, +1 pour les USA, etc.). Si ni internet ni le réseau ne fonctionnent, votre contact hors zone (un proche dans une autre région ou un autre pays) peut servir de relais d'information : les personnes dans les zones non affectées ont généralement un accès normal aux réseaux.
+
+**Le réseau 4G/5G tombe-t-il avant ou après le réseau fixe (fibre, ADSL) en cas de panne ?**
+
+Les deux tombent différemment. La panne électrique touche d'abord le réseau fixe (votre box internet s'éteint). Le réseau mobile résiste plus longtemps grâce aux batteries intégrées des antennes-relais (4 à 8h typiquement). En revanche, en cas de saturation (nombreuses personnes dans la même zone), le réseau mobile se sature avant le réseau fixe. En pratique : lors d'une panne électrique, vous perdez le WiFi mais gardez la 4G un certain temps. Lors d'un événement majeur avec des millions de personnes qui appellent, vous perdez la 4G mais le réseau fixe (câble téléphonique classique) peut encore fonctionner.
+
 ---
 
 La communication en crise, c'est une question de redondance. Un seul outil, même excellent, peut tomber. Deux outils complémentaires, c'est déjà très robuste. Trois, c'est la tranquillité d'esprit.
