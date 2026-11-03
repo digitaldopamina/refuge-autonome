@@ -180,6 +180,122 @@ Pour le kit d'urgence, une torche par étage ou par zone de la maison.
 - Panneau solaire 20-50W pour recharge continue
 - Lampes LED 12V sur batterie solaire pour 2-3 pièces
 
+## Quand la panne dure plus de 24 heures : adapter son organisation
+
+Une panne courte (2-4h) se gère à l'improviste. Une panne longue (24h, 48h, plusieurs jours) demande une organisation différente et une gestion rigoureuse des ressources lumineuses.
+
+### Cartographier ses besoins par zone
+
+Pas besoin d'éclairer toute la maison en permanence. Identifiez les trois zones qui ont besoin de lumière en priorité :
+
+1. **Zone cuisine/salle à manger** : là où se préparent les repas, les activités, et où la famille passe le plus de temps actif. Priorité haute : lanterne LED de grande puissance ou système 12V.
+2. **Zone chambre enfants** : les enfants ont besoin d'une veilleuse la nuit. Une petite lanterne à LED en mode veille (intensité basse) ou une veilleuse sur pile suffit.
+3. **Zone sanitaires** : les déplacements nocturnes aux toilettes sont une source d'accidents. Lampe frontale accrochée au mur, ou petite lampe sur piles toujours allumée à faible intensité.
+
+Le couloir, le salon quand on ne l'utilise pas, et les pièces de stockage peuvent rester dans le noir.
+
+### Gérer les piles en mode économie
+
+Chaque lampe frontale de qualité dispose de plusieurs modes d'intensité. En panne prolongée :
+
+- **Mode plein phare (max lumens)** : réservé aux tâches de précision (cuisine, lecture, soins) — utilisez-le par sessions de 30-60 minutes
+- **Mode moyen** : pour les déplacements à l'intérieur, les discussions, les activités calmes
+- **Mode économie (lowest)** : pour garder un éclairage d'orientation la nuit (veilleuse de fait)
+
+Avec une Petzl Actik Core en mode 60 lumens (intermédiaire), vous pouvez tenir 25-30h sur une seule charge. En mode économie (basse luminosité), certains modèles dépassent 100h d'autonomie.
+
+### Créer des points de lumière fixes dans la maison
+
+Plutôt que de circuler avec une lampe unique que tout le monde se passe, installez des lumières fixes dans les zones critiques :
+
+- **Lanterne LED centrale** dans la pièce principale sur une table haute (éclaire vers le bas, illusion de lumière normale)
+- **Bougies dans photophores stables** sur le rebord de fenêtre dans la cuisine (ventilation naturelle)
+- **Lampe frontale "de permanence"** dans le couloir, accrochée à un crochet
+- **Petite lampe à pile** dans les toilettes et la salle de bain
+
+Ce système permet à chaque membre de la famille de circuler sans se bloquer mutuellement.
+
+## L'éclairage avec des enfants : les points spécifiques
+
+Les enfants réagissent différemment à l'obscurité selon leur âge. Voici ce qui marche par tranche d'âge.
+
+### Enfants de moins de 3 ans
+
+Les tout-petits ont besoin d'une lumière continue la nuit — pas forcément forte, mais présente. Une veilleuse LED sur piles (durée de vie 20-30h sur 3 piles AA) posée hors de portée suffit. La lumière blanche chaude (2700K) est moins perturbatrice que la lumière bleue froide.
+
+À éviter : les bougies dans la chambre des très jeunes enfants, même dans un photophore fermé.
+
+### Enfants de 3 à 8 ans
+
+C'est l'âge où une lampe frontale personnelle fait des merveilles. **La Petzl Tikkid** (14,99€, 3 ans+) est conçue pour eux : légère, avec une LED rouge intégrée pour ne pas éblouir, et une bandoulière ajustable. Donner à un enfant son propre outil de lumière réduit l'anxiété et lui donne un sentiment d'autonomie dans une situation stressante.
+
+### Enfants de 8 ans et plus
+
+Ils peuvent gérer une lampe frontale adulte (taille ajustable). Intégrez-les à la gestion de l'éclairage : leur montrer comment changer les piles, comment passer d'un mode à l'autre, et quel est le stock disponible. Ça les rassure et ça aide concrètement.
+
+### L'aspect psychologique de l'obscurité pour la famille
+
+En cas de panne longue, ne sous-estimez pas l'effet psychologique du noir. La fatigue mentale, le stress et la peur augmentent avec l'obscurité. Quelques ajustements simples :
+
+- **Ne pas éteindre toute lumière** le soir même pour "économiser" : garder une veilleuse ou une bougie allumée dans le couloir maintient un environnement psychologiquement rassurant
+- **Jouer à des jeux de société** à la lumière d'une lanterne normalise la situation et crée un "camping intérieur" plutôt qu'une crise
+- **Maintenir les rituels** : lecture du soir à la lampe frontale, goûter à table — la routine rassure, surtout les enfants
+
+## Construire sa réserve d'éclairage de secours
+
+Un bon stock d'éclairage se bâtit progressivement. Voici comment l'organiser en trois phases.
+
+### Phase 1 : le minimum vital (50-80€, à faire dans les 2 semaines)
+
+Achetez immédiatement :
+- 2 lampes frontales Petzl Tikkina (ou Energizer HD+) : 25€ × 2
+- 1 lanterne LED Coleman à piles : 30-40€
+- 20 bougies tealight dans des photophores : 10-15€
+- 12 piles AA et 12 piles AAA : 15€
+
+Ce kit couvre une famille pour 3-5 jours en gestion économique.
+
+### Phase 2 : le confort prolongé (150-200€ de plus, sur 1-3 mois)
+
+Complétez avec :
+- 1 lanterne solaire Luci Outdoor Pro : 25€
+- 1 lampe frontale rechargeable par personne adulte : 40-60€ chacune
+- 30 bougies pilier longue durée : 30€
+- 20 piles NiMH rechargeables Eneloop + chargeur : 45€
+
+Ce kit couvre 7-10 jours sans gestion stricte des ressources.
+
+### Phase 3 : l'indépendance énergétique (300-500€ en plus, sur 3-12 mois)
+
+Pour les pannes longues ou l'aspiration à l'autonomie :
+- Station d'énergie portable EcoFlow RIVER (288Wh) : 250-300€
+- Panneau solaire 100W portable : 100-150€
+- Ampoules LED intelligentes 12V pour 2-3 pièces : 60-80€
+
+Avec ce système, vous pouvez recharger toutes vos batteries, alimenter un éclairage fonctionnel dans les pièces principales, et éventuellement alimenter un petit frigo.
+
+## Questions fréquentes sur l'éclairage de secours
+
+**Combien de lampes frontales faut-il avoir dans une famille de 4 ?**
+
+Idéalement une par personne adulte et une adaptée pour chaque enfant. En pratique minimum, 2 lampes frontales adultes + 1 veilleuse enfant + 1 lanterne centrale. Mais avoir 4 lampes frontales (une par personne) supprime tous les conflits et les situations de dépannage dans le noir.
+
+**Peut-on utiliser les bougies comme éclairage principal pendant une panne prolongée ?**
+
+Oui, mais avec des précautions. Les bougies pilier de grande taille (8-10cm de diamètre, 20cm de hauteur) durent 50-80 heures. Le risque principal est l'incendie : ne les laissez jamais sans surveillance, gardez-les dans des photophores stables en verre, et ayez un extincteur ou un seau d'eau à portée.
+
+**Les piles rechargeables valent-elles l'investissement pour un kit d'urgence ?**
+
+Oui, à condition de choisir les bonnes. Les Eneloop de Panasonic (format "Low Self-Discharge") gardent 70% de leur charge après 10 ans de stockage. C'est nettement mieux que les NiMH classiques. Investissement initial plus élevé, mais rentable sur 3-5 ans d'utilisation.
+
+**Quelle est la différence entre les lumens et la durée d'autonomie sur une lampe frontale ?**
+
+Les lumens mesurent la puissance lumineuse (plus = plus lumineux). L'autonomie dépend des lumens utilisés : une lampe de 300 lumens max peut fonctionner 50h à 50 lumens (mode économie) ou seulement 4h à 300 lumens (mode max). Pour une panne longue, le mode économie (60-100 lumens) est le bon compromis entre visibilité et durée.
+
+**Comment organiser son stock de bougies pour qu'elles ne fondent pas dans le garage en été ?**
+
+Conservez les bougies dans un endroit frais, sec et sombre — un placard intérieur, pas le garage où les températures peuvent dépasser 40°C en été. La chaleur déforme les bougies pilier et peut faire fondre les tealights dans leurs contenants. Température idéale de stockage : 15-22°C.
+
 ---
 
 L'éclairage, c'est la troisième priorité après l'eau et la nourriture, mais c'est la première qui impacte le moral et la sécurité immédiate. Ne laissez pas votre famille dans le noir.

@@ -151,6 +151,107 @@ Le kit ne sert à rien si le matériel est défaillant au moment critique.
 - Renouveler les barres énergétiques
 - Vérifier l'état des gants nitrile (ils se cassent avec le temps)
 
+## Coupure de courant sur la route : les réflexes spécifiques à la voiture
+
+Une panne électrique ne survient pas qu'à la maison. En voiture, une coupure de courant peut signifier plusieurs choses très différentes : panne de batterie (la plus courante), alternateur défaillant, ou plus rarement panne électrique généralisée du réseau local qui affecte les infrastructures autour de vous.
+
+### Batterie à plat : les 10 premières minutes
+
+C'est la situation la plus fréquente. Le moteur ne démarre pas, ou s'éteint brutalement en roulant. Voici le bon ordre d'actions :
+
+1. **Mettez les warnings** dès l'immobilisation
+2. **Évaluez l'environnement** : êtes-vous en sécurité où vous êtes ? Sur le bas-côté, loin de la circulation ?
+3. **Prenez votre téléphone et vérifiez le réseau** avant que la batterie du téléphone se vide
+4. **Sortez le booster** de démarrage (si vous en avez un) — c'est l'investissement le plus utile du kit voiture
+5. **Tentez de redémarrer** : la plupart des booster NOCO redémarrent un moteur en 1 minute
+
+Si vous n'avez pas de booster : contactez l'assistance (numéro de l'assurance accessible sans réseau dans vos documents), puis posez les triangles de signalisation.
+
+### Ce que vous pouvez faire avec votre voiture comme source d'énergie
+
+Une voiture en bon état devient une ressource pendant une crise si vous êtes bloqué à l'extérieur :
+
+- **Chargement du téléphone** : allume-cigare → chargeur 12V. Une voiture avec réservoir plein peut faire tourner le moteur plusieurs heures pour générer du courant.
+- **Chauffage d'urgence** : 15-20 minutes de moteur toutes les heures peut maintenir l'habitacle chaud. Attention : ne jamais le faire dans un espace clos (garage) — risque de CO.
+- **Source de lumière** : les phares longue portée, les warnings, ou même la lumière intérieure peuvent signaler votre position.
+
+### En cas de panne du réseau électrique sur la route
+
+Si c'est le réseau général qui tombe (pas votre batterie), les conséquences directes sont :
+
+- **Stations-service inopérantes** : les pompes à carburant fonctionnent à l'électricité. En cas de panne prolongée, les stations sans groupe électrogène ne peuvent plus distribuer du carburant.
+- **Feux de circulation éteints** : appliquez la règle de la priorité à droite systématiquement. Ne vous fiez pas aux comportements des autres conducteurs.
+- **Péages manuels ou barrières bloquées** : dans ce cas, restez patient et suivez les instructions des agents présents.
+- **GPS potentiellement perturbé** : gardez une carte routière papier de votre région dans le kit voiture.
+
+## Les situations les plus fréquentes sur la route
+
+### Crevaison (la plus courante)
+
+**Ce qui marche** : kit anti-crevaison (pour petites crevaisons sur la bande de roulement), roue de secours correctement gonflée, triangle posé à l'avance.
+
+**Ce qui ne marche pas** : essayer de changer une roue sur le bas-côté de l'autoroute sans signalisation. C'est la principale cause de décès en situation de panne sur autoroute.
+
+**Règle d'or** : si vous êtes sur voie rapide, posez les triangles, mettez les warnings, puis placez tous les occupants derrière la barrière de sécurité ou le plus loin possible du véhicule.
+
+### Panne mécanique
+
+Si votre voiture rend l'âme sans crevaison visible : débranchez les feux de détresse (pour économiser la batterie), sortez les passagers en sécurité, et appelez l'assistance. Ne restez pas dans le véhicule sur l'autoroute si vous pouvez vous en éloigner en sécurité.
+
+### Panne en zone isolée (hors autoroute)
+
+Le scénario le plus difficile. Votre téléphone peut ne pas capter. Ce que vous devez avoir dans le kit pour ce cas précis :
+- Eau (minimum 1L par personne)
+- Nourriture de base
+- Couvertures de survie
+- Moyen de signalement (fusées, sifflet)
+- Instructions écrites sur la marche à suivre si le réseau ne passe pas
+
+### Accident
+
+Si vous êtes impliqué dans un accident :
+1. Sécuriser la scène (warnings + gilets + triangles)
+2. Appeler le 15 (SAMU), le 18 (pompiers) ou le 112 (numéro européen)
+3. Ne jamais déplacer un blessé sauf si danger immédiat (incendie)
+4. Noter les informations avec le stylo/bloc-notes du kit
+
+## Comment gérer le kit avec des enfants à bord
+
+Les situations d'urgence en voiture avec des enfants demandent une organisation spécifique.
+
+**Préparez les enfants à l'avance** : un enfant de 6-7 ans peut comprendre les grandes lignes ("si on s'arrête sur le bord de la route, tu restes dans la voiture jusqu'à ce que papa/maman revienne"). La préparation mentale réduit la panique.
+
+**Prévoyez une trousse enfant séparée** dans le kit :
+- Collations favorites
+- Petits jouets ou coloriages
+- Téléphone ou tablette à 80% de charge
+- Médicaments spécifiques (antalgiques, sirop antihistaminique)
+- Doudou ou objet de confort
+
+**L'éclairage pour les enfants** : une lampe frontale de leur taille (Petzl Tikkid pour les tout-petits) leur donne un sentiment de contrôle sur la situation. C'est un investissement de 15€ qui vaut largement son prix.
+
+## Questions fréquentes sur le kit d'urgence voiture
+
+**Dois-je avoir un kit dans chaque voiture de la famille ?**
+
+Idéalement oui. Un kit minimal par véhicule (gilet + triangle + lampe + câbles) est le strict minimum. Le kit complet peut être partagé si vous utilisez toujours les deux voitures ensemble, mais c'est un risque. Le plus simple : un kit de base dans chaque voiture (50-80€) et un kit plus complet dans la voiture principale.
+
+**Les câbles de démarrage sont-ils encore utiles avec les voitures récentes ?**
+
+Oui. Même les voitures électriques et hybrides peuvent avoir une batterie 12V auxiliaire en panne. Et si vous avez un booster autonome (comme le NOCO GB40), vous n'avez même pas besoin d'une autre voiture.
+
+**Quelle est la durée de vie d'un kit anti-crevaison ?**
+
+La plupart des kits anti-crevaison (gel colmatant) ont une durée de vie de 3 à 4 ans. Vérifiez la date d'expiration et remplacez le avant qu'il soit périmé.
+
+**Mon assurance couvre-t-elle l'assistance en cas de panne ?**
+
+La plupart des contrats d'assurance incluent une assistance dépannage. Vérifiez votre contrat et gardez le numéro de votre assisteur dans le kit, sur papier — vous n'aurez pas forcément accès à votre téléphone ou à internet.
+
+**Faut-il avoir une carte routière si on a un GPS ?**
+
+Fortement recommandé. Le GPS dépend du courant (votre batterie) et du réseau (pour les GPS connectés). Une carte papier de votre région ou de votre itinéraire habituel est une assurance zéro-défaillance.
+
 ---
 
 Ce kit ne prend pas beaucoup de place et ne pèse pas très lourd. Mais il peut faire une énorme différence sur une route isolée par une nuit froide.
