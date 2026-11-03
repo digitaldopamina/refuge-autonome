@@ -216,6 +216,61 @@ Même sans espace extérieur, vous pouvez produire quelque chose.
 
 **Oublier la rotation :** ne pas cultiver les mêmes familles de légumes au même endroit d'une année à l'autre (tomates/pommes de terre/courgettes = famille des solanacées et cucurbitacées). Favorise les maladies et épuise le sol.
 
+## Techniques de conservation à partir du jardin
+
+Produire des légumes ne suffit pas — il faut aussi savoir les conserver pour utiliser les surplus de l'été en automne et en hiver.
+
+### Lacto-fermentation
+
+La lacto-fermentation est l'une des techniques de conservation les plus simples et les plus anciennes. Elle ne nécessite ni électricité, ni équipement spécial, et produit des aliments riches en probiotiques.
+
+**Principe :** les légumes sont immergés dans de l'eau salée. Les bactéries lactiques naturellement présentes sur les légumes transforment les sucres en acide lactique — qui conserve et acidifie le milieu, empêchant le développement des pathogènes.
+
+**Exemples pratiques :**
+- Chou fermenté (choucroute) : râper, saler (2% du poids), malaxer, tasser en pot hermétique
+- Cornichons lacto-fermentés : dans une saumure à 3% de sel
+- Radis, carottes, haricots verts, courgettes : mêmes principes
+
+Durée de conservation : 6 à 12 mois dans un endroit frais et sombre.
+
+### Séchage et déshydratation
+
+**Séchage à l'air :** pour les herbes aromatiques (thym, romarin, persil, basilic), les oignons, l'ail, les piments. Attachez en bouquets et suspendez dans un endroit ventilé et sombre.
+
+**Séchage au four basse température :** 50-60°C, four entrouvert. Tomates, courgettes, champignons, pommes — tranches fines, 4 à 8 heures selon l'épaisseur et la teneur en eau.
+
+**Déshydrateur électrique :** 30 à 100€, plus régulier et moins consommateur d'énergie que le four. Recommandé pour qui déshydrate régulièrement.
+
+Les légumes déshydratés se conservent 1 à 3 ans dans des bocaux hermétiques à l'abri de la lumière.
+
+### Conservation dans l'huile et le vinaigre
+
+**Dans l'huile :** courgettes, aubergines, champignons, tomates séchées, herbes. Attention : l'huile seule n'est pas un conservateur — les légumes doivent être préalablement séchés ou cuits pour éviter le botulisme. À consommer dans les 6 mois.
+
+**Dans le vinaigre :** cornichons, pickles de légumes, oignons grelots. Le vinaigre à au moins 5% d'acidité acétique est un conservateur efficace. Durée : 1 à 2 ans.
+
+## Questions fréquentes sur le potager d'urgence
+
+**Combien de mètres carrés de jardin faut-il pour se nourrir en autonomie ?**
+
+Pour couvrir les besoins en légumes (pas les calories totales) d'une personne, comptez 50 à 100m² de jardin productif bien géré. Pour une autonomie alimentaire réelle (légumes + féculents + protéines végétales), il faut environ 400 à 600m² par personne en culture intensive, ou 1000 à 2000m² en jardinage extensif. Ces chiffres supposent une bonne maîtrise des techniques de culture. Un débutant aura des rendements plus faibles les premières années.
+
+**Peut-on faire un potager d'urgence sans jardin, sur un balcon ?**
+
+Absolument. Des tomates cerises en pots de 15-20L, des courgettes en bac de 40-50L (une seule plante, très productive), des haricots sur treillis, des salades et aromates en jardinières — un balcon de 10-15m² peut produire une contribution réelle à l'alimentation d'été. Ce n'est pas l'autonomie totale, mais c'est concret. Commencez avec des tomates cerises et des herbes : faciles, productives, et transformatrices de tout repas.
+
+**Les semences achetées en jardinerie sont-elles réutilisables d'une année à l'autre ?**
+
+Ça dépend. Les variétés "hybrides F1" (marquées F1 sur les sachets) donnent de mauvais résultats en seconde génération — leurs graines sont soit stériles, soit très différentes de la plante mère. Les variétés "population" ou "anciennes" (non marquées F1) donnent des graines fidèles et peuvent être récoltées chaque année. Pour la résilience alimentaire, privilégiez les variétés reproductibles. Les catalogues Kokopelli ou Biaugerme proposent exclusivement ces variétés.
+
+**Combien de temps faut-il avant d'avoir sa première récolte ?**
+
+Ça dépend des cultures. Les radis : 3-4 semaines. Les laitues : 6-8 semaines. Les haricots verts : 8-10 semaines. Les tomates et courgettes : 3-4 mois. Les pommes de terre : 4-5 mois. En cas de crise, plantez d'abord les cultures à cycle court (radis, épinards, laitues, haricots) pour avoir quelque chose à manger rapidement, pendant que les cultures longues se développent.
+
+**Les légumes du potager peuvent-ils remplacer des compléments vitaminiques pendant une crise ?**
+
+Oui, pour la plupart des vitamines. Les légumes du potager apportent vitamine C (tomates, poivrons, persil — une tige de persil couvre la moitié du besoin journalier en vitamine C), vitamine A (carottes, épinards, courgettes), vitamine K (légumes verts), et des minéraux variés. Ce qui manque dans un régime basé sur le jardin : vitamine D (soleil), vitamine B12 (uniquement dans les produits animaux), et oméga-3 (poissons gras, noix). Ces lacunes méritent d'être comblées par des compléments dans votre stock alimentaire de crise.
+
 ---
 
 Un potager d'urgence ne remplace pas des réserves alimentaires constituées. Mais il les complète, réduit la dépendance au système d'approvisionnement, et apporte quelque chose que les conserves ne peuvent pas donner : des légumes frais, de la vitamine C, et le sentiment concret de prendre soin de soi.

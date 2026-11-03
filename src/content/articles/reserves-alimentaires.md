@@ -237,6 +237,77 @@ Voir notre guide sur le [potager d'urgence](/blog/potager-urgence) pour aller pl
 
 Les achats en vrac vous font économiser 30 à 50% par rapport aux conditionnements de consommation habituelle.
 
+## Recettes simples avec les aliments de base stockés
+
+Savoir quoi stocker, c'est bien. Savoir cuisiner avec sans électricité, c'est mieux. Voici quelques recettes adaptées à une situation de crise (réchaud à gaz, feu de camp, ou cuisinière à bois).
+
+### Riz complet aux lentilles (Mujaddara)
+
+Un plat complet, nourrissant, et délicieux avec le strict minimum.
+
+**Pour 4 personnes :** 200g de lentilles vertes, 200g de riz, 2 oignons (ou 2 cuillères à soupe d'oignons déshydratés), huile d'olive, sel, cumin.
+
+Cuire séparément les lentilles (25 min dans l'eau) et le riz (20 min). Faire revenir les oignons jusqu'à caramélisation. Mélanger, assaisonner généreusement de cumin et sel. Ce plat est complet en acides aminés (protéines complètes) quand riz et légumineuses sont combinés.
+
+### Soupe de haricots blancs au thon
+
+**Pour 4 personnes :** 1 grande boîte de haricots blancs, 1 boîte de thon, bouillon cube (ou sel), ail déshydraté, herbes.
+
+Égoutter les haricots, les mettre dans une casserole avec 1L d'eau, le bouillon cube, l'ail. Porter à ébullition 5 minutes. Émietter le thon, ajouter, chauffer 2 minutes. Servir avec du pain ou des crackers.
+
+### Pain sans levure (pain sodé)
+
+Quand la boulangerie est inaccessible et qu'on manque de levure.
+
+**Pour 1 pain :** 500g de farine, 1 cuillère à café de bicarbonate de soude, 1 cuillère à café de sel, 350mL de lait fermenté (ou lait + 1 cuillère à café de vinaigre blanc, attendre 5 min).
+
+Mélanger les ingrédients secs, incorporer le liquide rapidement (pas besoin de pétrir longuement), former une boule, inciser en croix. Cuire 30-35 minutes à 220°C ou 40-50 minutes dans une cocotte sur un réchaud à feu moyen-doux avec couvercle.
+
+## Gérer le stock psychologiquement : éviter le rationnement anxieux
+
+En situation de crise prolongée, la gestion du stock peut générer de l'anxiété. Quelques principes pour maintenir sérénité et lucidité.
+
+### Le bilan quotidien
+
+En crise prolongée, faites un bilan rapide chaque matin : "Combien de jours de stock restants à ce rythme de consommation ?" Ce calcul simple permet de prendre des décisions rationnelles plutôt que de rationner par peur ou de consommer sans compter.
+
+Formule simple : (stock total en calories) ÷ (besoins quotidiens en calories × nombre de personnes) = jours restants.
+
+### La règle des tiers
+
+Divisez mentalement votre stock en trois tiers :
+- Premier tiers : stock de confort, utilisable librement
+- Deuxième tiers : stock de précaution, à utiliser si la crise dure plus que prévu
+- Troisième tiers : stock de dernier recours, intouchable sauf extrême nécessité
+
+Cette division crée des seuils psychologiques qui aident à prendre de meilleures décisions sous stress.
+
+### Maintenir la variété
+
+Un aspect souvent négligé : la monotonie alimentaire génère une forme de dépression et réduit l'appétit, ce qui diminue l'apport nutritionnel. Votre stock doit être varié pour que les repas restent appétissants. Les épices, les bouillons, les sauces soja et les herbes aromatiques coûtent peu, occupent peu de place, et transforment un riz blanc en repas satisfaisant.
+
+## Questions fréquentes sur les réserves alimentaires
+
+**Combien de temps de réserves faut-il viser concrètement ?**
+
+La recommandation officielle française (SGDSN — Secrétariat Général de la Défense et de la Sécurité Nationale) est de 10 jours d'autonomie. La plupart des praticiens de la préparation recommandent 3 mois comme objectif réaliste pour un foyer. Au-delà de 3 mois, le rapport bénéfice/coût diminue et la rotation devient difficile à gérer. Pour commencer : visez 2 semaines, c'est accessible en quelques semaines de constitution progressive.
+
+**Les aliments lyophilisés valent-ils vraiment leur prix élevé ?**
+
+Pour le stockage de très long terme (10-25 ans) et une utilisation mobile (sac de départ, trekking), oui. Pour le stock de crise habituel à domicile, non — les conserves classiques et les produits secs couvrent les mêmes besoins à un coût 3 à 5 fois inférieur. Les lyophilisés se justifient dans un kit d'évacuation 72h (légers, compacts) et dans un stock de "ultra-long terme" qu'on n'envisage d'utiliser qu'en catastrophe majeure.
+
+**Comment gérer le stock quand certains membres de la famille ont des intolérances ou allergies ?**
+
+Constituez votre stock autour des contraintes de la personne la plus restrictive — le stock doit être utilisable par tous. Notez sur chaque contenant les allergènes présents (gluten, lait, fruits à coques, etc.). Si une personne a des besoins caloriques ou nutritionnels spéciaux (diabète, insuffisance rénale), consultez son médecin ou diététicien pour adapter le stock à ses besoins — certaines restrictions alimentaires médicales changent complètement les choix de stockage.
+
+**Faut-il stocker de l'alcool ou des cigarettes pour le troc ?**
+
+La valeur d'échange de l'alcool et du tabac en situation de pénurie est réelle historiquement. Mais ce n'est pas une priorité — votre eau, nourriture, médicaments et énergie passent avant. Si vous souhaitez intégrer cet aspect, stockez de petits formats (miniatures d'alcool, paquets individuels) plutôt que de grandes quantités. Mais c'est optionnel et accessoire par rapport aux fondamentaux.
+
+**Comment expliquer l'importance des réserves alimentaires aux membres de la famille qui pensent que c'est de la paranoïa ?**
+
+Reformulez : "On stocke pour les situations normales qui arrivent à tout le monde — grève de 10 jours, tempête qui bloque les routes, licenciement inattendu qui rend les courses difficiles — pas pour la fin du monde." Un stock alimentaire bien géré, c'est aussi une économie : acheter en volume quand les prix sont bas et consommer quand ils montent, c'est une stratégie financière rationnelle. La plupart des gens comprennent mieux l'argument économique que l'argument survivaliste.
+
 ---
 
 Constituer ses réserves alimentaires, c'est un projet sur plusieurs mois, pas une liste de courses à faire d'un seul coup. L'idée, c'est de transformer progressivement votre rapport au garde-manger : d'un endroit où traînent quelques boîtes mal rangées, à un vrai capital alimentaire qui vous offre une sécurité réelle.
