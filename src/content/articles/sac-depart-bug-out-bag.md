@@ -324,6 +324,28 @@ Une façon pratique de démarrer : prenez une feuille et faites trois colonnes.
 
 Commencez par les besoins vitaux et les traitements médicaux. Ajoutez les autres éléments au fil du temps plutôt que d'acheter tout d'un coup.
 
+## Questions fréquentes sur le sac de départ
+
+**Quel poids maximum pour un sac de départ ?**
+
+La règle générale des forces armées et des secouristes est de ne pas dépasser 25-30% de son poids corporel pour un portage prolongé. Pour un adulte de 70kg, c'est 17-21kg maximum — et c'est déjà difficile sur plusieurs heures. Pour un usage civil avec des personnes de condition physique ordinaire, visez 10 à 15kg maximum. Au-delà, la fatigue s'installe rapidement et vous serez tenté d'abandonner le sac. Pesez votre sac assemblé et retirez ce qui est superflu. Un sac trop lourd est pire qu'un sac incomplet.
+
+**Doit-on garder le sac de départ toujours prêt, ou le préparer en cas d'alerte ?**
+
+Idéalement, toujours prêt et accessible en moins de 5 minutes. Une alerte soudaine (incendie, explosion industrielle, crue rapide) peut laisser moins de 15 minutes pour évacuer — pas assez pour assembler un sac de zéro. En pratique : gardez le sac assemblé dans un endroit connu de tous, avec les documents dans une pochette étanche déjà posée à l'intérieur ou à côté. Les médicaments sur ordonnance que vous prenez quotidiennement ne peuvent pas rester dans le sac en permanence — notez-les sur une liste et attrapez-les dans les premières 2 minutes d'un vrai départ.
+
+**Faut-il prévoir un sac de départ pour chaque membre de la famille ?**
+
+Oui, dans la mesure du possible. Un adulte ne peut pas porter plus de 15kg tout en s'occupant d'enfants ou d'une personne âgée. La solution : un grand sac pour chaque adulte (10-15kg), un petit sac pour chaque enfant de plus de 8 ans (3-5kg avec leur matériel personnel), et un sac commun pour les bébés et tout-petits (porté par un adulte en plus de son propre sac). Les enfants se sentent aussi impliqués et moins effrayés quand ils ont leur propre rôle dans l'évacuation.
+
+**Que faire des objets de valeur (bijoux, argent liquide) dans le sac de départ ?**
+
+Prévoyez une enveloppe avec 200 à 300€ en petites coupures dans le sac (les distributeurs ne fonctionnent pas toujours en crise). Pour les bijoux de valeur sentimentale ou financière, soit ils sont dans le sac (risque de perte), soit vous les attrapez à la dernière minute (30 secondes maximum). Ne perdez pas de temps à rassembler des objets matériels si votre sécurité l'exige. Les bijoux peuvent être remplacés ; votre vie, non.
+
+**Le sac de départ peut-il aussi servir de sac de randonnée ou de voyage ?**
+
+Oui, et c'est même recommandé. Un sac utilisé régulièrement (voyages, camping, randonnées) vous permet de connaître son contenu par cœur, de savoir exactement ce qui est où, et d'entretenir naturellement les stocks (les aliments sont consommés et renouvelés, les piles testées, le matériel vérifié). Adaptez le contenu selon l'usage : pour un voyage, retirez les rations d'urgence et les médicaments d'urgence pour les remplacer par vos effets personnels. À votre retour, remettez le sac en configuration d'urgence. Un sac qu'on connaît bien dans un moment calme sera utilisé bien dans un moment difficile.
+
 ---
 
 Le sac de départ, c'est peut-être la seule préparation dont vous ne vous servirez jamais. Et c'est exactement pourquoi vous devez en avoir un. Parce que si vous en avez besoin, vous en aurez vraiment besoin — et le moment où vous le prenez dans vos mains ne sera pas le bon moment pour commencer à réfléchir à son contenu.
