@@ -3,6 +3,7 @@ title: "Réserves d'eau pour la famille : combien stocker et comment"
 description: "Comment calculer, stocker et purifier l'eau pour tenir plusieurs jours en autonomie — les bonnes quantités, les bons contenants, les bonnes techniques."
 pubDate: 2024-10-18
 category: preparation
+youtubeId: "Otqtc-4VdKA"
 tags: [eau, stockage, famille, autonomie, filtration]
 image: "/images/reserve-eau.jpg"
 readingTime: 12

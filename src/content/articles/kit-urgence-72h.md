@@ -3,6 +3,7 @@ title: "Kit d'urgence 72h : le guide complet pour votre famille"
 description: "Tout ce qu'il faut mettre dans votre kit d'urgence pour tenir 72 heures en autonomie — eau, nourriture, documents, premiers secours. Liste complète et testée."
 pubDate: 2024-10-15
 category: preparation
+youtubeId: "lCKxGWBDOqM"
 tags: [kit urgence, 72h, préparation, famille]
 featured: true
 image: "/images/kit-urgence-72h.jpg"

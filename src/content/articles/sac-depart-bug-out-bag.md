@@ -3,6 +3,7 @@ title: "Sac de départ (Bug-Out Bag) : que mettre dedans et comment le préparer
 description: "Le sac de départ est votre kit de survie portable pour une évacuation d'urgence. Voici comment le préparer pour tenir 72h n'importe où."
 pubDate: 2024-10-25
 category: preparation
+youtubeId: "hQuN-RpK6Mk"
 tags: [sac de départ, évacuation, bug-out bag, urgence]
 image: "/images/sac-depart.jpg"
 readingTime: 13

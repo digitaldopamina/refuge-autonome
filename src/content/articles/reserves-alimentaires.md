@@ -3,6 +3,7 @@ title: "Réserves alimentaires longue durée : construire son garde-manger d'urg
 description: "Comment constituer 3 mois de réserves alimentaires pour votre famille — quels aliments choisir, comment les stocker, et comment les intégrer à votre quotidien."
 pubDate: 2024-10-20
 category: preparation
+youtubeId: "5-OC1IgWJtc"
 tags: [alimentation, stockage, longue durée, autonomie]
 featured: true
 image: "/images/reserve-alimentaire.jpg"

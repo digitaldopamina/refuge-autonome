@@ -11,6 +11,7 @@ const articles = defineCollection({
     tags: z.array(z.string()).optional(),
     featured: z.boolean().optional().default(false),
     image: z.string().optional(),
+    youtubeId: z.string().optional(),
     readingTime: z.number().optional(),
     faq: z.array(z.object({
       question: z.string(),

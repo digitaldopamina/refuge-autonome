@@ -3,6 +3,7 @@ title: "Éclairage de secours : les meilleures solutions pour une panne prolong�
 description: "Lampes frontales, lanternes LED, bougies, éclairage solaire — comparatif complet des solutions d'éclairage pour tenir plusieurs jours sans électricité."
 pubDate: 2024-10-20
 category: equipement
+youtubeId: "fStEOfKcybc"
 tags: [éclairage, lampe, panne, secours, LED, lanterne, bougie]
 image: "/images/eclairage-secours.jpg"
 readingTime: 11
