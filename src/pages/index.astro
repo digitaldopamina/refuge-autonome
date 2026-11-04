@@ -226,6 +226,118 @@ const pillars = [
   </section>
   )}
 
+  <!-- SHORTS CAROUSEL -->
+  <section class="section shorts-section">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <p class="label">Chaîne YouTube</p>
+          <h2>Nos derniers Shorts</h2>
+        </div>
+        <div class="shorts-controls">
+          <button class="shorts-btn" id="shorts-prev" aria-label="Précédent">&#8592;</button>
+          <button class="shorts-btn shorts-btn--pause" id="shorts-pause" aria-label="Pause / Lecture">&#9646;&#9646;</button>
+          <button class="shorts-btn" id="shorts-next" aria-label="Suivant">&#8594;</button>
+        </div>
+      </div>
+      <div class="shorts-track-wrap">
+        <div class="shorts-track" id="shorts-track">
+          {[
+            { id: 'j_WOrEM6V2w', title: 'Réserve alimentaire : utilisez d\'abord les plus anciens' },
+            { id: 'mzsIGVMYYAA', title: 'Conserves : lisez l\'étiquette avant de les stocker' },
+            { id: 'TCe4vSqJwAk', title: 'Sans cuisson : 4 questions avant de préparer votre réserve' },
+            { id: 'f2ILqNAeu70', title: 'Kit de survie 72 h : commencez sans achat précipité' },
+            { id: 'nkUuXbbHXFA', title: 'Panne de réseau : radio, lampe et téléphone dans le kit 72 h' },
+            { id: 'Rz8bky0wrzY', title: '6 litres d\'eau : comment préparer sans alourdir le sac ?' },
+            { id: 'pp02sHP1m1Y', title: 'Préparer son foyer : 3 étapes simples pour commencer' },
+            { id: 'bZ2eCGJCtVo', title: 'Kit 72 h : pourquoi 6 litres d\'eau par personne ?' },
+            { id: 'yMkODLGwpUQ', title: '72 heures : les secours attendent-ils vraiment 3 jours ?' },
+          ].concat([
+            { id: 'j_WOrEM6V2w', title: 'Réserve alimentaire : utilisez d\'abord les plus anciens' },
+            { id: 'mzsIGVMYYAA', title: 'Conserves : lisez l\'étiquette avant de les stocker' },
+            { id: 'TCe4vSqJwAk', title: 'Sans cuisson : 4 questions avant de préparer votre réserve' },
+            { id: 'f2ILqNAeu70', title: 'Kit de survie 72 h : commencez sans achat précipité' },
+            { id: 'nkUuXbbHXFA', title: 'Panne de réseau : radio, lampe et téléphone dans le kit 72 h' },
+            { id: 'Rz8bky0wrzY', title: '6 litres d\'eau : comment préparer sans alourdir le sac ?' },
+            { id: 'pp02sHP1m1Y', title: 'Préparer son foyer : 3 étapes simples pour commencer' },
+            { id: 'bZ2eCGJCtVo', title: 'Kit 72 h : pourquoi 6 litres d\'eau par personne ?' },
+            { id: 'yMkODLGwpUQ', title: '72 heures : les secours attendent-ils vraiment 3 jours ?' },
+          ]).map(s => (
+            <a class="short-card" href={`https://www.youtube.com/shorts/${s.id}`} target="_blank" rel="noopener" aria-label={s.title}>
+              <div class="short-thumb-wrap">
+                <img
+                  src={`https://img.youtube.com/vi/${s.id}/hqdefault.jpg`}
+                  alt={s.title}
+                  loading="lazy"
+                  width="180"
+                  height="320"
+                />
+                <div class="short-play-btn" aria-hidden="true">
+                  <svg viewBox="0 0 68 48" width="38" height="27"><path d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z" fill="#ff0000"/><path d="M45 24 27 14v20" fill="#fff"/></svg>
+                </div>
+              </div>
+              <p class="short-card-title">{s.title}</p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    (function() {
+      var track = document.getElementById('shorts-track');
+      if (!track) return;
+
+      var CARD_W = 160 + 16; // card width + gap
+      var N = 9; // number of original cards
+      var HALF = CARD_W * N; // width of one set
+      var pos = 0;
+      var paused = false;
+      var speed = 0.5; // px per frame
+      var raf;
+
+      function step() {
+        if (!paused) {
+          pos += speed;
+          if (pos >= HALF) pos -= HALF;
+          track.style.transform = 'translateX(-' + pos + 'px)';
+        }
+        raf = requestAnimationFrame(step);
+      }
+      step();
+
+      var pauseBtn = document.getElementById('shorts-pause');
+      if (pauseBtn) {
+        pauseBtn.addEventListener('click', function() {
+          paused = !paused;
+          pauseBtn.innerHTML = paused ? '&#9654;' : '&#9646;&#9646;';
+          pauseBtn.setAttribute('aria-label', paused ? 'Lecture' : 'Pause');
+        });
+      }
+
+      function snapToCard(dir) {
+        var current = Math.round(pos / CARD_W);
+        var target = (current + dir + N * 100) % N;
+        pos = target * CARD_W;
+        if (pos >= HALF) pos -= HALF;
+        track.style.transform = 'translateX(-' + pos + 'px)';
+      }
+
+      var prevBtn = document.getElementById('shorts-prev');
+      var nextBtn = document.getElementById('shorts-next');
+      if (prevBtn) prevBtn.addEventListener('click', function() { snapToCard(-1); });
+      if (nextBtn) nextBtn.addEventListener('click', function() { snapToCard(1); });
+
+      // Pause on hover
+      var wrap = track.closest('.shorts-track-wrap');
+      if (wrap) {
+        wrap.addEventListener('mouseenter', function() { paused = true; if(pauseBtn) { pauseBtn.innerHTML = '&#9654;'; } });
+        wrap.addEventListener('mouseleave', function() { paused = false; if(pauseBtn) { pauseBtn.innerHTML = '&#9646;&#9646;'; } });
+      }
+    })();
+  </script>
+
   <!-- NEWSLETTER -->
   <section class="newsletter-section">
     <div class="container--narrow newsletter-inner">
@@ -510,10 +622,97 @@ const pillars = [
   overflow: hidden;
 }
 
+/* SHORTS */
+.shorts-section {
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border-subtle);
+  border-bottom: 1px solid var(--border-subtle);
+}
+.shorts-controls {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+.shorts-btn {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s, border-color 0.2s;
+  flex-shrink: 0;
+}
+.shorts-btn:hover { background: var(--bg-card-hover); border-color: var(--accent); }
+.shorts-btn--pause { font-size: 0.75rem; letter-spacing: 0.05em; }
+.shorts-track-wrap {
+  overflow: hidden;
+  margin: 0 -1rem;
+  padding: 0.5rem 1rem 1rem;
+  cursor: grab;
+}
+.shorts-track {
+  display: flex;
+  gap: 1rem;
+  width: max-content;
+  will-change: transform;
+}
+.short-card {
+  display: block;
+  width: 160px;
+  flex-shrink: 0;
+  text-decoration: none;
+  color: inherit;
+}
+.short-thumb-wrap {
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  aspect-ratio: 9/16;
+}
+.short-thumb-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+.short-card:hover .short-thumb-wrap img { transform: scale(1.04); }
+.short-play-btn {
+  position: absolute;
+  bottom: 0.6rem;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0.9;
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,0.6));
+  transition: opacity 0.2s;
+}
+.short-card:hover .short-play-btn { opacity: 1; }
+.short-card-title {
+  margin-top: 0.5rem;
+  font-family: var(--font-sub);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 @media (max-width: 768px) {
   .hero-bg-image { background-position: center center; }
   .hero-overlay { background: linear-gradient(to bottom, rgba(var(--bg-primary-rgb,10,10,10),0.7) 0%, var(--bg-primary) 80%); }
   .pillars-grid { grid-template-columns: 1fr; }
   .yt-card { width: 240px; }
+  .short-card { width: 130px; }
 }
 </style>
