@@ -17,6 +17,26 @@ const categoryLabels: Record<string, string> = {
   securite: 'Sécurité',
 };
 
+// Fetch latest YouTube videos from RSS at build time
+let youtubeVideos: { id: string; title: string }[] = [];
+try {
+  const rssRes = await fetch('https://www.youtube.com/feeds/videos.xml?channel_id=UCmb1kCi3xqqSmHFiMUx9o-w');
+  if (rssRes.ok) {
+    const xml = await rssRes.text();
+    const entries = [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)];
+    youtubeVideos = entries.slice(0, 6).map(e => {
+      const idMatch = e[1].match(/watch\?v=([A-Za-z0-9_-]{11})/);
+      const titleMatch = e[1].match(/<title>(.*?)<\/title>/);
+      return {
+        id: idMatch ? idMatch[1] : '',
+        title: titleMatch ? titleMatch[1].replace(/&amp;/g,'&').replace(/&quot;/g,'"') : '',
+      };
+    }).filter(v => v.id);
+  }
+} catch (e) {
+  // fallback: section masquée si RSS indisponible
+}
+
 const pillars = [
   { icon: '🎒', title: 'Préparer', desc: 'Kits 72h, réserves alimentaires et hydrique — les bases pour ne jamais être pris au dépourvu.', href: '/categories/preparation', color: 'var(--accent)', image: '/images/pilier-prepare.jpg' },
   { icon: '⚡', title: 'S\'équiper', desc: 'Énergie solaire, éclairage de secours, communication — l\'équipement qui fait la différence.', href: '/categories/equipement', color: 'var(--green-light)', image: '/images/pilier-equiper.jpg' },
@@ -171,6 +191,7 @@ const pillars = [
   </section>
 
   <!-- YOUTUBE -->
+  {youtubeVideos.length > 0 && (
   <section class="section youtube-section">
     <div class="container">
       <div class="section-header">
@@ -180,36 +201,30 @@ const pillars = [
         </div>
         <a href="https://www.youtube.com/@refugeautonome" target="_blank" rel="noopener" class="btn btn--outline">Voir la chaîne →</a>
       </div>
-      <div class="youtube-grid">
-        <div class="youtube-embed">
-          <div class="youtube-wrapper">
-            <iframe
-              src="https://www.youtube.com/embed/hQuN-RpK6Mk"
-              title="Sac de survie 72 heures : quoi préparer sans se surcharger ?"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-              loading="lazy"
-            ></iframe>
-          </div>
-          <p class="youtube-title">Sac de survie 72 heures : quoi préparer sans se surcharger ?</p>
-        </div>
-        <div class="youtube-embed">
-          <div class="youtube-wrapper">
-            <iframe
-              src="https://www.youtube.com/embed/lCKxGWBDOqM"
-              title="Pourquoi l'État nous recommande de tenir 72 heures ?"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-              loading="lazy"
-            ></iframe>
-          </div>
-          <p class="youtube-title">Pourquoi l'État nous recommande de tenir 72 heures ?</p>
+      <div class="yt-scroll-track">
+        <div class="yt-scroll-row">
+          {youtubeVideos.map(v => (
+            <a class="yt-card" href={`https://www.youtube.com/watch?v=${v.id}`} target="_blank" rel="noopener" aria-label={v.title}>
+              <div class="yt-thumb-wrap">
+                <img
+                  src={`https://img.youtube.com/vi/${v.id}/hqdefault.jpg`}
+                  alt={v.title}
+                  loading="lazy"
+                  width="320"
+                  height="180"
+                />
+                <div class="yt-play-btn" aria-hidden="true">
+                  <svg viewBox="0 0 68 48" width="48" height="34"><path d="M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z" fill="#ff0000"/><path d="M45 24 27 14v20" fill="#fff"/></svg>
+                </div>
+              </div>
+              <p class="yt-card-title">{v.title}</p>
+            </a>
+          ))}
         </div>
       </div>
     </div>
   </section>
+  )}
 
   <!-- NEWSLETTER -->
   <section class="newsletter-section">
@@ -436,37 +451,69 @@ const pillars = [
 
 /* YOUTUBE */
 .youtube-section { border-top: 1px solid var(--border-subtle); }
-.youtube-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
+.yt-scroll-track {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-subtle) transparent;
+  margin: 0 -1rem;
+  padding: 0 1rem 1rem;
 }
-.youtube-wrapper {
+.yt-scroll-track::-webkit-scrollbar { height: 4px; }
+.yt-scroll-track::-webkit-scrollbar-thumb { background: var(--border-subtle); border-radius: 2px; }
+.yt-scroll-row {
+  display: flex;
+  gap: 1.25rem;
+  width: max-content;
+}
+.yt-card {
+  display: block;
+  width: 280px;
+  flex-shrink: 0;
+  text-decoration: none;
+  color: inherit;
+}
+.yt-card:hover .yt-play-btn { transform: translate(-50%,-50%) scale(1.1); }
+.yt-thumb-wrap {
   position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
+  border-radius: 8px;
   overflow: hidden;
   background: var(--bg-card);
   border: 1px solid var(--border-subtle);
+  aspect-ratio: 16/9;
 }
-.youtube-wrapper iframe {
+.yt-thumb-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+.yt-card:hover .yt-thumb-wrap img { transform: scale(1.03); }
+.yt-play-btn {
   position: absolute;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
+  top: 50%; left: 50%;
+  transform: translate(-50%,-50%);
+  transition: transform 0.2s ease;
+  filter: drop-shadow(0 2px 8px rgba(0,0,0,0.5));
 }
-.youtube-title {
-  margin-top: 0.75rem;
+.yt-card-title {
+  margin-top: 0.6rem;
   font-family: var(--font-sub);
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   font-weight: 600;
   color: var(--text-secondary);
   line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 @media (max-width: 768px) {
   .hero-bg-image { background-position: center center; }
   .hero-overlay { background: linear-gradient(to bottom, rgba(var(--bg-primary-rgb,10,10,10),0.7) 0%, var(--bg-primary) 80%); }
   .pillars-grid { grid-template-columns: 1fr; }
-  .youtube-grid { grid-template-columns: 1fr; }
+  .yt-card { width: 240px; }
 }
 </style>
