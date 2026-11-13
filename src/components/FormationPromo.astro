@@ -1,0 +1,60 @@
+---
+interface Props {
+  compact?: boolean;
+}
+
+const { compact = false } = Astro.props;
+const formationUrl = 'https://dopaminadigital1.gumroad.com/l/mon-foyer-pret-72-heures';
+---
+
+<aside class:list={['formation-promo', { 'formation-promo--compact': compact }]} aria-label="Formation Mon foyer prêt pour 72 heures">
+  <div class="formation-promo__content">
+    <p class="formation-promo__eyebrow">Formation pratique · 19 €</p>
+    <h2>Mon foyer prêt pour 72 heures</h2>
+    <p>
+      Un plan simple pour préparer votre foyer et adapter votre kit 72 heures à votre famille.
+    </p>
+  </div>
+  <div class="formation-promo__action">
+    <a class="btn btn--primary" href={formationUrl} target="_blank" rel="noopener noreferrer">
+      Voir la formation — 19 €
+    </a>
+    <span>Achat et accès sur Gumroad</span>
+  </div>
+</aside>
+
+<style>
+.formation-promo {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 2rem;
+  padding: clamp(1.5rem, 3vw, 2.5rem);
+  border: 1px solid var(--accent);
+  background: linear-gradient(120deg, #21190f, var(--bg-card) 60%);
+  box-shadow: inset 4px 0 0 var(--accent);
+}
+.formation-promo__eyebrow {
+  color: var(--accent-light);
+  font-family: var(--font-sub);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.formation-promo h2 { margin: 0.35rem 0 0.75rem; font-size: clamp(1.35rem, 2vw, 1.9rem); }
+.formation-promo__content > p:not(.formation-promo__eyebrow) {
+  max-width: 65ch;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+.formation-promo__action { display: flex; flex-direction: column; align-items: center; gap: 0.5rem; }
+.formation-promo__action .btn { white-space: nowrap; text-align: center; justify-content: center; }
+.formation-promo__action span { color: var(--text-secondary); font-size: 0.7rem; }
+.formation-promo--compact { grid-template-columns: 1fr; gap: 1.25rem; margin-bottom: 2rem; }
+.formation-promo--compact .formation-promo__action { align-items: flex-start; }
+@media (max-width: 800px) {
+  .formation-promo { grid-template-columns: 1fr; }
+  .formation-promo__action { align-items: stretch; }
+}
+</style>

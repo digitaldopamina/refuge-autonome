@@ -2,6 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import FormationPromo from '../components/FormationPromo.astro';
 
 const products = [
   { name: "Kit d'urgence 72h complet", price: "89€", tag: "Bestseller", emoji: "🎒", desc: "Kit pré-assemblé pour 1 adulte : eau, nourriture, premiers secours, éclairage. Prêt en 5 minutes.", cat: "Préparation" },
@@ -14,19 +15,22 @@ const products = [
   { name: "Panneau solaire portable 100W", price: "129€", tag: "", emoji: "☀️", desc: "Compatible toutes stations de recharge portables, pliable, efficace même par temps nuageux.", cat: "Énergie" },
 ];
 ---
-<BaseLayout title="Boutique — Équipements recommandés" description="Notre sélection de matériel de préparation testé et recommandé.">
+<BaseLayout title="Boutique — Formation et équipements recommandés" description="Une formation pratique pour préparer votre foyer, puis une sélection de matériel.">
   <Header />
   <main>
     <section class="page-header">
       <div class="container">
         <p class="label">La Réserve</p>
-        <h1>Équipements recommandés</h1>
-        <p class="page-desc">Sélection testée et validée. Certains liens sont affiliés — cela ne change pas votre prix.</p>
+        <h1>Formation et équipements recommandés</h1>
+        <p class="page-desc">Commencez par une méthode claire pour votre foyer, puis choisissez le matériel utile. Certains liens vers les équipements sont affiliés — cela ne change pas votre prix.</p>
       </div>
     </section>
 
     <section class="section">
       <div class="container">
+        <div class="formation-feature">
+          <FormationPromo />
+        </div>
         <div class="products-grid">
           {products.map(p => (
             <div class="product-card">
@@ -53,6 +57,7 @@ const products = [
 .page-header h1 { font-size: 2.5rem; margin: 0.5rem 0; }
 .page-desc { color: var(--text-secondary); font-style: italic; font-size: 0.875rem; }
 .section { padding: 3rem 0 5rem; }
+.formation-feature { margin-bottom: 2.5rem; }
 .products-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);

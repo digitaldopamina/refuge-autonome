@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import FormationPromo from '../components/FormationPromo.astro';
 
 interface ArticleData {
   title: string;
@@ -244,6 +245,8 @@ const relatedArticles = allArticles
             <img src={image} alt={title} class="article-hero-image" loading="eager" />
           </div>
         )}
+
+        {slug === 'kit-urgence-72h' && <FormationPromo compact />}
 
         <!-- Article Body -->
         <div class="prose">
