@@ -215,7 +215,7 @@ const pillars = [
       </div>
       <div class="yt-scroll-track">
         <div class="yt-scroll-row" id="yt-track">
-          {[...youtubeVideos, ...youtubeVideos].map((v, i) => (
+          {[...youtubeVideos, ...youtubeVideos, ...youtubeVideos, ...youtubeVideos].map((v, i) => (
             <a class="yt-card" href={`https://www.youtube.com/watch?v=${v.id}`} target="_blank" rel="noopener" aria-label={v.title}>
               <div class="yt-thumb-wrap">
                 <img
@@ -244,7 +244,7 @@ const pillars = [
       if (!track) return;
 
       var CARD_W = 280 + 20; // card width + gap
-      var N = track.querySelectorAll('.yt-card').length / 2; // original count
+      var N = track.querySelectorAll('.yt-card').length / 4; // original count (cards duplicated x4)
       var HALF = CARD_W * N;
       var pos = 0;
       var paused = false;
