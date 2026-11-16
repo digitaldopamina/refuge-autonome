@@ -21,7 +21,10 @@ const categoryLabels: Record<string, string> = {
 // Fetch latest YouTube videos from RSS at build time
 let youtubeVideos: { id: string; title: string }[] = [];
 try {
-  const rssRes = await fetch('https://www.youtube.com/feeds/videos.xml?channel_id=UCmb1kCi3xqqSmHFiMUx9o-w');
+  const rssRes = await fetch('https://www.youtube.com/feeds/videos.xml?channel_id=UCmb1kCi3xqqSmHFiMUx9o-w', {
+    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)' },
+    signal: AbortSignal.timeout(8000),
+  });
   if (rssRes.ok) {
     const xml = await rssRes.text();
     const entries = [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)];
