@@ -31,7 +31,7 @@ const currentPath = Astro.url.pathname;
     </nav>
 
     <div class="header-cta">
-      <a href="/newsletter" class="btn btn--outline" style="font-size:0.75rem;padding:0.5rem 1.25rem;">
+      <a href="/#newsletter" class="btn btn--outline" style="font-size:0.75rem;padding:0.5rem 1.25rem;">
         Rejoindre
       </a>
     </div>
@@ -45,7 +45,7 @@ const currentPath = Astro.url.pathname;
     {navLinks.map(link => (
       <a href={link.href} class="mobile-nav-link">{link.label}</a>
     ))}
-    <a href="/newsletter" class="btn btn--primary" style="margin:1rem 1.5rem;">Rejoindre le Refuge</a>
+    <a href="/#newsletter" class="btn btn--primary" style="margin:1rem 1.5rem;">Rejoindre le Refuge</a>
   </div>
 </header>
 
